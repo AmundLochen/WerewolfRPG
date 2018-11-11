@@ -1,3 +1,177 @@
-<p>
-  tribes-detail works!
-</p>
+<div *ngIf="tribe">
+	<div id="tribeTitle" class="row">
+		<h1 class="col-sm">{{tribe.name}}</h1>
+	</div>
+	<img id="tribeLogo" src="./assets/Tribes/{{tribe.nickname}}/logo.png" class="img-fluid">
+	<div class="row">
+		<span class="col-sm"><br></span>
+	</div>
+	<div id="quote" class="row">
+		<p class="col-sm" [innerHTML]="tribe.quote"></p>
+	</div>
+	<div class="row">
+	<div class="col-sm-2"></div>
+	<div class="col-sm-8">
+		<ngb-tabset>
+			<ngb-tab title="Basic Information">
+				<ng-template ngbTabContent>
+					<br>
+					<!--<div id="nicknameTitle" class="row">
+						<h4 class="col-sm">Nickname:</h4>
+					</div>
+					<div id="nickname" class="row">
+						<p class="col-sm">{{tribe.nickname}}</p>
+					</div>-->
+					<div id="descriptionTitle" class="row">
+						<h4 class="col-sm">Description:</h4>
+					</div>
+					<div id="description" class="row">
+						<p class="col-sm"[innerHTML]="tribe.description"></p>
+					</div>
+					<div id="giftsTitle" class="row">
+						<h4 class="col-sm"><a routerLink="/gifts">Beginning Gifts:</a></h4>
+					</div>
+					<div *ngFor="let gift of tribe.gifts">
+						<p>{{gift}}</p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Appearance">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="appearanceTitle" class="row">
+						<h4 class="col-sm">Appearance:</h4>
+					</div>
+					<div id="appearance" class="row">
+						<p class="col-sm" [innerHTML]="tribe.appearance"></p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Territory">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="territoryTitle" class="row">
+						<h4 class="col-sm">Kinfolk & Territory:</h4>
+					</div>
+						<div id="territory" class="row">
+						<p class="col-sm" [innerHTML]="tribe.territory"></p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Creation">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="creationTitle" class="row">
+						<h4 class="col-sm">Character Creation:</h4>
+					</div>
+					<div id="creation" class="row">
+						<p class="col-sm" [innerHTML]="tribe.creation"></p>
+					</div>
+					<div id="willpower" class="row">
+						<h4 class="col-sm">Initial Willpower:</h4>
+					</div>
+					<div>
+						<p class="col-sm">{{tribe.willpower}}</p>
+					</div> 
+
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Totem">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="totemTitle" class="row">
+						<h4 class="col-sm">Tribal Totem:</h4>
+					</div>
+					<div id="totem" class="row">
+						<p class="col-sm" [innerHTML]="tribe.totem"></p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Camps">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="campTitle" class="row">
+						<h4 class="col-sm">Camps:</h4>
+					</div>
+					<div *ngFor="let camp of tribe.camps">
+						<p [innerHTML]='camp'></p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+			<ngb-tab title="Stereotypes">
+				<ng-template ngbTabContent>
+					<br>
+					<div id="tribesTitle" class="row">
+						<h3 class="col-sm">Tribes:</h3>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Black Furies'">
+						<div class="col-sm-2"></div>
+						<h5>Black Furies:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.furies}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Bone Gnawers'">
+						<div class="col-sm-2"></div>
+						<h5>Bone Gnawers:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.gnawers}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Children of Gaia'">
+						<div class="col-sm-2"></div>
+						<h5>Children of Gaia:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.children}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Fianna'">
+						<div class="col-sm-2"></div>
+						<h5>Fianna:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.fianna}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Get of Fenris'">
+						<div class="col-sm-2"></div>
+						<h5>Get of Fenris:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.fenris}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Glass Walkers'">
+						<div class="col-sm-2"></div>
+						<h5>Glass Walkers:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.walkers}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Red Talons'">
+						<div class="col-sm-2"></div>
+						<h5>Red Talons:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.talons}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Shadow Lords'">
+						<div class="col-sm-2"></div>
+						<h5>Shadow Lords:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.lords}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Silent Striders'">
+						<div class="col-sm-2"></div>
+						<h5>Silent Striders:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.striders}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Silver Fangs'">
+						<div class="col-sm-2"></div>
+						<h5>Silver Fangs:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.fangs}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Stargazers'">
+						<div class="col-sm-2"></div>
+						<h5>Stargazers:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.stargazers}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Uktena'">
+						<div class="col-sm-2"></div>
+						<h5>Uktena:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.uktena}}"</p>
+					</div>
+					<div class="row" *ngIf="tribe.name != 'Wendigo'">
+						<div class="col-sm-2"></div>
+						<h5>Wendigo:</h5> 
+						<p>&nbsp;"{{tribe.stereotypesTribes.wendigo}}"</p>
+					</div>
+				</ng-template>
+			</ngb-tab>
+		</ngb-tabset>
+		</div>
+	</div>
+</div>

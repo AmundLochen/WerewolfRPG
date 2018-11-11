@@ -1,4 +1,9 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Router, ParamMap } from '@angular/router';
+import { Location } from '@angular/common';
+import { Tribe } from '../tribe';
+import { TribesService }  from '../tribes.service';
+import { NgbTabset, NgbTabContent, NgbTabTitle } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-tribes-detail',
@@ -6,10 +11,22 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./tribes-detail.component.css']
 })
 export class TribesDetailComponent implements OnInit {
+	id: string;
+	tribe: Tribe;
 
-  constructor() { }
+  constructor(private route: ActivatedRoute,
+	private tribesService: TribesService,
+  	private location: Location) { }
 
   ngOnInit() {
+  	this.route.paramMap.subscribe((params: ParamMap) => {
+	  	this.id = params.get('id');
+	  			this.getTribe();
+	  });
   }
+  getTribe(): void {
+
+	  this.tribesService.getTribe(this.id).subscribe((data: Tribe) => this.tribe = data);
+	}
 
 }

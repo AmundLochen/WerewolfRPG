@@ -1,6 +1,6 @@
 @font-face {
-    font-family: mephisto;
-    src: url("/assets/MEPHISTO.TTF");
+    font-family: werewolf;
+    src: url("/assets/WEREWOLF.TTF");
 }
 
 body {
@@ -25,27 +25,27 @@ body {
 }
 
 /deep/ h1 {
-	font-family: mephisto;
+	font-family: werewolf;
 }
 
 /deep/ h2 {
 	color: crimson;
-	font-family: mephisto;
+	font-family: werewolf;
 }
 
 /deep/ h3 {
 	color: crimson;
-	font-family: mephisto;
+	font-family: werewolf;
 }
 
 /deep/ h4 {
 	color: crimson;
-	font-family: mephisto;
+	font-family: werewolf;
 }
 
 /deep/ h5 {
 	color: crimson;
-	font-family: mephisto;
+	font-family: werewolf;
 }
 
 /deep/ .modal-body{

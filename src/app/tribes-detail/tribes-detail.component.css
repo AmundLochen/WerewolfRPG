@@ -1,0 +1,17 @@
+@font-face {
+    font-family: werewolf;
+    src: url("/assets/WEREWOLF.TTF");
+}
+
+#tribeTitle {
+	padding-bottom: 40px;
+}
+
+#tribeLogo {
+	height: 20em;
+}
+
+#quote {
+	font-family: werewolf;
+	color: crimson;
+}
