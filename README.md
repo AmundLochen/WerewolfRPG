@@ -1,2 +1,2 @@
 # WerewolfRPG
-Information site for playing Werewolf: The Apocalypse
+This is a website containing the necessary information to play Werewolf: The Apocalypse.

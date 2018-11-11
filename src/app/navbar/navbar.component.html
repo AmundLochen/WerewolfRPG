@@ -1,0 +1,92 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand" href="#" routerLink="/home">
+    	<img id="logo" src="assets/WerewolfClaws.png" alt="Home" class="img-fluid">
+    </a>
+  <button class="navbar-toggler hidden-sm-up" type="button" (click)="isNavbarCollapsed = !isNavbarCollapsed" data-target="#navbarsDefault" aria-controls="navbarsDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+ 
+    <div  [ngbCollapse]="isNavbarCollapsed" class="collapse navbar-collapse" id="werewolfNavBar">
+      <ul class="navbar-nav mr-auto">
+		<li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown01" ngbDropdownToggle>Information</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown01" ngbDropdownMenu>
+		    <a class="dropdown-item" routerLink="/d10system">The D10 Ruleset</a>	
+    	    <a class="dropdown-item" routerLink="/setting">Setting and Information</a>	
+		  </div>
+		</li>
+        <li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown01" ngbDropdownToggle>Tribes</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown01" ngbDropdownMenu>
+		    <a class="dropdown-item" routerLink="/tribes/Furies">Black Furies</a>
+		    <a class="dropdown-item" routerLink="/tribes/Gnawers">Bone Gnawers</a>
+		    <a class="dropdown-item" routerLink="/tribes/Children">Children of Gaia</a>
+			<a class="dropdown-item" routerLink="/tribes/Fianna">Fianna</a>
+			<a class="dropdown-item" routerLink="/tribes/Fenris">Get of Fenris</a>
+			<a class="dropdown-item" routerLink="/tribes/Walkers">Glass Walkers</a>
+			<a class="dropdown-item" routerLink="/tribes/Talons">Red Talons</a>
+			<a class="dropdown-item" routerLink="/tribes/Lords">Shadow Lords</a>
+			<a class="dropdown-item" routerLink="/tribes/Striders">Silent Striders</a>
+			<a class="dropdown-item" routerLink="/tribes/SilverFangs">Silver Fangs</a>
+			<a class="dropdown-item" routerLink="/tribes/Stargazers">Stargazers</a>
+			<a class="dropdown-item" routerLink="/tribes/Uktena">Uktena</a>
+			<a class="dropdown-item" routerLink="/tribes/Wendigo">Wendigo</a>
+		  </div>
+		</li>
+        <li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown02" ngbDropdownToggle>Attributes</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown02" ngbDropdownMenu>
+		  	<u class="dropdown-item font-weight-bold">Physical</u>
+		    <a class="dropdown-item" routerLink="/attributes/Strength">Strength</a>
+		    <a class="dropdown-item" routerLink="/attributes/Dexterity">Dexterity</a>
+		    <a class="dropdown-item" routerLink="/attributes/Stamina">Stamina</a>
+		    <hr>
+		  	<u class="dropdown-item font-weight-bold">Social</u>
+			<a class="dropdown-item" routerLink="/attributes/Charisma">Charisma</a>
+			<a class="dropdown-item" routerLink="/attributes/Manipulation">Manipulation</a>
+			<a class="dropdown-item" routerLink="/attributes/Apperance">Apperance</a>
+			<hr>
+		  	<u class="dropdown-item font-weight-bold">Mental</u>
+			<a class="dropdown-item" routerLink="/attributes/Perception">Perception</a>
+			<a class="dropdown-item" routerLink="/attributes/Intelligence">Intelligence</a>
+			<a class="dropdown-item" routerLink="/attributes/Wits">Wits</a>
+		  </div>
+		</li>
+        <li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown03" ngbDropdownToggle>Abilities</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown03" ngbDropdownMenu>
+		    <a class="dropdown-item" routerLink="/abilities/Talents">Talents</a>
+		    <a class="dropdown-item" routerLink="/abilities/Skills">Skills</a>
+		    <a class="dropdown-item" routerLink="/abilities/Knowledges">Knowledges</a>
+		  </div>
+		</li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="/gifts">Gifts</a>
+        </li>
+        <li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown04" ngbDropdownToggle>Combat</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown04" ngbDropdownMenu>
+		    <a class="dropdown-item" routerLink="/combat/types">Types</a>
+		    <a class="dropdown-item" routerLink="/combat/stages">Combat Stages</a>
+			<a class="dropdown-item" routerLink="/combat/maneuvers">Maneuvers</a>
+			<a class="dropdown-item" routerLink="/combat/charts">Equipment Charts</a>
+			<a class="dropdown-item" routerLink="/combat/health">Health</a>
+		  </div>
+		</li>
+        <!--<li class="nav-item dropdown" ngbDropdown>
+		  <a class="nav-link dropdown-toggle" id="dropdown05" ngbDropdownToggle>Dramatic Systems</a>
+		  <div class="dropdown-menu" aria-labelledby="dropdown03" ngbDropdownMenu>
+		    <a class="dropdown-item" routerLink="/abilities/Talents">Willpower</a>
+		    <a class="dropdown-item" routerLink="/abilities/Skills">Blood Pools</a>
+		    <a class="dropdown-item" routerLink="/abilities/Knowledges">Humanity</a>
+		  </div>
+		</li>-->
+        <li class="nav-item">
+          <a class="nav-link" href="./assets/W20CharacterSheet.pdf" target="_blank">Character Sheet</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://thetrove.net/Books/World%20of%20Darkness/Classic%20World%20of%20Darkness/Werewolf%20(c)/Werewolf%2020th%20Anniversary/W20%20-%20Core%20Rulebook.pdf" download="rulebook" target="_blank">Core Rulebook</a>
+        </li>
+      </ul>
+    </div>
+</nav>
