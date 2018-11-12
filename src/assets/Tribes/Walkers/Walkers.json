@@ -1,0 +1,42 @@
+{
+	"id": 5,
+	"name": "Glass Walkers",
+	"willpower": "3",
+	"description": "The Glass Walkers are werewolves unlike any other. They have largely abandoned the ancestral ways in favor of a cutting-edge, always-adapting blend of technology and shamanism. They actually prefer urban life to the wilderness, and defend the Scabs as centers of a vibrant ecology all its own. Even if that ecology is often wounded or diseased, it can be made healthy, the Glass Walkers argue. The other tribes often call them urrah, or tainted ones — but the children of Cockroach won’t give up the advantages of modern achievement just to repair their reputation.<br><br> The name “Glass Walkers” makes reference to the vast skyscrapers of the modern world. Before there were cities of glass, the tribe was known as Iron Riders, having embraced the trains and machines of the Industrial Age. In the times before then, they were the City Warders, associating themselves with urban life throughout the ancient, medieval, and Renaissance eras. And before there were even cities, they were the Warders of Men, a tribe that gathered where humans did and watched what their cousins would do next. Other tribes say this proves they have no pride in their identity — but the Glass Walkers’ identity lies in adaptation.<br><br> The Glass Walkers’ fascination with human achievement carries through to their tribal customs. They borrow political structures from human government and corporate organizations, bind spirits into technological devices to create techno-fetishes, create artworks that incorporate fashionable trends and techniques, even preserve some of their tribal lore in shamanically-encrypted hardcopies rather than keeping to the oral traditions. These practices can give them a much-needed edge — after all, most of the forces of the Wyrm, including the Black Spiral Dancers, haven’t adapted quite as well. But their focus on humanity and its works has also weakened the Glass Walkers in some ways. They have few wolf bloodlines left to them —some of their lupus children find the tribal tenets too confusing and seek refuge with another tribe. They treat their metis well, but the number of metis in the tribe speaks to an all-too-human tendency to make bad romantic decisions. They have more enemies than most tribes: vampires are thick in the cities, and don’t care to have urban werewolves muscling in on their turf. Glass Walker Theurges are often over-specialized: they’re masters at dealing with spirits of electricity and the Weaver, but have more difficulty with older spirits of Gaia or the Wyld. If the Garou as a whole have trouble balancing their wolf and human natures, the Glass Walkers are a particularly skewed example.<br><br> Some say the tribe’s in danger of forgetting that they’re Garou. It may even be true for some — but the rest make very dangerous enemies of the Wyrm.<br><br> They establish urban caerns that give their territories a centralized, organized source of spiritual power. They’ve made an art of sabotage, and delight in “monkey-wrenching” companies or organizations that prey too heavily on Gaia’s creation. They followed enough data streams and paper trails to assemble a more complete picture of Pentex and its activities than any other tribe possesses. They know how the system works. They know how to pull strings. And when the time’s right to hit the Wyrm with high explosives, silver bullets, and anti-personnel ordnance, they still remember how to use their fangs and claws as well.",
+	"nickname": "Walkers",
+	"appearance": "Glass Walkers have the easiest time blending in with other humans, but even they have a predatory presence that bleeds through from time to time. They have no Pure Breed, and their wolf forms are frequently mottled, multicolored, or brindled.",
+	"territory": "Glass Walkers tend to treat their Kin almost like “human resources,” with all the subcontracting and delegation that implies. They breed almost exclusively with humans that catch their eye, save for a few protected packs of wolves on privately-owned land. Naturally, their territories are almost entirely urban, usually tied to some human source of power — corporate, scientific, or even criminal.",
+	"creation": "Glass Walkers favor modern skill sets, such as Drive, Firearms, and Computer. Mentor is a discouraged Background: the Glass Walkers don’t believe much in the old ways. Their restricted Backgrounds are Pure Breed (which they stopped cultivating centuries ago) and Ancestors (their lack of interest in the past has eroded their spiritual ties to its wisdom). Most have at least a dot or two of Resources.",
+	"gifts": [
+		"Control Simple Machine",
+		"Diagnostics",
+		"Persuasion",
+		"Plug and Play",
+		"Trick Shot"],
+	"camps": [
+		"<b>Random Interrupts:</b> The current top dogs of the tribe, who attempt to broaden the horizon of the Garou for new developments in the umbral landscape and explore the world of new technologies, establishing a firm presence on the internet and valuing their top-notch communication. ",
+		"<b>Corporate Wolves:</b> They insert themselves strongly in the corporate world and strive to keep Wyrm-influenced corporations like Pentex in check.",
+		"<b>Wise Guys:</b> A camp on the decline that focuses on organized crime. Originally, it had strong ties with the Mafia. ",
+		"<b>City Farmers:</b> They cultivate greenscapes within cities in order to nurture enclaves of the Wyld within the webs of the Weaver. ",
+		"<b>Dies Ultima:</b> A doomsday cult and mercenary unit that prepares for the Apocalypse by studying urban tactics and spiritual warfare, even allowing Kinfolk to join their ranks. ",
+		"<b>Umbral Pilots:</b> They explore the Deep Umbra for science. ",
+		"<b>The CyberDogs:</b> They dabbled in cyberneticism (and Weaver tech) and tried to machinize Gaia to make her more resilient against the Wyrm. The Camp was stripped of much of its power, but still persist. "
+	],
+	"totem": "Cockroach may not be pretty, but it’s an avatar of adaptation and survival. The Glass Walkers honor Cockroach and its brood of technological and adaptive entities such as Gremlins, Scab Birds, and the bizarre financial Mula’Krante or “money spiders.”",
+	"quote": "Look, a city’s like any other spider web.<br> There are sticky strands, and there are clean strands.<br> If you stay on the clean strands you don’t get caught —<br> and you have a good foothold in case you need to cut something loose.",
+	"stereotypesTribes": {
+		"furies": "We’re all for helping you with the troubles in the human world. But you have to come out of the Wyld places and focus on human society to make lasting progress.",
+		"gnawers": "It’s hard to believe they’re down in the gutters by choice. They’re either very brave, or completely crazy. Probably some of each.",
+		"children": "You have to respect the willpower it takes for a Garou to try for compassion instead of Rage. It’s like quitting smoking every day of your life.",
+		"fianna": "Usually pretty reliable, even if they lean on storyteller’s logic more than the real thing.",
+		"fenris": "I guess we need all the weapons of mass destruction we can get, but I’d honestly prefer not to have a hair-trigger on a nuke.",
+		"walkers": "",
+		"talons": "It’s not my damn fault you didn’t adapt, and I’m not going to let you wreck my home and murder my Kin just to cope.",
+		"lords": "They’ve got their heads in the right place when it comes to pragmatic solutions. I don’t know about their hearts, mind.",
+		"striders": "If it’s information someone put into a computer, you don’t need a Strider for it. But they’re good at finding the other stuff.",
+		"fangs": "Are we seriously still pretending that a hereditary monarchy has some sort of intrinsically superior value? Blood will get you only so far.",
+		"stargazers": "I don’t know if you guys noticed, but the war’s going on in the material world right now.",
+		"uktena": "They study all kinds of things we barely even know about. That’s respectable, and also enough to give me the cold sweats.",
+		"wendigo": "I always feel they’re looking at me like they’re imagining my head on a pike. Makes it hard to extend the olive branch, you know?"	
+	}
+}

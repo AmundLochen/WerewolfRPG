@@ -12,8 +12,10 @@ body {
 }
 
 /deep/ body {
-	background-color: black;
+	background-image: linear-gradient(#21548d, #000000);
 	color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /deep/ a {
@@ -29,22 +31,22 @@ body {
 }
 
 /deep/ h2 {
-	color: crimson;
+	color: gold;
 	font-family: werewolf;
 }
 
 /deep/ h3 {
-	color: crimson;
+	color: gold;
 	font-family: werewolf;
 }
 
 /deep/ h4 {
-	color: crimson;
+	color: gold;
 	font-family: werewolf;
 }
 
 /deep/ h5 {
-	color: crimson;
+	color: gold;
 	font-family: werewolf;
 }
 

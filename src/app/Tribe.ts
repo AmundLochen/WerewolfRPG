@@ -5,10 +5,8 @@ export class Tribe {
 	nickname: string;
 	appearance: string;
 	territory: string;
-	background: string;
 	creation: string;
 	gifts: string[];
-	organization: string;
 	camps: string[];
 	quote: string;
 	totem: string;
