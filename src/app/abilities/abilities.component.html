@@ -1,3 +1,104 @@
-<p>
-  abilities works!
-</p>
+<div *ngIf="abilityType">
+	<div id="abilityTitle" class="row">
+		<h1 class="col-sm">{{abilityType.name}}</h1>
+	</div>
+	<div class="row">
+		<div class="col-sm-1"></div>
+		<div class="col-sm-10">
+			<div id="abilityDescription" class="row">
+				<p class="col-sm">{{abilityType.description}}</p>
+			</div>
+			<div class="row">
+				<div class="col-sm-1"></div>
+				<div class="p-3" *ngFor="let abil of abilityType.abilities">
+					<button type="button" class="col-sm btn btn-secondary" routerLink="/abilities/{{abilityType.name}}/{{abil}}">{{abil}}</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-2"></div>
+				<div class="col-sm-8" *ngIf="selectedAbility">
+					<br>
+					<br>
+					<div class="row">
+						<h4 class="col-sm">{{selectedAbility.name}}</h4>
+					</div>
+					<div class="row">
+						<p class="col-sm" [innerHTML]="selectedAbility.description"></p>
+					</div>
+					<hr>
+					<h4>Levels</h4>
+					<div class="row text-left">
+						<div class="col-sm-3"></div>
+						<div class="col-sm-1">&#9679;</div>
+						<div class="col-sm"> Poor: {{selectedAbility.levels.one}}</div>
+					</div>
+					<div class="row text-left">
+						<div class="col-sm-3"></div>
+						<div class="col-sm-1 ">&#9679;&#9679;</div>
+						<div class="col-sm ">Average: {{selectedAbility.levels.two}}</div>
+					</div>
+					<div class="row text-left">
+						<div class="col-sm-3"></div>
+						<div class="col-sm-1">&#9679;&#9679;&#9679;</div>
+						<div class="col-sm">Good: {{selectedAbility.levels.three}}</div>
+					</div>
+					<div class="row text-left">
+						<div class="col-sm-3"></div>
+						<div class="col-sm-1">&#9679;&#9679;&#9679;&#9679;</div>
+						<div class="col-sm">Exceptional: {{selectedAbility.levels.four}}</div>
+					</div>
+					<div class="row text-left">
+						<div class="col-sm-3"></div>
+						<div class="col-sm-1">&#9679;&#9679;&#9679;&#9679;&#9679;</div>
+						<div class="col-sm">Outstanding: {{selectedAbility.levels.five}}</div>
+					</div>
+					<hr >
+					<div class="row">
+						<div class="col-sm">
+							<h5>Possessed by:</h5> {{selectedAbility.possessedBy}}
+						</div>
+					</div>
+					<hr>
+					<div class="row">
+						<div class="col-sm">
+							<h5><a (click)="open(content)" routerLink="#">Specialties:</a></h5> {{selectedAbility.specialties}}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<ng-template #content let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h4 class="modal-title">Specialties:</h4>
+  </div>
+  <div class="modal-body">
+  	<p>
+  		Some characters are especially good at
+		particular applications of their Traits. For
+		example, a mechanic might be particularly
+		good with muscle cars, a thief might excel at
+		breaking and entering, or a brawler might be
+		infamous as a dirty fighter. To represent this,
+		characters with ratings of 4 or higher in Attributes or 
+		Abilities may choose specialties for those Traits.
+  	</p>
+  	<p>
+		A specialty is a particular subcategory of an
+		Attribute or Ability — thus, a character with
+		a Strength 5 might choose to be especially
+		adept in deadlifting, while a character with
+		Performance 4 might be renowned for her
+		singing. Whenever a player makes a die roll
+		involving an activity in which her character
+		has specialized, she may count any die that
+		comes up “10” as two successes instead of just
+		one.
+	</p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-default" (click)="c('Close click')">Close</button>
+  </div>
+</ng-template>

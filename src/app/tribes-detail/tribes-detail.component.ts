@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router, ParamMap } from '@angular/router';
 import { Location } from '@angular/common';
-import { Tribe } from '../tribe';
+import { Tribe } from '../Tribe';
 import { TribesService }  from '../tribes.service';
 import { NgbTabset, NgbTabContent, NgbTabTitle } from '@ng-bootstrap/ng-bootstrap';
 
