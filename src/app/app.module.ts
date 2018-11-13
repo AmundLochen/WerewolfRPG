@@ -13,6 +13,11 @@ import { GiftsComponent } from './gifts/gifts.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { SettingComponent } from './setting/setting.component';
 import { AppRoutingModule } from './/app-routing.module';
+import { ChartsComponent } from './combat/charts/charts.component';
+import { HealthComponent } from './combat/health/health.component';
+import { ManeuversComponent } from './combat/maneuvers/maneuvers.component';
+import { StagesComponent } from './combat/stages/stages.component';
+import { TypesComponent } from './combat/types/types.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +29,12 @@ import { AppRoutingModule } from './/app-routing.module';
     D10systemComponent,
     GiftsComponent,
     NavbarComponent,
-    SettingComponent
+    SettingComponent,
+    ChartsComponent,
+    HealthComponent,
+    ManeuversComponent,
+    StagesComponent,
+    TypesComponent
   ],
   imports: [
     BrowserModule,
