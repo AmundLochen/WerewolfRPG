@@ -1,0 +1,14 @@
+{
+	"id": 8,
+	"name": "Streetwise",
+	"description": "A character with this Talent is at home on the streets. He can fit in with rough crowds, knows who to ask for information, understands slang, and can buy and sell whatever people want to trade.<br><br> The network of criminals, junkies, and lowlifes who live on the streets will turn on an outsider, but if he’s careful, a streetwise werewolf can get his hands on almost anything.",
+	"levels": {
+		"one": "You know who’s holding.",
+		"two": "You get a measure of respect on the street.",
+		"three": "You could head up your own gang.",
+		"four": "You have connections throughout the criminal underworld.",
+		"five": "If you haven’t heard it, it hasn’t been said."
+	},
+	"possessedBy": "Homeless People, Bone Gnawers, Criminals, Gang Members, Detectives, Beat Cops",
+	"specialties": "Fencing, Illegal Drugs, Illegal Guns, Gangs, Unsecured Wifi"
+}

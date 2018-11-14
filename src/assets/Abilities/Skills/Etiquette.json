@@ -1,0 +1,14 @@
+{
+	"id": 3,
+	"name": "Etiquette",
+	"description": "Etiquette is the ability to be nice to people, whatever you think of them. Part of that is good manners and social niceties, but it’s also useful for the subtler side of diplomacy, knowing when to haggle, and what to do when a place setting has more knives than a serial killer’s basement.<br><br> While a character understands the culture in which he was raised, the Storyteller may raise the difficulty should he be faced with traditions and mores that are not his own.",
+	"levels": {
+		"one": "You know when to speak, and when to shut up and listen.",
+		"two": "You’ve been to black-tie and white-tie events.",
+		"three": "You don’t blink when faced with an oyster fork at a formal dinner.",
+		"four": "You’d fit right in when dining with royalty.",
+		"five": "With the right people at a dinner, you can end wars — or start them."
+	},
+	"possessedBy": "Socialites, Diplomats, Silver Fangs, Executives",
+	"specialties": "High Society, Moots, Tribal, Big Business"
+}

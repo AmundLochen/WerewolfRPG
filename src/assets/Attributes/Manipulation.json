@@ -1,0 +1,12 @@
+{
+	"name": "Manipulation",
+	"description": "Manipulation is the fine art of getting other people to do what you want through the time-honored means of tricks, bluffs, fast-talking, and railroading. Unlike Charisma, your target doesn’t have to trust you, or even like you — a master manipulator takes her target’s attitude into account, relying on subtle personality hooks and reverse psychology to control everyone around him.<br><br>  Botching a Manipulation roll can bring down the wrath of the intended target. Everyone’s manipulated every single day, but bringing it to people’s attention quickly makes them defensive. This Attribute is generally easier for homids to master than it is for lupus, although many lower-status wolves are no stranger to the idea.",
+	"levels": {
+		"one": "You’d have trouble getting a starving wolf to eat freshly killed rabbit.",
+		"two": "You’re as sly as the next person; sometimes you got it, sometimes you don’t.",
+		"three": "You always get a discount for cash or one for the road.",
+		"four": "Folks do what you want them to, whether they realize it or not.",
+		"five": "You could turn a pack against their own totem, if you wished."
+	},
+	"specialties": ["Forked Tongue", "Unswerving Logic", "Doubletalk", "Seduction"]
+}

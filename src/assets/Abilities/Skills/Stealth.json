@@ -1,0 +1,14 @@
+{
+	"id": 8,
+	"name": "Stealth",
+	"description": "Stealth allows a character to avoid being seen or heard, whether moving through cover and shadows, hiding in a crowd, or shadowing someone on his route home. Most uses of Stealth are contested by someone else’s Perception + Alertness, with whoever rolls the most successes thwarting the other.<br><br> The Storyteller should keep in mind that staying hidden in a forest is very different to hiding out in an urban alleyway. Stealth is also used for hiding items, either on one’s person when being searched or in the environment.",
+	"levels": {
+		"one": "You can hide in full darkness.",
+		"two": "You know how to stick to the shadows when moving.",
+		"three": "You have little difficulty following your prey without being spotted.",
+		"four": "Dry leaves and twigs don’t give away your position.",
+		"five": "If you don’t want to be seen, you’re as good as invisible."
+	},
+	"possessedBy": "Cat Burglars, Ragabash, Hunters, Snipers, Assassins",
+	"specialties": "Shadowing, Urban, Taking Point, Crowds, Hiding Objects"
+}
