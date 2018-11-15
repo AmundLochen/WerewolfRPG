@@ -1,0 +1,12 @@
+{
+	"name": "Appearance",
+	"description": "Appearance measures how well a character makes a first impression. It covers posture, body language, and unconscious expressions along with physical appearance — anything remarkable on first impression can contribute to a character’s Appearance. Appearance is subconscious and instinctual; as such, even lupus with no context for what makes an “attractive” human being still react to people who make strong first impressions.<br><br> When first impressions are paramount, or people set a great deal of stock by how someone looks and carries herself, a character can have no more dice in a Social dice pool than her Appearance Trait. It’s important to either get to know people or dress to impress before you try convincing them to burn down a Hive.",
+	"levels": {
+		"one": "You turn off both wolves and humans with your presence.",
+		"two": "You're just another face in the crowd.",
+		"three": "People keep trying to buy you drinks, even if you refuse.",
+		"four": "People stop you in the street just to make your acquaintance.",
+		"five": "Nobody can forget meeting you."
+	},
+	"specialties": ["Genial", "Exotic", "Alluring", "Noble Bearing"]
+}

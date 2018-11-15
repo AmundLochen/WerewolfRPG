@@ -1,0 +1,5 @@
+{
+	"name": "Knowledges",
+	"description": "Knowledge Abilities develop from time spent in classroom learning, private tutoring, or rigorous independent study. Because they focus more on what you character knows rather than what he does, Knowledges normally involve the use of Mental Attributes. Lupus often have fewer Knowledges than homid characters — not because they’re unintelligent, but because they are less likely to have had several years of compulsory schooling. If a character doesn’t have any dots in a Knowledge Ability, she can’t make a roll for it. While this may seem odd, most of what’s considered “common knowledge” doesn’t require a roll in the first place, much as someone with the Drive Skill doesn’t need to roll to drive to the store.",
+	"abilities": ["Academics", "Computer", "Enigmas", "Investigation", "Law", "Medicine", "Occult", "Rituals", "Science", "Technology"]
+}

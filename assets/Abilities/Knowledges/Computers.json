@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"name": "Computer",
+	"description": "Computer defines the character’s ability to operate and program computers, from traditional desktops and laptops to cellphones and tablets. A character with this Knowledge is also assumed to have a general familiarity with the Internet, including the use of search engines and online research resources.<br><br> At higher levels, you can write software and create convincing fake websites, and even use system vulnerabilities to break in to secure networks.",
+	"levels": {
+		"one": "You’re at home with a smartphone or a traditional point-and-click interface.",
+		"two": "You’re familiar with most major operating systems and applications, and don’t get scared at a command prompt.",
+		"three": "You can develop websites, write custom software, and provide tech support to the rest of your pack.",
+		"four": "You can make a very comfortable living as a consultant.",
+		"five": "You’re well on your way to making the next big thing to rival Google or the iPhone."
+	},
+	"possessedBy": "Students, Office Workers, Programmers, Tech Journalists, Tech Support",
+	"specialties": "Internet Research, Video Editing, Photo Manipulation, Programming, Computer Languages"
+}

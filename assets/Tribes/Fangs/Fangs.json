@@ -1,0 +1,40 @@
+{
+	"id": 9,
+	"name": "Silver Fangs",
+	"willpower": "3",
+	"description": "The Silver Fangs are first among the tribes, as they are quick to point out. Descendants of great heroes and monarchs, every one, the tribe of Falcon claims the role of leadership of the Garou Nation. They trace their bloodline back to the Progenitor Wolf, a genealogy of the noblest human blood and the finest wolf ancestors. Through the ages, they have been at the forefront of the war, the proudest and most magnificent Garou — and to hear the Silver Fangs tell it, that is still true.<br><br> Other tribes have their doubts, though. Some charge that the Silver Fang’s obsession with pure blood has brought them to inbreeding, and their once-clear minds have grown feeble and clouded through the generations. Weak kings demand respect for the deeds of their ancestors, not their own. Mad leaders care more for the details of their courtly traditions than for the war against the Wyrm. Far too many fall to Harano for them to be a healthy tribe.<br><br> Both viewpoints have some truth to them. The Silver Fangs do indeed descend from great heroes, and they have also suffered from their preference for aristocratic Kinfolk over healthy and intelligent Kin. Many are as bad as their critics claim, but some still shine with the light of old heroism. In some ways, they are exactly the exemplars of the Garou they claim to be — the strengths and the afflictions of the Garou Nation are reflected in the story of the Silver Fangs.<br><br> From their First Change, the Silver Fangs learn that they are meant to rule — not that it is their destiny, or their right, but their purpose. The best of them interpret this mandate as a form of noblesse oblige: that they must lead by example in peace and in war. The worst seize upon it as justification for tyranny. Their aristocratic Kinfolk families raise their children with a sense of being “above the rest.” Their lupus Kin, of course, have no real sense of nobility per se. But the Fangs carefully protect them with the fullness of their resources, so many Silver Fang lupus still enjoy a more privileged youth than do the wolf-born of other tribes. Metis are treated somewhat paradoxically: on the one hand they are signs of impurity that impugn the famous Silver Fang pride, but on the other, metis with two Fang parents have arguably some of the purest blood in the Nation. A metis may never be king, but he may still receive some respect for his forebears (if not for his parents’ shame).<br><br> Silver Fang society borrows a few “regal” traditions that are not seen in other tribes. They organize into Houses first and camps second, and their territories (or “protectorates”) are ruled by kings — by tradition, always Ahroun. They divide their courts into two lodges: the Lodge of the Sun deals with material and worldly matters, while the Lodge of the Moon focuses on spirituality and issues concerning the wolf lines. Their moots are remarkably convoluted, hinging on baroque rituals of etiquette that would scarcely be tolerated by any other tribe.<br><br>  As the Apocalypse unfurls, the role of the Silver Fangs is deeply controversial. Many Garou uphold tradition by acknowledging the Fangs as still worthy of leadership. Others treat them as figureheads to be openly respected and then quietly ignored when necessary. Still others chafe to be rid of them, the Shadow Lords most of all.<br><br> But the Silver Fangs have yet to fall completely. The charisma of their forebears is still strong in the tribe; those that are willing to reach out to the other tribes are surprisingly adept at rallying septs to unite for war. Time will tell if these last vestiges of true nobility will be enough to keep the tribe, and by extension the Garou Nation unified, or if the Silver Fangs have been tarnished and blunted too long.",
+	"nickname": "Fangs",
+	"appearance": "Silver Fangs are of aristocratic human stock, and tend to have strong family resemblances within their bloodlines. Their wolf forms have clean silver or white coats, long jaws and full tail brushes. They are fond of jewelry and ornately worked equipment as a sign of their status.",
+	"territory": "Silver Fangs are very concerned with the genealogy of their Kinfolk, keeping extensive records about the bloodlines of their human relatives. Their human Kin come from noble blood, not wealth; their wolf Kin obviously have no equivalent, but the Fangs still carefully protect their wolf cousins on tribal preserves. The Silver Fangs had their origins in the lands that are now Russia, and today they claim septs in the most desirable territories around the world, often commandeered from other tribes.",
+	"creation": "Silver Fangs stress the necessity of leadership, and consequently they are prone to have strong Social Attributes and corresponding Abilities. Many Silver Fang",
+	"gifts": [
+		"Eye of the Falcon",
+		"Falcon's Grasp",
+		"Inspiration",
+		"Lambent Flame",
+		"Sense Wyrm"],
+	"camps": [
+		"<b>Royalists:</b> The tribe's traditionalists, the Royalists wish to return the 'good old days' where all other tribes bent the knee to the Silver Fangs. For obvious reasons, the Royalists do not get along well with the Renewalists. ",
+		"<b>Renewalists:</b> Home to the tribe's 'young Turks', the Renewalists advocate the integration of new ideas and, perhaps, new blood into the tribe, to stave off stagnation. For obvious reasons, the Renewalists do not get along well with the Royalists. ",
+		"<b>Ivory Priesthood:</b> Less a faction than the tribe's self-appointed arcane researchers, the Ivory Priests research the secrets of death and life. ",
+		"<b>Grey Raptors:</b> Perhaps best described as an extremist sect of the Royalists, the Grey Raptors take it upon themselves to pass judgment upon those whom defy the Silver Fangs. ",
+		"<b>Masters of the Seal:</b> The tribe's most secret camp, the Masters of the Seal are thieves, dispatched to steal the most damaging and most useful secrets from the other tribes. "
+	],
+	"totem": "Falcon, who inspires from on high. Silver Fangs are particularly dedicated to allied avian or solar spirits, such as Firebirds, the Talons of Horus, and the Children of Karnak.",
+	"quote": "I ask nothing of you that you should not want to give for Gaia.<br> Stand with me and She may yet be saved!",
+	"stereotypesTribes": {
+		"furies": "We are fortunate their vow to never bend knee to a man is not a rejection of the Garou Nation’s hierarchy. But is it only a matter of time?",
+		"gnawers": "We must bear their share of the burden, as they seem to care so little for humble service in the Nation’s name.",
+		"children": "They share our dislike of dissension, although they tend to forgive rogues and rebels too easily.",
+		"fianna": "Their loyalty is much appreciated, even if their etiquette is...variable.",
+		"fenris": "Loyal and honorable vassals when they acknowledge your position — dangerous savages when they claim to perceive some weakness in you.",
+		"walkers": "Clever, but they could use some more respect for the old ways.",
+		"talons": "Remember that they honor hierarchy, even if they seem to have nothing but contempt for civilized courtesy.",
+		"lords": "They covet a throne, but do not command the respect necessary to hold it. Perhaps they should direct more energy against the true enemy.",
+		"striders": "Valuable but not forthright. They speak only when it’s important, yet seemingly also only when the news is bad.",
+		"fangs": "",
+		"stargazers": "Their counsel is wise, but they lack focus on the here and now. Thankfully, we can provide focus.",
+		"uktena": "They offer valuable aid, but I suspect they hide disrespect behind their courtesy. They went too long without a king.",
+		"wendigo": "Your grievances are valid, but we need your strength and your loyalty now."	
+	}
+}

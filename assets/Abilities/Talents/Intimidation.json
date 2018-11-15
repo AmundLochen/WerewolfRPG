@@ -1,0 +1,14 @@
+{
+	"id": 6,
+	"name": "Intimidation",
+	"description": "Intimidation involves applying pressure to make someone else do what you want them to. It can take many forms, from soft, subtle persuasion to outright brute force. Intimidation need not be cruel or callous; a well- placed intimidating conversation might even be called “diplomatic.” An intimidating character knows what to do and say depending on the occasion, and is very persuasive when he wants something done.",
+	"levels": {
+		"one": "Your threats are crude, but effective.",
+		"two": "You’re a professional thug.",
+		"three": "You could be a fine drill sergeant.",
+		"four": "Your air of authority can stop fights before they start.",
+		"five": "Few werewolves stand against you when you put your mind to things."
+	},
+	"possessedBy": "Ahroun, Pack Leaders, Bullies, Officers, Drill Sergeants, Shadow Lords, Gangsters",
+	"specialties": "Veiled Threats, Good Cop/Bad Cop, Blackmail, Physical Threats, Revenge"
+}

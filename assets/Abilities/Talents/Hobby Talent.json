@@ -1,0 +1,14 @@
+{
+	"id": 10,
+	"name": "Hobby Talent",
+	"description": "This category includes anything that’s mainly self-taught and is more active than intellectual. Storytellers should first examine the existing Talents to determine if a particular Hobby Talent is better off as a specialty under one of those (for example, Seduction and Intrigue would both be specialties of Subterfuge).",
+	"levels": {
+		"one": "You’ve got the basics down.",
+		"two": "The basics are easy; you’re moving on to more advanced study.",
+		"three": "Other practitioners recognize that you aren’t an amateur any more.",
+		"four": "You’re familiar with the subtle nuances of your chosen Talent.",
+		"five": "Other practitioners ask for your insight into tricky areas of your Talent."
+	},
+	"possessedBy": "",
+	"specialties": ""
+}

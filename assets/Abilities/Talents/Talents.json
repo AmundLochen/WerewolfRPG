@@ -1,0 +1,5 @@
+{
+	"name": "Talents",
+	"description": "While Talents can be trained, they’re based on an inborn talent that every character possesses. The only way to improve Talents is through direct practice and experience — with a very few exceptions, reading a book or watching an online video doesn’t provide the same feedback as actually going out and doing it. If your character attempts an action involving a Talent she doesn’t possess, your dice pool is the associated Attribute, without penalty. Talents are so intuitive that almost anyone can execute them to some degree.",
+	"abilities": ["Alertness", "Athletics", "Brawl", "Empathy", "Expression", "Leadership", "Intimidation", "Primal-Urge", "Streetwise", "Subterfuge"]
+}

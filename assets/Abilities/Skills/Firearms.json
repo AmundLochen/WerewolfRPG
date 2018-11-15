@@ -1,0 +1,14 @@
+{
+	"id": 4,
+	"name": "Firearms",
+	"description": "A character with the Firearms Skill knows how to kill things with guns. Sticking a klaive in the back of a Wyrm-tainted CEO is a gilt-edged invitation to the police, but blowing him away at an ATM can look like just another mugging gone wrong. This Skill represents a broad knowledge and familiarity with all kinds of guns, from a kid’s BB pistol to a heavy machine gun.<br><br> The character can clean, repair, recognize, and accurately fire pretty much any kind of small arms he comes across — though it doesn’t extend to artillery or tank cannons (themselves covered by a specialized Professional Skill).",
+	"levels": {
+		"one": "You have your hunting permit.",
+		"two": "You leave the gun range happy most of the time.",
+		"three": "You’ve been in a firefight, and know how to handle a lot of guns.",
+		"four": "Chances are, you’ve been in a lot of gun battles, and could work as a hitman.",
+		"five": " Master: As soon as you smell Wyrmspawn, you reach for your gun before remembering your claws."
+	},
+	"possessedBy": "Police, Criminals, Soldiers, Hunters, Survivalists",
+	"specialties": "Rifles, Pistols, Submachine Guns, Gunsmithing, Marksmanship, Trick Shots"
+}

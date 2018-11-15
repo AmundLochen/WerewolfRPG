@@ -1,0 +1,14 @@
+{
+	"id": 0,
+	"name": "Academics",
+	"description": "The Academics Knowledge represents the character’s education in the humanities: literature, history, art, philosophy, linguistics, and other subjects normally encompassed under the banner of “liberal arts.” A high Academics rating indicates a well-rounded knowledge in many of these fields, along with expertise in one in particular.<br><br> A player must always choose a specialty in Academics, even when her character has less than four dots in the Skill.",
+	"levels": {
+		"one": "You know Henry VIII sure liked the ladies.",
+		"two": "You can quote from the classics of literature, identify major cultural movements, and understand the shift of languages over time.",
+		"three": "You could get a paper published on your area of expertise.",
+		"four": "When they say you wrote the book on the subject, it isn’t a metaphor.",
+		"five": "In your field, you are one of the ultimate voices of authority."
+	},
+	"possessedBy": "Professors, Historians, Literati, Arts Students, Topical Bloggers",
+	"specialties": "Color Theory, Linguistics, Postculturalism, Ethics, Metaphysics, Sumeria"
+}

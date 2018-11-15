@@ -1,0 +1,12 @@
+{
+	"name": "Stamina",
+	"description": "Stamina is a state of both mind and body. It indicates the physical ability to withstand great strain over a long period of time (such as running for hours on end or going without food for days), but it’s also a matter of inner resistance (such as holding up in the face of torture or shrugging off dire wounds to finish a mission).<br><br> High Stamina allows you to endure an opponent’s blows, so it’s the Trait of choice for representing tough-as-nails werewolves.",
+	"levels": {
+		"one": "You gasp for breath after one flight of stairs.",
+		"two": " You can take a punch.",
+		"three": "A day’s hike without food or water isn’t too much for you to bear.",
+		"four": "Whether it’s a two-day forced march or sneering at the faces of your torturers, you’re up to the task.",
+		"five": "Your constitution and will to survive can overcome any threat."
+	},
+	"specialties": ["Unbreakable", "Tireless", "Resilient"]
+}

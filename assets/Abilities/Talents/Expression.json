@@ -1,0 +1,14 @@
+{
+	"id": 4,
+	"name": "Expression",
+	"description": "Expression is the art of getting your point across to an audience, in any medium. A character with a high Expression Trait sends emails and tweets with the same eloquence and delicate phrasing she demonstrates in her public speaking, and people sit up and take note — whether she’s telling the truth or not.<br><br> Expression covers the delivery of information using language as a primary form, whether poetry, speeches, or blog posts. Using non- verbal forms to hook the public’s imagination is the domain of Persuasion. You can choose a specialty for Expression even if you have less than four dots.",
+	"levels": {
+		"one": "You’ve sold a poem or two.",
+		"two": "You could lead a college debate team.",
+		"three": "You could make a living as a writer or journalist.",
+		"four": "Your work gets submitted for international awards.",
+		"five": "When you speak, everyone around you praises your words."
+	},
+	"possessedBy": "Galliards, Writers, Poets, Politicians, Actors, Bloggers",
+	"specialties": "Rhetoric, Inspiriting Speeches, Poetry, Drama, Political Doubletalk, Social Media"
+}

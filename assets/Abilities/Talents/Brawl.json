@@ -1,0 +1,14 @@
+{
+	"id": 2,
+	"name": "Brawl",
+	"description": "Brawl is the fine art of injuring other people with only your natural weapons. For humans, this involves punches, kicks, elbows, and the like. For a werewolf, it also covers the powerful teeth and claws of her non-human forms. Brawl reflects the character’s experience in actual fights alongside any formal martial arts training.<br><br> Experienced brawlers need to be ruthless and brutal, willing to fight on through loose teeth and broken bones to make the other guy fall first.",
+	"levels": {
+		"one": "You picked fights in the schoolyard.",
+		"two": "You can hold your own in a bar-room brawl.",
+		"three": "You’ve been in your fair share of fights and have come away on top.",
+		"four": "You could be a real contender on the MMA circuit.",
+		"five": "You are a deadly weapon in your Homid form; in Crinos, you can fight a war and expect to win."
+	},
+	"possessedBy": "Police, Thugs, Soldiers, Werewolves, Self-Defense Instructors",
+	"specialties": "Boxing, Wrestling, Dirty Infighting, Weaponless Martial Arts (Judo, Karate, Tae Kwon Do, etc.), Kailindo"
+}

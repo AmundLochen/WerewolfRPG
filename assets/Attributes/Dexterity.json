@@ -1,0 +1,12 @@
+{
+	"name": "Dexterity",
+	"description": "Dexterity measures a character’s control over her own body, including agility, speed and manual deftness. Characters with a high Dexterity have good hand-eye coordination.<br><br> Generally, they’re graceful and light on their feet to boot. Dexterity influences accuracy in combat, as well as the ability to do precision work with one’s hands.",
+	"levels": {
+		"one": "You trip and stumble just walking across carpet.",
+		"two": " You’re no gymnast, but you don’t embarrass yourself, either.",
+		"three": "There’s some grace in your movements and lightness to your step.",
+		"four": "You’ve got the potential to be a world-class acrobat, dancer or thief.",
+		"five": "Your agility and control over your movements is possibly the stuff of legends. Every step you take is fluid, graceful and lithe."
+	},
+	"specialties": ["Lightning Reflexes", "Preternatural Grace", "Nimble Fingers"]
+}

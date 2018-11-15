@@ -1,0 +1,14 @@
+{
+	"id": 0,
+	"name": "Alertness",
+	"description": "Alertness describes the attention that the character pays to the world around him, whether he’s actively looking or not. It measures how attuned the character is to things that he can see, smell, hear, and touch — and to the less tangible conclusions that come from his senses.<br><br> In combat, it’s often paired with Wits to gauge a character’s reaction time and ability to respond; out of combat, it’s most usually paired with Perception to gain clues about a character’s surroundings.",
+	"levels": {
+		"one": "You’re alert to certain sights and sounds around you.",
+		"two": "You’re a habitual eavesdropper.",
+		"three": "You notice even subtle changes in your environment without trying.",
+		"four": "You’re rarely caught off-guard — are you paranoid, or lupus?",
+		"five": "You have the best of all your senses in every form. Even when sleeping, you’re wary to minute alterations in the world around you."
+	},
+	"possessedBy": "Bodyguards, Hunters, Thieves, Wild Animals, Security Personnel",
+	"specialties": "Ambushes, Eavesdropping, Paranoia, Traps, Scents"
+}
