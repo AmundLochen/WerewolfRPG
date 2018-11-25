@@ -3,7 +3,12 @@
 	<div class="col-sm-6">
 		<h1>Health</h1>
 			<p>
-				Your character has a Health Trait comprising seven health levels. Although vampires are immortal and do not die naturally, sufficient injury can incapacitate them, drive them into lengthy periods of dormancy, or even kill them once more.
+				Whether inflicted by a bullet, a speeding car, or the
+				claws of a werewolf, a character’s injuries are represented
+				the same way in Werewolf: the Health Trait, comprising seven health levels. Although werewolves heal very
+				quickly, overwhelming injuries can incapacitate them
+				or even kill them. The last level marked indicates the
+				character’s current health.
 			</p>
 	</div>
 </div>
@@ -16,7 +21,12 @@
 				<ng-template ngbTabContent>
 					<br>
 					<h1>Health Chart</h1>
-					<p>Every character has seven health levels, ranging from Bruised to Incapacitated. Characters can also be in full health (with no health levels checked off).</p>
+					<p>
+						Every character has seven health levels, ranging from
+						Bruised to Incapacitated. A character with no health
+						levels checked off is in full health, while the level after
+						incapacitated indicates that the character is dead.
+					</p>
 					<p>
 						When an attacker scores a success on
 						a damage roll, your character takes one health level of
@@ -41,11 +51,11 @@
 					<h1>Health Levels</h1>
 					<p>
 						The Health chart on the character sheet helps you
-						track your character’s current physical condition. It
-						also lists the penalty imposed on your dice pool for
-						each level of injury that your character sustains. As
-						your character suffers more injuries, her health declines
-						until she becomes incapacitated or dies.
+						track your character’s current physical condition. It also
+						lists the penalty imposed on your dice pool for each level
+						of injury that your character sustains. As your character
+						suffers more injuries, her health declines, until she becomes
+						incapacitated or dies.
 					</p>
 					<hr>
 					<div class="row">
@@ -86,17 +96,12 @@
 					<div class="row">
 						<div class="col-sm"><p>Incapacitated</p></div>
 						<div class="col-sm"><p>&nbsp;</p></div>
-						<div class="col-sm"><p>Character is incapable of movement and is likely unconscious. Incapacitated vampires with no blood in their bodies enter torpor.</p></div>
+						<div class="col-sm"><p>Character is incapable of movement and is likely unconscious. A character who takes any more damage at this level dies.</p></div>
 					</div>
 					<div class="row">
-						<div class="col-sm"><p>Torpor</p></div>
+						<div class="col-sm"><p>Dead</p></div>
 						<div class="col-sm"><p>&nbsp;</p></div>
-						<div class="col-sm"><p>Character enters a deathlike trance. He may do nothing, not even spend blood, until a period of time has passed.</p></div>
-					</div>
-					<div class="row">
-						<div class="col-sm"><p>Final Death</p></div>
-						<div class="col-sm"><p>&nbsp;</p></div>
-						<div class="col-sm"><p>Character is killed permanently.</p></div>
+						<div class="col-sm"><p>Character is dead. His pack and sept will mourn him, but he is with the ancestors now.</p></div>
 					</div>
 				</ng-template>
 			</ngb-tab>
@@ -108,10 +113,48 @@
 						This is where you apply bashing, leathal and aggravated damage. Below is the same chart you have on your character sheet.
 					</p>
 					<p>
-						Bashing and lethal damage differ in their effects,
-						but for vampires, both types of damage are considered
-						normal.
+						Bashing damage represents forms of injury that are
+						unlikely to kill instantly, and that fade quickly — compared to gunshot wounds, at least. Most unarmed combat
+						moves — punches, kicks, tackles, and clinches — deal
+						bashing damage. Even humans heal bashing damage at a
+						reasonable rate, recovering from such injuries in a matter
+						of hours. Garou, by contrast, shrug off such injuries in
+						seconds, though large amounts of bashing damage can be
+						enough trauma to knock a werewolf out, or even kill her.
+						Humans can soak bashing damage with their Stamina,
+						as can Garou.
+						If your character falls to Incapacitated from bashing
+						damage, she falls unconscious but remains in whatever form
+						she was in. Any additional bashing damage “upgrades” an
+						existing bashing wound to lethal damage. If this additional
+						damage upgrades her Incapacitated health level to lethal
+						damage, she reverts to breed form and may use Rage to
+						remain active (see below). Once she’s Incapacitated with
+						lethal damage, another level of bashing damage kills her.
 					</p>
+					<p>
+						Lethal damage includes any form of trauma that
+						would lead to a hospital stay for a human being — from
+						gunshot damage to knife-wounds. While a werewolf can
+						regenerate lethal wounds just as easily as bashing dam-
+						age, other creatures are not so lucky. At the Storyteller’s
+						discretion, attacks that would otherwise cause bashing
+						damage can cause lethal damage when aimed at a vital
+						body part such as a kidney or an eye, though such areas
+						are difficulty 8 or 9 to target.
+						Humans cannot soak lethal damage at all. Garou and
+						other shapeshifters can soak lethal damage with Stamina
+						in any form except their breed form. Some fomori may
+						be able to soak lethal damage, as can vampires and other
+						monsters that lurk in the night, though that varies depending on the twisted creature’s specific abilities.
+						If your character falls to Incapacitated from lethal
+						damage, she can channel her Rage to remain active.
+						If she doesn’t, she falls unconscious and reverts to her
+						breed form. She remains unconscious and regenerates
+						that health level after an eight-hour period. If she takes
+						a level of lethal damage when at Incapacitated, she dies.
+					</p>
+
 					<hr>
 					<p>
 						 Bashing damage is recorded as a slash <b>[/]</b>
@@ -124,9 +167,21 @@
 					</p>
 					<hr>
 					<p>
-						Aggravated damage always gets marked above lethal, which
-						gets marked above bashing. So if you mark a level of
-						lethal damage in the Bruised box, and take one aggravated health level later on, move the lethal damage to the box below by marking the "Hurt" box with a “X.”
+						Aggravated damage comes from attacks that go
+						against a werewolf’s nature. All silver weapons, not just
+						bullets, deal aggravated damage to werewolves, but not to
+						humans. Fire, some Wyrm-tainted poisons, and the teeth
+						and claws of werewolves and other supernatural creatures
+						all deal aggravated damage.
+						Humans can’t soak aggravated damage. Werewolves
+						can soak aggravated damage with Stamina in any form
+						except their breed form, with the exception of damage
+						from silver. Garou cannot regenerate aggravated damage.
+					</p>
+					<p>
+						If your character falls to Incapacitated from aggravated
+						damage, she has one chance: she can channel her Rage to
+						remain active. If she doesn’t succeed, she dies.
 					</p>
 					<p>
 						The aggravated level is then noted by simply drawing
@@ -134,6 +189,23 @@
 					</p>
 					<p>
 						The same applies for bashing and lethal damage. If you have a box with bashing, and you get damaged with lethal damage, you "move" the bashing damage down to the box below, and make the previous bashing damage into an X.
+					</p>
+					<h4>Silver Weapons</h4>
+					<p>
+						Damage dealt from a silver weapon is handled
+						slightly differently to other sources of damage.
+						If a homid or lupus werewolf is in her breed form,
+						an attack with a silver weapon does nothing special.
+						It causes bashing or lethal damage as appropriate and
+						can be soaked as normal — that the weapon is silver
+						does not factor in to the damage.
+						In any other form, a werewolf cannot soak damage
+						from silver without a Gift or fetish, and the damage taken
+						is aggravated. A successful attack always deals one point of
+						damage, even if the attacker rolled no successes for damage.
+						Metis do not have safety of a breed form to shield
+						them from the ravages of silver. They take unsoakable
+						aggravated damage from silver in any form.
 					</p>
 					<hr>
 					<h4>Health</h4>
@@ -185,45 +257,58 @@
 					<br>
 					<h1>Healing Damage</h1>
 					<p>
-						A vampire may spend one blood point to heal
-						one normal (bashing or lethal) health level of damage.
+						Werewolves heal at an incredible pace. A Garou
+						regenerates her worst bashing or lethal health level every
+						turn. Homid- and lupus-breed Garou can regenerate a
+						health level each day while in their natural forms if they
+						are in critical condition, but doing so doesn’t let them do
+						much more than sleep. If they’re conscious and moving
+						around in their breed form, they heal as humans do. Metis
+						are blessed with full regeneration in every form.
 					</p>
-					<p>One blood point per turn may be spent to heal
-						one health level.</p>
-					<p>
-						Note that blood expenditure is the <b><i>only</i></b> way that
-						vampires can heal wounds. Just as their immortality
-						prevents the Kindred from aging and dying naturally,
-						so it also inhibits the recuperative processes natural to
-						a living body.
+					<p>Regenerating damage when engaged in a stressful or
+						physically intensive activity (like combat) is harder for
+						a werewolf. The player must roll the Garou’s Stamina
+						(difficulty 8) each turn. This roll is reflexive, so does not
+						involve splitting a dice pool or spending Rage for multiple actions. Success means that the werewolf heals as
+						normal. Failure means that he heals no damage. A botch
+						indicates that the werewolf cannot regenerate until she’s
+						had a chance to rest.
 					</p>
 					<hr>
 					<h4>Aggravated damage</h4>
 					<p>
-						Aggravated damage is far more difficult to heal. A level of aggravated damage may be healed only with a full day of rest and the expenditure of five blood points (this expendure can be done at any time, but it will not be healed until a full day of rest).
-					</p>
-					<p> 
-						At the end of the full day’s rest, the vampire may cure additional aggravated health levels by spending an additional five blood points and one Willpower point per extra aggravated health level to be healed.
-					</p>
-					<p>
-						Usually this means that you may only cure two points maximum of aggravated damage during a full day of rest. By using five points before resting, hunting and thereby replenishing blood points, resting the full day, expending five more after the rest. 
+						Garou cannot regenerate aggravated damage with
+						anything like the same speed. A character heals one health
+						level of aggravated damage each day, as long as she spends
+						her time resting in a form that normally regenerates.
 					</p>
 				</ng-template>
 			</ngb-tab>
-			<ngb-tab title="Final Death">
+			<ngb-tab title="Remaining Active">
 				<ng-template ngbTabContent>
 					<br>
-					<h1>Final Death</h1>
+					<h1>Remaining Active</h1>
 					<p>
-						If a vampire is at the Incapacitated
-						health level or in torpor and takes one more level of
-						<b><i>aggravated damage</i></b>, he dies permanently.
+						A critically injured werewolf can channel her Rage to
+						save her life. It’s a risky proposition — if it succeeds, the
+						werewolf is thrown into a wild frenzy. It’s sometimes the
+						only way for a character to save her life, though.
 					</p>
 					<p>
-						This means a player in torpor must be torched, bitten or slashed by supernatural claws/fangs, take sunlight damage or other forms of aggravated damage to permanently die.
+						To remain active, the player rolls his character’s
+						permanent Rage (difficulty 8). Each success heals one
+						health level of any kind of damage. No matter how much
+						damage is healed, the character enters a berserk frenzy.
 					</p>
 					<p>
-						Normal bashing or lethal damage does nothing to a vampire in Torpor, unless the damage is massive: Decapitation, being trapped under a 10-ton rock, fed into a wood chipper, caught in an explosion, crushed by deep-sea pressure or similar extreme damage will cause final death for vampires.
+						A character can only channel her Rage in this way
+						once per scene. If she’s reduced to Incapacitated more
+						than once in a single fight, she takes the worst effects of
+						the damage.
+						Although her Rage can remove an awful lot of damage, supercharging a werewolf’s incredible regeneration
+						comes with some side effects. A werewolf gains a Battle
+						Scar (p. 259) whenever she successfully remains active.
 					</p>
 				</ng-template>
 			</ngb-tab>

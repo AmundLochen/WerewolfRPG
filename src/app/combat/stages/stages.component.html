@@ -17,34 +17,80 @@
 						<br>
 						<h2>Initiative</h2>
 						<p>
-							This stage organizes the turn and is when you declare your character’s action.
+							Once combat begins, each player rolls initiative for
+							his or her character. To do this, roll one die and then add
+							it to your character’s initiative rating (Dexterity + Wits).
 						</p>
 						<p>
-							You must declare what your character does, you must also state if any multiple actions will be performed like dodging and attacking at the same time, if Disciplines will be activated, if Willpower points will be spent, or if the character wants to delay the turn. 
+							The character with the highest initiative acts first, the
+							second-highest goes next, and so on down the line. The
+							Storyteller handles initiative for each of his characters
+							too, and might decide for simplicity’s sake to have them
+							all act on the same initiative.
 						</p>
 						<hr>
 						<p>
-							After declaring the action, you wait until the attack stage to implement that action. 
+							Ties are resolved by using the highest initiative rating;
+							if those are tied too, you could decide this tie in favor of the
+							character with the highest Wits or Dexterity (highest rating
+							wins). In story terms, both characters act simultaneously,
+							and the effects of their actions hit home at the same time.
 						</p>
 						<p>
-							Everyone, player and Storyteller character alike, <b>rolls
-							one die</b> and adds it to their initiative rating (<b>Dexterity + Wits</b>);
+							Technically, you can roll a new initiative each turn.
+							To speed things along, though, you might decide to simply
+							have everyone roll one initiative for that particular combat
+							session and then stick with it for the rest of the scene.
+							The Storyteller must decide which option applies before
+							the action starts. Don’t try to use both options within the
+							same scene — it’ll get messy.
+
 						</p>
 						<p>
-							Characters declare in
-							<b>reverse</b> order of initiative, thus giving faster characters
-							the opportunity to react to slower characters’ actions.
+							Now, each player declares what his or her character
+							is doing this turn. Characters with the highest initiatives
+							act first, but their players declare their actions last
+							so that they can anticipate and react to what the slower
+							characters do. If you’re choosing to spend Rage this turn,
+							this stage is the time to declare that you’re doing so.
 						</p>
 						<p>
-							Finally, all additional actions that turn (including
-							actions gained through Celerity) occur at the end of
-							the turn. If two or more characters take multiple actions, the actions occur in order of initiative rating. An exception is made for defensive multiple actions, such as multiple dodges, which happen when they need to happen in order to avert attack.
+							From the highest initiative down, each player makes
+							the necessary rolls to reflect the character activities. As
+							the dice decide the results, the players and Storyteller
+							describe the dramatic effects. Have fun with this! A bland
+							“You lose three health levels” pales in comparison to “His
+							claws rip a gaping hole in your side, scraping the bone and
+							sending a shower of blood and flesh flying — lose three
+							health levels and feel the pain!”
 						</p>
 						<hr>
 						<p>
 							Remember that wound penalties subtract directly
-							from a character’s initiative rating, while Celerity dots
-							that aren’t being used for extra actions add to it
+							from a character’s initiative rating.
+						</p>
+						<p>
+							<b>OPTIONAL RULE: PACK INITIATIVE</b>
+							Werewolves are pack animals bound by uncanny
+							instincts. To reflect this element, you might allow a
+							pack of Garou who share a single totem to share a single
+							initiative roll as well. Assuming that the packmates agree
+							on this course of action, the pack’s alpha makes the roll
+							for the entire pack and then, for the duration of that
+							scene, each werewolf in that pack acts in the order of
+							their individual Dexterity Traits, highest down to lowest.
+							Ties can be resolved either with a coin flip, a dice roll,
+							according to the pack hierarchy, or simply by saying,
+							“Hey, it’s cool — you go first, and I’ll follow your lead.”
+							The roll itself can be based on either the alpha
+							character’s own initiative rating, or on the average of
+							all the packmates’ initiative ratings — that is, their
+							initiative ratings added together and then divided by
+							the number of packmates involved in that fight. The
+							“group average method” would probably work best un-
+							less the alpha has a higher base than the other Garou;
+							for simplicity’s sake, though, you may want to figure
+							out that group initiative base before the fur starts flying.
 						</p>
 					</ng-template>
 					<
@@ -52,9 +98,10 @@
 				<ngb-tab title="Attack stage">
 					<ng-template ngbTabContent>
 						<br>
-						<h2>The attack stage:</h2>
+						<h2>Attack:</h2>
 						<p>
-							Attacks are the meat of the combat turn. You use a certain Attribute/Ability combination depending on the type of combat in which your character is engaged.
+							When the blood hits the fan, the dice pool you employ
+							depends upon what your character is doing that turn:
 						</p>
 						<p>
 							If your character doesn’t have points in
@@ -95,14 +142,19 @@
 						<br>
 						<h2>Resolution:</h2>
 						<p>
-							During this stage, you determine the damage inflicted
-							by your character’s attack, and the Storyteller describes
-							what occurs in the turn.
+							Once the attacks have landed, the players determine how
+							much damage the combatants have inflicted and received.
+							To figure out how much damage has been inflicted,
+							the attacking player rolls her dice pool against difficulty
+							6. Each success deals out one health level of damage.
 						</p>
 						<p>
-							Normally, additional successes gained on a Trait roll
-							simply mean that you do exceptionally well. In combat, each extra success you get on an attack roll equals an additional die you add automatically to your damage dice pool. This creates cinematic and often fatal
-							combat.
+							Really successful attacks inflict more damage. For each
+							success above the first one that the player scores on her attack
+							roll, she adds one more die to the damage dice pool. (Three
+							successes would add two more dice, etc.) This way, skilled or
+							lucky combatants can make hamburger of their opponents.
+							Thankfully, werewolves heal with devastating speed.
 						</p>
 						<p>
 							<b>Example:</b> You have an axe (Strength +3 damage), your strength is two. If you get one success, you roll 5 dice. If you get three successes, you roll 7 dice.
@@ -117,27 +169,35 @@
 						<br>
 						<h2>Soaking:</h2>
 						<p>
-							Characters can resist a certain degree of physical
-							punishment; this is called soaking damage.
+							Living beings tend to be fairly resilient, and so
+							characters who take damage can try to “soak” it before
+							subtracting health levels from those injuries. To soak damage, roll your character’s Stamina against a difficulty
+							determined by the damage:
 						</p>
 						<p>
-							Your character’s soak dice pool is equal to her <b>Stamina</b>. A normal human can soak only bashing damage. A vampire (or other supernatural being) is tougher, and can thus use soak dice against lethal damage.
+							Bashing damage can be soaked by any character
+							at difficulty 6.
 						</p>
 						<p>
-							After an attack hits and inflicts damage, the defender may make a soak roll to resist. This is considered a reflexive action; characters need not take an action or split a dice pool to soak. Each soak success subtracts one die from the total damage inflicted. 
+							Lethal damage can be soaked by Garou and many
+							other supernatural creatures at difficulty 6. Humans can-
+							not normally soak lethal damage, although exceptionally
+							tough ones may be able to try and soak it (Storyteller’s
+							option) at difficulty 8.
 						</p>
 						<p>
-							<b>Unless otherwise stated, soak
-							rolls are made versus difficulty 6.</b> 
-						</p>
-						<p>
-							As with damage rolls, soak rolls may not botch, only fail.
-						</p>
-						<p>
-							Aggravated damage may be soaked only with the Discipline of Fortitude.
-						</p>
-						<p>
-							The Discipline Fortitude also adds to the defender’s soak rating against bashing or lethal damage (so a character with Stamina 3 and Fortitude 2 has five soak dice against bashing and lethal damage, but only two soak dice against aggravated damage).
+							Aggravated damage, other than that inflicted by
+							silver, can be soaked by Garou at difficulty 6 in any form
+							except their breed form. Silver damage cannot be soaked
+							in any form except the breed form, and metis Garou can’t
+							soak it at all. To homid and lupus Garou, silver stings
+							exposed skin when those werewolves are in their breed
+							forms, but inflicts damage only if it’s been fashioned into
+							weapons... in which case blades or bullets are lethal and
+							blunt-force weapons deal out bashing damage. Non-
+							Garou, of course, can’t soak aggravated damage at
+							all unless they have some form of supernatural
+							resistance to such injuries.
 						</p>
 					</ng-template>
 				</ngb-tab>
@@ -242,7 +302,7 @@
 						</p>
 						<p>
 							Declare any multiple actions, reducing dice
-							pools accordingly. Declare Discipline activation and Willpower expenditure.
+							pools accordingly. Declare Rage expenditure.
 						</p>
 						<hr>
 						<h4>Stage 2: Attack</h4>
@@ -264,80 +324,6 @@
 						</p>
 						<p>
 							Targets may attempt to soak damage, if possible.
-						</p>
-					</ng-template>
-				</ngb-tab>
-				<ngb-tab title="Example Play">
-					<ng-template ngbTabContent>
-						<br>
-						<h1>Example play:</h1>
-						<h4>Stage 1: Initiative</h4>
-						<p>
-							Alice got 8.
-						</p>
-						<p>
-							Bob got 7.
-						</p>
-						<p>
-							Charlie got 6.
-						</p>
-						<p>
-							Danielle got 5.
-						</p>
-
-						<hr class="col-sm-2"/>
-						<p>
-							Danielle: "I attack Alice."
-						</p>
-						<p>
-							Charlie: "I attack Dan."
-						</p>
-						<p>
-							Bob: "I activate Celerity. Using Celerity I spend a blood point for one extra action. With my normal action, I attack Charlie."
-						</p>
-						<p>
-							Alice: "I attack Dan."
-						</p>
-						<hr class="col-sm-2"/>
-						<p>
-							Bob: "With my Celerity Action I attack Danielle."
-						</p>
-						<p>
-							Alice: "I make my action a multiple action - and I additionally parry against Danielle"
-						</p>
-						<hr>
-						<h4>Stage 2: Attack</h4>
-							<p>
-								Alice is doing multiple actions and reduces her die pool down to the action that has the lowest die pool (the parry). She allocates the die in that lowest die pool between her attack and the defense. 
-							</p>
-							<p>
-								 Alice attacks dan with the dice she has allocated, Dan may abort to defense, but chooses not to. The attack roll is resolved, and Alice gets one success. 
-							</p>
-							<p>
-								Bob is going to attack Charlie. Charlie aborts his action to do a defensive maneuver - A dodge. Charlie rolls his willpower (difficulty 6) to actually do the abort and succeeds.
-							</p>
-							<p>
-								Bob rolls his attack roll. Charlie rolls his Dodge. Charlie got more successes than Bob and thus Bob misses Charlie.
-							</p>
-							<p>
-								Danielle attacks Alice. Alice tries to parry as part of her multiple action. Danielle rolls attack, Alice rolls her parry with her allocated dice. Danielle has more successes, partly because Alice had too few dice in her dice pool to match her. Alice fails her defensive maneuver.
-							</p>
-							<p>
-								Bob rolls his Celerity action attack on Danielle.
-							</p>
-						<hr>
-						<h4>Stage 3: Resolution</h4>
-						<p>
-							Alice rolls her damage, then Dan rolls to soak.
-						</p>
-						<p>
-							Bob cannot roll damage on Charlie as Charlie dodged it.
-						</p>
-						<p>
-							Danielle rolls her damage because Alice failed the parry, Alice rolls to soak.
-						</p>
-						<p>
-							Bob rolls his damage on Danielle. Danielle rolls to soak.
 						</p>
 					</ng-template>
 				</ngb-tab>
