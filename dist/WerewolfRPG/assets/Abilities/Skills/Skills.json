@@ -1,5 +1,0 @@
-{
-	"name": "Skills",
-	"description": "Skills are Abilities learned as a direct result of training and instruction. No one wakes up one day knowing how to drive a car, for example; every driver needs some practice before hitting the interstate. If you try to perform an action involving a Skill in which you have no rating, your difficulty is increased by one. It’s a lot harder to swing a sword than it looks on TV.",
-	"abilities": ["Animal-Ken", "Crafts", "Drive", "Etiquette", "Firearms", "Larceny", "Melee", "Performance", "Stealth", "Survival"]
-}
