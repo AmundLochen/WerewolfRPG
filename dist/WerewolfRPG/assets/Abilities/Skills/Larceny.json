@@ -1,0 +1,14 @@
+{
+	"id": 5,
+	"name": "Larceny",
+	"description": "The Larceny Skill entails familiarity with the tools and techniques of the professional criminal. You can pick locks, forge documents by hand, crack safes, hotwire cars, break into places, and run a mean game of three-card monte. Larceny doesn’t just cover breaking systems and picking pockets — it’s also used to set up “unbreakable” security, notice pickpockets, and deduce where thieves broke in.<br><br> The Skill doesn’t extend to computer forgery, or to advanced security systems like video surveillance and alarm systems — those fall under the auspices of the Computer and Technology Knowledges, respectively.",
+	"levels": {
+		"one": "You can pick a padlock.",
+		"two": "You can make a living running a shell game (until the cops get wise).",
+		"three": "You can break into most safes, given enough time.",
+		"four": "You can “retool” a passport or ID card.",
+		"five": "You’re waiting for the day they realize you left them with the fake Crown Jewels."
+	},
+	"possessedBy": "Ragabash, Burglars, Security, Consultants, Street Magicians, Con Artists, Policemen",
+	"specialties": "Pickpocketing, Misdirection, Lockpicking, Hotwiring, Safecracking"
+}

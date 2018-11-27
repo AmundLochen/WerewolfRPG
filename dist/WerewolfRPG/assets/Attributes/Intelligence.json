@@ -1,0 +1,12 @@
+{
+	"name": "Intelligence",
+	"description": "The Intelligence Attribute covers a character’s grasp of facts and knowledge. It also governs her ability to reason, solve problems, and evaluate situations. It’s not just IQ; instead, Intelligence involves how well a character can make sense of seemingly random facts and data, organizing them into usable and constructive patterns.<br><br> Lateral thinking and leaps of intuition are also part of Intelligence, as is logic, both deductive and inductive. Having a low Intelligence doesn’t necessarily imply stupidity; the character could be uneducated, or only able to think in simple patterns. Likewise, a high Intelligence doesn’t make a character Stephen Hawking. Instead, the character is just a whiz at pulling together individual bits of information.",
+	"levels": {
+		"one": "Slow on the uptake, you have a hard time with riddles and crosswords.",
+		"two": "You know enough to know your limits.",
+		"three": "You can recognize patterns that most people miss, if you’ve got time.",
+		"four": "You can easily sort and classify even complex information to draw out new conclusions.",
+		"five": "You’re a genius. Given time, you can figure out just about anything."
+	},
+	"specialties": ["Lateral Problem Solver", "Creative Logic", "Probability Claculation", "Trivia"]
+}

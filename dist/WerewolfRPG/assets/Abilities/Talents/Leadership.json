@@ -1,0 +1,14 @@
+{
+	"id": 5,
+	"name": "Leadership",
+	"description": "Leadership makes a character the kind of person or wolf that others support and serve. It involves knowing what to say and how to say it so that people fighting with you will do what you need them to.<br><br> That said, Leadership has less to do with manipulating other people and more to do with portraying yourself as the kind of person they want to follow. Good leaders know when to make suggestions, when to bark orders — and when to lead by example.",
+	"levels": {
+		"one": "Captain of your high-school football team.",
+		"two": "When you talk, others listen.",
+		"three": "You could be a good manager or CEO.",
+		"four": "You’re a natural alpha of any pack youjoin, and others accept your authority with little effort.",
+		"five": "You could lead the whole Garou Nation against the Wyrm."
+	},
+	"possessedBy": "Millitary Officers, Pack Alphas, Philodox, Executives, Politicians",
+	"specialties": "Compelling, Open, Millitary, Motivation, Combat Readiness"
+}

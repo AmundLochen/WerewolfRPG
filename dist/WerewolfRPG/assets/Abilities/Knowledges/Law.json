@@ -1,0 +1,14 @@
+{
+	"id": 4,
+	"name": "Law",
+	"description": "The Law Knowledge covers a character’s familiarity with law enforcement systems and legal codes, both in human jurisdictions and among the Garou. When a character’s in trouble with the police, he needs this Knowledge to get out of legal tangles, and when a pack stands accused of breaching the Litany, their Philodox needs to know how his sept is likely to react.<br><br> More than that, many Philodox learn the codes that have grown up around the Litany, and the appropriate punishments for crimes against the Garou Nation.",
+	"levels": {
+		"one": "You know the basis of the legal system, and can quote the Litany in your sleep.",
+		"two": "You could pass the bar exam, or punish werewolves for minor Litany breaches.",
+		"three": "You’re a much-sought counselor, or a local expert on Garou law.",
+		"four": "You could be a judge or your sept’s Truthcatcher.",
+		"five": "When you pass judgment, the law changes to match your intent."
+	},
+	"possessedBy": "Philodox, Lawyers, Judges, Detectives, Crime Writers",
+	"specialties": "Fitting Punishments, Litany Breaches, Human Field(Criminal, Liability, etc)"
+}
