@@ -18,6 +18,14 @@ import { HealthComponent } from './combat/health/health.component';
 import { ManeuversComponent } from './combat/maneuvers/maneuvers.component';
 import { StagesComponent } from './combat/stages/stages.component';
 import { TypesComponent } from './combat/types/types.component';
+import { RageComponent } from './traits/rage/rage.component';
+import { GnosisComponent } from './traits/gnosis/gnosis.component';
+import { WillpowerComponent } from './traits/willpower/willpower.component';
+import { RenownComponent } from './traits/renown/renown.component';
+import { BreedsComponent } from './breeds/breeds.component';
+import { AuspicesComponent } from './auspices/auspices.component';
+import { CharacterCreationComponent } from './character-creation/character-creation.component';
+import { TribesComponent } from './tribes/tribes.component';
 
 @NgModule({
   declarations: [
@@ -34,7 +42,15 @@ import { TypesComponent } from './combat/types/types.component';
     HealthComponent,
     ManeuversComponent,
     StagesComponent,
-    TypesComponent
+    TypesComponent,
+    RageComponent,
+    GnosisComponent,
+    WillpowerComponent,
+    RenownComponent,
+    BreedsComponent,
+    AuspicesComponent,
+    CharacterCreationComponent,
+    TribesComponent
   ],
   imports: [
     BrowserModule,

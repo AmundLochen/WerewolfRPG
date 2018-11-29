@@ -12,6 +12,14 @@ import { StagesComponent } from './combat/stages/stages.component';
 import { ManeuversComponent } from './combat/maneuvers/maneuvers.component';
 import { ChartsComponent } from './combat/charts/charts.component';
 import { HealthComponent } from './combat/health/health.component';
+import { RenownComponent } from './traits/renown/renown.component';
+import { RageComponent } from './traits/rage/rage.component';
+import { GnosisComponent } from './traits/gnosis/gnosis.component';
+import { WillpowerComponent } from './traits/willpower/willpower.component';
+import { BreedsComponent } from './breeds/breeds.component';
+import { AuspicesComponent } from './auspices/auspices.component';
+import { TribesComponent } from './tribes/tribes.component';
+import { CharacterCreationComponent } from './character-creation/character-creation.component';
 
 const routes: Routes = [
 	{ path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -27,7 +35,15 @@ const routes: Routes = [
   { path: 'combat/stages', component: StagesComponent },
   { path: 'combat/maneuvers', component: ManeuversComponent },
   { path: 'combat/charts', component: ChartsComponent },
-  { path: 'combat/health', component: HealthComponent }
+  { path: 'combat/health', component: HealthComponent },
+  { path: 'traits/renown', component: RenownComponent },
+  { path: 'traits/rage', component: RageComponent },
+  { path: 'traits/gnosis', component: GnosisComponent },
+  { path: 'traits/willpower', component: WillpowerComponent },
+  { path: 'breeds', component: BreedsComponent },
+  { path: 'auspices', component: AuspicesComponent },
+  { path: 'tribes', component: TribesComponent },
+  { path: 'creation', component: CharacterCreationComponent }
 ];
 
 @NgModule({
