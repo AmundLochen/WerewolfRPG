@@ -19,6 +19,9 @@ export class GiftsDetailComponent implements OnInit {
   ngOnInit() {
   	this.getGift();
   }
+   ngOnChanges(changes: SimpleChanges) {
+    this.getGift();
+}
 
   getGift(){
   	this.giftService.getGift(this.giftObject.id).subscribe((data: Gift) => this.gift = data);

@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
@@ -27,6 +28,7 @@ import { AuspicesComponent } from './auspices/auspices.component';
 import { CharacterCreationComponent } from './character-creation/character-creation.component';
 import { TribesComponent } from './tribes/tribes.component';
 import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
+import { SearchPipe } from './search.pipe';
 
 @NgModule({
   declarations: [
@@ -52,13 +54,15 @@ import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
     AuspicesComponent,
     CharacterCreationComponent,
     TribesComponent,
-    GiftsDetailComponent
+    GiftsDetailComponent,
+    SearchPipe
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     NgbModule.forRoot(),
-    HttpClientModule
+    HttpClientModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
