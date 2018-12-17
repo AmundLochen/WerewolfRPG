@@ -26,6 +26,7 @@ import { BreedsComponent } from './breeds/breeds.component';
 import { AuspicesComponent } from './auspices/auspices.component';
 import { CharacterCreationComponent } from './character-creation/character-creation.component';
 import { TribesComponent } from './tribes/tribes.component';
+import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
 
 @NgModule({
   declarations: [
@@ -50,7 +51,8 @@ import { TribesComponent } from './tribes/tribes.component';
     BreedsComponent,
     AuspicesComponent,
     CharacterCreationComponent,
-    TribesComponent
+    TribesComponent,
+    GiftsDetailComponent
   ],
   imports: [
     BrowserModule,
