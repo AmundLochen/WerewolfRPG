@@ -3,14 +3,18 @@
 		<div class="col-sm-4">
 			<h1>Gifts</h1>
 			<input [(ngModel)]="query">
-			<ul class="list-group">
-				<li class="list-group-item-unstyled" 
-				*ngFor="let giftObject of giftList | search:'name':query" 
-				[class.selected]="giftObject === selectedGift" 
-				(click)="onSelect(giftObject)">
-				<span class="badge">{{giftObject.name}}</span>
-				</li>
-			</ul>
+			<div class="scrollbar scrollbar-primary">
+				<div class="force-overflow">
+					<ul class="smooth-scroll list-unstyled">
+						<li class="list-group-item-unstyled" 
+						*ngFor="let giftObject of giftList | search:'name':query" 
+						[class.selected]="giftObject === selectedGift" 
+						(click)="onSelect(giftObject)">
+						<span class="badge">{{giftObject.name}}</span>
+						</li>
+					</ul>
+				</div>
+			</div>
 		</div>
 		<div *ngIf="selectedGift" class="col-sm-8">
 			<app-gifts-detail [giftObject]="selectedGift"></app-gifts-detail>
