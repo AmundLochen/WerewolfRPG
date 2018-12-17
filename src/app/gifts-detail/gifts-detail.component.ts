@@ -24,6 +24,12 @@ export class GiftsDetailComponent implements OnInit {
 }
 
   getGift(){
-  	this.giftService.getGift(this.giftObject.id).subscribe((data: Gift) => this.gift = data);
-  }
+  	this.giftService.getGifts()
+        .subscribe(data => {
+           for(let item of data){
+             if(this.giftObject.id === item.id)
+               this.gift = item;
+           }
+         });
+        }
 }

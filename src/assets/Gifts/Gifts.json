@@ -1,0 +1,34 @@
+[		
+	{
+		"id": 0,
+		"name": "Apecraft’s Blessings",
+		"description": "Though many of Gaia’s children use tools, none have mastered them so thoroughly as humanity. The homid focuses this mastery into the tools she uses, causing their spirits to awaken and lend her aid. An ancestor-spirit or spirit of a man-made object teaches this Gift.",
+		"system": "The werewolf spends a turn concentrating, and then the player rolls Wits + Crafts (difficulty 7). Each success reduces the difficulty by one on the next roll she makes for her character to employ a tool made by human hands. The purpose is irrelevant—this Gift is equally efficacious for attempts to repair an engine, drive a car or fire a gun.",
+		"level": "1",
+		"users": [
+			"homid"
+				]
+	},
+	{
+		"id": 1,
+		"name": "City Running",
+		"description": "Humans are creatures of the city, raising their steel and glass nests high into the sky. This Gift allows a homid to easily scale the concrete canyons and navigate the tangled back alleys and rooftops of the urban landscape. Some lupus derisively refer to this Gift as “Climb Like an Ape.” It is taught by an ancestor-spirit or an urban city-spirit.",
+		"system": "The player spends a point of Rage. For the rest of the scene, the character may climb urban features at her full movement speed, and the difficulty of all Athletics rolls to navigate through cities (running down cluttered alleys, climbing the side of buildings, leaping from rooftop to rooftop) is reduced by two.",
+		"level": "1",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 2,
+		"name": "Master of Fire",
+		"description": "Fire-spirits were among the very first to make pacts with humanity, allowing men to warm themselves, drive off wild beasts, and clear the land. The cornerstones of civilization were laid in these simple acts, granting the spirits of flame much prestige. Homid Garou remember and continue to call upon these ancients pacts to protect themselves as the final fires of the Apocalypse loom. An ancestor-spirit or fire elemental teaches this Gift.",
+		"system": "The player spends one Gnosis point. For the rest of the scene, fire inflicts bashing rather than aggravated damage to the Garou.",
+		"level": "1",
+		"users": [
+			"homid"
+		]
+	}
+]
+
+

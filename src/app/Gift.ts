@@ -3,4 +3,6 @@ export class Gift{
 	name: string;
 	description: string;
 	system: string;
+	level: string;
+	users: string[];
 }

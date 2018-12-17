@@ -1,0 +1,9 @@
+Error: Missing Dependency: epilogue.dat from vampire module is needed by executable Wolf.exe.
+
+Glass Walker login detected.
+Request accepted.
+Beginning data recovery...
+
+Recovery complete... 
+Uploading data to https://amundlochen.github.io/WerewolfRPG/setting
+Upload complete.

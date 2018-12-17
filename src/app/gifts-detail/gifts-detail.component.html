@@ -1,9 +1,20 @@
-
+<div class="gift-detail">
 	<div *ngIf="gift" >
 		<div class="col-sm">
-			<h2>{{gift.name}}</h2>
-			<div><span>{{gift.description}}</span></div>
-			<div><span>{{gift.system}}</span></div>
+			<h2>{{gift.name}} - Level {{gift.level}}</h2>
+			<div><span><b>Description: </b>{{gift.description}}</span></div>
+				<br><br>
+			<div><span><b>System: </b>{{gift.system}}</span></div>
+			<br><br>
+			<div class="container-fluid">
+				<ul class="list-inline"> <b>This gift is taught to: </b>
+					<li class="list-inline-item"
+					*ngFor="let user of gift.users">
+					<span class="badge">{{user}}</span>
+					</li>
+				</ul>
+			</div>
 		</div>
 	<div>
+</div>
 

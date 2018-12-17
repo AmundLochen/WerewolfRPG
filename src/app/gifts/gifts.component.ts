@@ -1,6 +1,7 @@
 import { Component, OnInit} from '@angular/core';
 import { GiftsService } from '../gifts.service';
 import { GiftObject } from '../GiftObject';
+import { Gift } from '../Gift';
 
 
 @Component({
@@ -11,7 +12,7 @@ import { GiftObject } from '../GiftObject';
 
 export class GiftsComponent implements OnInit {
 	selectedGift: GiftObject;
-	giftList: GiftObject[];
+	giftList: Gift[];
 
   constructor(private giftsService: GiftsService) { }
 
