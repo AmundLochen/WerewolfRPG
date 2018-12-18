@@ -10,7 +10,7 @@
 				<ul class="list-inline"> <b>This gift is taught to: </b>
 					<li class="list-inline-item"
 					*ngFor="let user of gift.users">
-					<span class="badge">{{user}}</span>
+					<span>{{user | titlecase}}</span>
 					</li>
 				</ul>
 			</div>
