@@ -2,9 +2,10 @@
 	<div *ngIf="gift" >
 		<div class="col-sm">
 			<h2>{{gift.name}} - Level {{gift.level}}</h2>
-			<div><span><b>Description: </b>{{gift.description}}</span></div>
+			<br>
+			<div><span><b>Description: </b><p [innerHTML]="gift.description"></p></span></div>
 				<br><br>
-			<div><span><b>System: </b>{{gift.system}}</span></div>
+			<div><span><b>System: </b><p [innerHTML]="gift.system"></p></span></div>
 			<br><br>
 			<div class="container-fluid">
 				<ul class="list-inline"> <b>This gift is taught to: </b>

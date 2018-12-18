@@ -12,6 +12,7 @@
 	font-family: werewolf;
 	font-size: 20px;
 	margin: 8px;
+	max-width: 300px;
 }
 
 .scrollbar {

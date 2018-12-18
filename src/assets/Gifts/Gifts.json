@@ -1,7 +1,7 @@
 [		
 	{
 		"id": 0,
-		"name": "Apecraft’s Blessings",
+		"name": "Apecraft's Blessings",
 		"description": "Though many of Gaia’s children use tools, none have mastered them so thoroughly as humanity. The homid focuses this mastery into the tools she uses, causing their spirits to awaken and lend her aid. An ancestor-spirit or spirit of a man-made object teaches this Gift.",
 		"system": "The werewolf spends a turn concentrating, and then the player rolls Wits + Crafts (difficulty 7). Each success reduces the difficulty by one on the next roll she makes for her character to employ a tool made by human hands. The purpose is irrelevant—this Gift is equally efficacious for attempts to repair an engine, drive a car or fire a gun.",
 		"level": "1",
@@ -27,6 +27,1466 @@
 		"level": "1",
 		"users": [
 			"homid"
+		]
+	},
+	{
+		"id": 3,
+		"name": "Persuasion",
+		"description": "This Gift imbues a homid’s words with intrinsic credibility and conviction, causing them to ring true to the ear and lay heavy on the heart. An ancestor-spirit teaches this Gift.",
+		"system": "The player rolls Charisma + Subterfuge (difficulty 7). Success lowers the difficulty of all social rolls by one for the rest of the scene, and allows successful rolls to have uncommonly strong impact (such as changing long-held political views, or causing an addict to seriously reconsider the course of his life).",
+		"level": "1",
+		"users": [
+			"homid, philodox"
+		]
+	},
+	{
+		"id": 4,
+		"name": "Smell of Man",
+		"description": "To creatures of the wild, man’s scent is death. To creatures of the city, it is authority, comfort, easy meals. This Gift, taught by an ancestor-spirit, enhances a werewolf’s human scent, infusing it with spiritual power. System: Non-supernatural",
+		"system": " Non-supernatural wild animals lose two dice from their dice pools when interacting with the Garou, save when defending themselves or running away, and will be inclined to flee rather than attack if possible. Domesticated animals recognize the werewolf as a friend, and even trained attack dogs will do no more than wag their tails at the character unless attacked first. This Gift’s effects are permanently active.",
+		"level": "1",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 5,
+		"name": "Jam Technology",
+		"description": "With a slight gesture, the werewolf unbalances the Wyld and Weaver energies within technological devices, either suffusing them with destructive chaos or amplifying their inherent stasis until they refuse to do anything at all. Computers crash, guns jam, cars stall, and even the simplest of shaped objects refuse to function. A gremlin — a type of Wyld-spirit that enjoys breaking things — teaches this Gift.",
+		"system": "The player spends one Gnosis point, rolls (Manipulation + Crafts) and chooses the level of complexity she intends to jam. All technological devices (i.e. any devices shaped from fabricated materials like metal or plastic) of that complexity within 50 feet (15 m) cease to function for two turns per success. The devices remain unchanged, but inert — knives won’t cut, gunpowder won’t ignite, gears won’t turn, and so on. The difficulty of the roll is based on the following chart: <br><br> Device    Difficulty <br>Computer    4<br>Phone    5<br>Automobile    7<br>Gun    8<br>Knife    9",
+		"level": "2",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 6,
+		"name": "Mark of the Wolf",
+		"description": "The werewolf marks those she comes in contact with, leaving them to carry the same aura of the predator the Garou does. This subtle curse can wreak havoc in a target’s private or professional life, and is a favorite of many homids looking to provoke discord in the ranks of the enemy. A Lune teaches this Gift.",
+		"system": "The player selects a target that has had some interaction with the Garou during the scene (even something as simple as light conversation in an elevator counts), then rolls Manipulation + Primal-Urge (difficulty 7). The target inherits the Curse (see p. 262) as though she had a Rage rating equal to that of the Garou for one day per success.",
+		"level": "2",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 7,
+		"name": "Speech of the World",
+		"description": "This Gift allows Gaia’s warriors to read and wield the spirit of speech, bypassing the need to learn different languages and dialects. The Garou may speak and understand any human language she encounters, though she speaks with an obvious accent, marking her as an outsider. Speech of the World doesn’t convey literacy, nor is it an encyclopedia of cultural information. An ancestor-spirit teaches this Gift.",
+		"system": "The player rolls Intelligence + Academics (difficulty 7). The effect lasts for one scene.",
+		"level": "2",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 8,
+		"name": "Staredown",
+		"description": "Rage burns in a werewolf’s eyes, striking fear into the hearts of mortals and animals, causing them to flee for their lives. Used against another werewolf, the target will freeze in place rather than run. A ram- or snake-spirit teaches this Gift.",
+		"system": "This Gift affects only one target at a time. The player rolls Charisma + Intimidation (difficulty 5 + the target’s Rank, if applicable). The victim flees for one turn per success, though he may spend a point of Willpower to resist the effects of the Gift for one turn. Should the player roll five or more successes, the victim flees for the rest of the scene. Garou and other shapeshifters with Rage do not flee, but may not attack while the Gift is in use.",
+		"level": "2",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 9,
+		"name": "Calm the Savage Beast",
+		"description": "Even the most callous of homids can sympathize with the Rage that moves their fellow Garou in the final days. This Gift allows the werewolf to lend a frenzying Garou the will to escape her Rage’s hold over her. It is taught by an ancestor-spirit.",
+		"system": "The player spends a Willpower point and rolls Manipulation + Primal-Urge (difficulty 8). If successful, the Willpower point soothes a frenzying Garou within 30 feet (9 m), canceling the frenzy. By spending an extra point of Willpower, this Gift may affect non-Garou in a state of frenzy, such as other shapeshifters or vampires.",
+		"level": "3",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 10,
+		"name": "Cowing the Bullet",
+		"description": "The spirits of tools recognize man as their master; as a result, they become reluctant to harm the homid. A Weaver-spirit teaches this Gift.",
+		"system": "The player spends a Gnosis point. For the rest of the scene, the Garou gains two additional soak dice against all crafted weapons not made of silver.",
+		"level": "3",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 11,
+		"name": "Disquiet",
+		"description": "Pulling the mercurial tide of the target’s emotions to their lowest ebb, this Gift makes its target feel inexplicably depressed and withdrawn. The subject finds his emotions muted and concentration difficult. An ancestor-spirit teaches this Gift.",
+		"system": "The player rolls Manipulation + Empathy against a difficulty equal to the target’s Willpower. If successful, that opponent will be unable to recover Rage for the duration of the scene, and all difficulties for extended actions increase by one. Moreover, the target becomes listless and generally less inclined to stir himself to pursue any action of dubious necessity, such as investigating strange noises.",
+		"level": "3",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 12,
+		"name": "Reshape Object",
+		"description": "The Garou can shape once-living (though not undead) material into something else instantly. Trees may become shelter, buck antlers spears, animal hides armor, and flowers sweet perfumes. The item will resemble the object from which it was created (e.g., the aforementioned spear will be made of antler, not wood). A Pattern Spider teaches this Gift.",
+		"system": "The player rolls Manipulation + Crafts against a difficulty defined by the scope and complexity of the transformation (a broken tree limb into a spear would be difficulty 5, while a fallen tree into a canoe would be 8) and spends a Gnosis point. The transformation persists for one scene per success, or permanently with five or more successes. Expending an additional Gnosis point allows a created weapon to inflict aggravated damage for the remainder of the scene in which it is created.",
+		"level": "3",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 13,
+		"name": "Body Shift",
+		"description": "Garou raised in the shifting maze of human society are well-prepared for the endless adaptations Gaia demands of her protectors. An ancestor-spirit teaches this Gift.",
+		"system": "The Garou can use her shapeshifting to alter her physical Attributes: a dot of Dexterity can be shifted to Strength or Stamina, and so forth. The player rolls Stamina + Primal-Urge (difficulty 9). For each two successes, one physical Attribute dot can be shifted for the rest of the scene.",
+		"level": "4",
+		"users": [
+			"homid, ahroun"
+		]
+	},
+	{
+		"id": 14,
+		"name": "Bury the Wolf",
+		"description": "The war against the Wyrm isn’t always a matter of slashing claws and righteous fury — sometimes duplicity is required. A werewolf cantemporarily “restrain” her inner wolf and appear to be a normal human. An ancestor-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point and rolls Gnosis (difficulty of her own Willpower). Success causes the character to appear human to all supernatural scrutiny. The Gift also nullifies the Curse and makes spending Rage impossible, and locks her in homid form so long as its effects persist. The number of successes determines the Gift’s duration; to “free the wolf” before that time elapses requires a full turn of concentration and another point of Gnosis.<br><br><b>Successes</b> | <b>Duration</b><br> One | One scene <br> Two | 12 hours <br> Three | One day <br> Four | One week <br> Five | One lunar cycle",
+		"level": "4",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 15,
+		"name": "Cocoon",
+		"description": "The werewolf wraps himself in a thick, opaque, chitinous sarcophagus, immobilizing himself but also becoming nearly impervious to harm. The cocoon provides immunity to fire, starvation, gas, high pressure, cold, and similar environmental hazards. An insect- or Weaver-spirit teaches this Gift.",
+		"system": "The Garou spends one Gnosis point. While the werewolf remains in the cocoon, any attack that strikes him must do damage at least equal to his Stamina + Rituals; the cocoon keeps him safe from any lesser amount of damage, but is destroyed if it’s pierced. The cocoon lasts for one day, but its duration may be extended by spending more Gnosis to renew it. The Garou may emerge from it at any time he chooses.",
+		"level": "4",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 16,
+		"name": "Spirit Ward",
+		"description": "This Gift allows a werewolf to protect herself from spirits by performing a quick warding rite. The werewolf traces an invisible pictogram in the air that frightens and unnerves any nearby spirits, and which travels with the Garou for as long as it persists. An ancestor-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point and rolls Manipulation + Rituals (difficulty 7). Spirits within 100 feet (30 m) of the character must subtract one from their dice pools for each success. Any spirit that comes within 50 feet (15 m) of the character (except a caern spirit or the character’s pack totem) loses one point from its Essence per turn for each success the player rolled. This Gift lasts for one scene.",
+		"level": "4",
+		"users": [
+			"homid, theurge"
+		]
+	},
+	{
+		"id": 17,
+		"name": "Assimilation",
+		"description": "A werewolf with this Gift blends smoothly into any culture, no matter how strange or unfamiliar he might normally find it. He could slip among Bedouin nomads as if he were one of them, or he could shop in a Chinese market without anyone noticing that he doesn’t belong. The Gift doesn’t hide racial differences, but it does allow the werewolf to mimic the behaviors and mannerisms of a native. It also grants the ability to speak and understand the culture’s language, although this knowledge vanishes as the Gift ends. It is taught by Ancestor-spirits.",
+		"system": "The player rolls Manipulation + Empathy. If successful, the character interacts with members of another culture as if he were one of them. The difficulty depends on how alien the culture is. Another Garou sept would be 5, while a Black Spiral hive or foreign country could be as high as 9. The character suffers no Social penalties when interacting with members of the culture, although he will enjoy no special benefits either. The Gift lasts for one scene, plus one day per Willpower point spent when activating it.",
+		"level": "5",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 18,
+		"name": "Beyond Human",
+		"description": "The Garou is human plus — Human plus strength, agility and health. Human plus devoted, assured spirituality and meaning. Human plus animal instinct and lightning reflexes. Human plus righteous fury with which to meet the Apocalypse. He is as man, but greater. Every Garou radiates this to some extent, but this Gift warps that perception, changing the Garou from a figure to be avoided to one to be admired or adored. An ancestor-spirit teaches this Gift.",
+		"system": "Once learned, this Gift’s effects are permanent. Humans dealing with the werewolf instinctively pick her out as more desirable, important, and interesting than those around her — regardless of the character’s capacity in such matters. The Curse still applies, but rather than being instinctively feared as a predator, the werewolf becomes an intimidating figure of great presence. Finally, the character may boost her Social Attributes by spending Rage or Gnosis. Each dot of either spent raises one Social Attribute by one point for the rest of the scene. Social Attributes may be raised above 5 in this fashion.",
+		"level": "5",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 19,
+		"name": "Part the Veil",
+		"description": "This potent Gift immunizes a human from the Delirium for a scene. However, the human will forget much of what he knows if exposed to the Delirium at a later date. An ancestor-spirit teaches this Gift.",
+		"system": "The player spends a Gnosis point and rolls Charisma + Empathy. Only one success is needed.",
+		"level": "5",
+		"users": [
+			"homid"
+		]
+	},
+	{
+		"id": 20,
+		"name": "Create Element",
+		"description": "The metis may create a small amount of one of the four Western classical elements — fire, air, earth, or water. She could make a rock to throw, fill a bathtub with no faucet, light fires without matches, or provide air in an airtight room. She cannot create specialized forms of any element. Precious metals (especially silver), lethal gases, and acid are beyond her reach. Elementals teach this Gift.",
+		"system": "The player spends one Gnosis point and rolls Gnosis. Each success allows the character to create roughly one cubic foot (.3 cubic meter) of the desired element, to a maximum weight of 100 lbs (45 kg), anywhere she can see within 60 feet (18 m). The element remains in existence until used up (breathed, in the case of air, or burned up, in the case of fire without any fuel to keep it going). The flames created by this Gift inflict one health level of damage per success, to a maximum of three levels of damage.",
+		"level": "1",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 21,
+		"name": "Primal Anger",
+		"description": "The metis gives of herself to feed the Rage in her heart, burning away her very blood and muscle in the process. The spirits of ancient metis teach this Gift; few members of other breeds have endured enough shame and suffering to learn it.",
+		"system": "The character may inflict a single level of aggravated damage on herself once per scene, and gain three points of Rage in exchange (even if doing so takes her beyond her permanent Rage rating).",
+		"level": "1",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 22,
+		"name": "Rat Head",
+		"description": "Metis are born into a world where they metaphorically don’t belong; it seemed only natural to rat-spirits to teach them to get into such places in the literal sense as well. This Gift renders the metis’s bone structure collapsible, allowing her to squeeze through any gap she can fit her head into.",
+		"system": "The player spends one Gnosis and rolls Dexterity + Athletics (difficulty 7). For the rest of the scene, the metis may squirm through any gap she can fit her face into, moving at her walking speed to do so.",
+		"level": "1",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 23,
+		"name": "Sense Wyrm",
+		"description": "The werewolf can sense nearby manifestations of the Wyrm. This Gift involves a mystical sense, not a visual or olfactory image, although Garou often describe the Wyrm’s spiritual emanations as a stench. This Gift doesn’t necessarily sense dedication to the Wyrm, merely contact with its spiritual essence, which can cling to even blameless souls. Sense Wyrm requires active concentration; the spiritual sense it provides doesn’t function passively. The Gift may be taught by any Gaian spirit.",
+		"system": "The player rolls Perception + Occult. The difficulty depends on the concentration and strength of the Wyrm’s influence: sensing a single fomor in the next room would be difficulty 6, while detecting the stench of a Bane that was in the room an hour ago would be difficulty 7. Vampires register as Wyrm-tainted, save those with Humanity ratings of 7 or higher.",
+		"level": "1",
+		"users": [
+			"metis, theurge"
+		]
+	},
+	{
+		"id": 24,
+		"name": "Shed",
+		"description": "The metis can shed a layer of fur and skin, slipping from an opponent’s grasp or escaping from bonds with ease. A lizard-spirit or snake-spirit teaches this Gift.",
+		"system": "The player rolls Dexterity + Primal-Urge (difficulty 7). If the roll succeeds, the character loses a tuft of fur or skin (revealing healthy new hide), allowing her to slip free of grapples or bonds such as ropes or chains.",
+		"level": "1",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 25,
+		"name": "Burrow",
+		"description": "This Gift grants the ability to burrow through the earth, creating a tunnel roughly the size of the digger’s body, which others can follow through. The werewolf must be in a form possessing claws to use this Gift. Mole-spirits teach this Gift.",
+		"system": "The player rolls Strength + Athletics against a difficulty depending on the substance to be excavated (4 for loose mud, 9 for solid rock). Some metals (such as steel and titanium alloys) and other reinforced structures won’t yield to the werewolf no matter how hard she digs. The character can burrow one yard per turn for each success. After the initial roll, the character does not need to roll again to continue at the same speed.",
+		"level": "2",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 26,
+		"name": "Curse of Hatred",
+		"description": "The metis takes hold of the hate in her soul and layers it into her words, scourging the spirits of those she addresses. A spirit of hate teaches this Gift.",
+		"system": "The player spends one Gnosis point and rolls Manipulation + Expression (difficulty equal to the target’s Willpower). If she succeeds, her opponent loses two Willpower points and two Rage points. This Gift may be used on an opponent only once per scene.",
+		"level": "2",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 27,
+		"name": "Form Mastery",
+		"description": "This Gift empowers the Wyld spark that resides in all Garou, granting the character greater control over her shapeshifting abilities. A wolf-spirit teaches this Gift.",
+		"system": "When shapeshifting (see p. 285), all difficulties are reduced by 1, and the player no longer needs to roll a single success just to initiate the transformation (thus, shifting from Homid to Glabro would be difficulty 5 and require only one success). Additionally, when enacting partial transformations (see p. 286), the player need no longer spend a Willpower point, and the difficulty of the roll is 7. This Gift’s effects are permanent.",
+		"level": "2",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 28,
+		"name": "Sense Silver",
+		"description": "To those truly born Garou, Luna has granted the ability to sense a werewolf’s greatest weakness. This Gift, taught by Lunes, allows the metis to detect the presence of silver.",
+		"system": "The player rolls Perception + Primal-Urge (difficulty 7). If successful, she can detect the presence of any silver within 100 yards. Three successes allow her to pinpoint the silver’s location.",
+		"level": "2",
+		"users": [
+			"metis, ahroun"
+		]
+	},
+	{
+		"id": 29,
+		"name": "Chameleon",
+		"description": "Like the Gift’s reptilian namesake, the Garou can blend with her natural surroundings. Unlike the lizard, the werewolf shifts fluidly with changing backgrounds, thus allowing the Garou to move about and even attack. A chameleon- or octopus-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point to activate the Gift. Anyone trying to see the werewolf, even in open ground, must make a Perception roll (difficulty of the Garou’s Wits + Stealth) to detect her. Once the Garou attacks, the difficulty drops by 3. The Gift affects only sight; it does not mask the Garou’s sound or scent.",
+		"level": "3",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 30,
+		"name": "Eyes of the Cat",
+		"description": "The werewolf may see clearly in complete darkness. His eyes glow a lambent green while this power is in effect. A cat-spirit teaches this Gift.",
+		"system": "The character suffers no penalties from darkness. This power may be used at will; it requires no roll or expenditure.",
+		"level": "3",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 31,
+		"name": "Mental Speech",
+		"description": "This Gift enables mental communication, even over vast distances. The user must either know the target personally (although friendship isn’t necessary) or have something that belongs to that person, such as a lock of his hair. Bird-spirits and spirits of intellect teach this Gift.",
+		"system": "The player rolls Charisma + Empathy (difficulty 8) and spends a Willpower point; the effects last for a scene. The character may hold a mental conversation with a target at a maximum distance of 10 miles (16 km) per success. Mind reading isn’t possible, but the werewolf may use social Abilities such as Intimidation.",
+		"level": "3",
+		"users": [
+			"metis, philodox"
+		]
+	},
+	{
+		"id": 32,
+		"name": "Shell",
+		"description": "Shell places an emotional and instinctual barrier around the metis, shutting out the hostility of the world and suppressing his own powerful, destructive impulses. It is taught by a turtle-spirit.",
+		"system": "The player rolls Willpower (difficulty of the character’s own Rage). Success insulates the metis for a scene behind a mystical and psychological barrier, immunizing him against mind-altering magic of all kinds for the rest of the scene. However, he cannot gain any successes on Empathy, Primal-Urge or Rage rolls, nor can he spend Rage points.",
+		"level": "3",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 33,
+		"name": "Gift of the Porcupine",
+		"description": "The werewolf undergoes a startling transformation: Her fur elongates, becoming bristly and sharp like the quills of a porcupine. The werewolf must be in Crinos, Hispo or Lupus form to use this Gift. Porcupine teaches this gift, and he has a strong fondness for metis.",
+		"system": "The character spends a Gnosis point to sharpen her fur. Anyone whom the metis tackles, grapples or immobilizes takes (Strength + 1) aggravated damage from these newfound quills. Furthermore, those who strike her with bare flesh and score less than five successes on the attack roll take their own Strength in aggravated damage (this does not negate any damage done to the metis). This Gift lasts for one scene or until the werewolf wills her fur to return to normal.",
+		"level": "4",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 34,
+		"name": "Lash of Rage",
+		"description": "The metis harnesses all of the shame, hate, and fury coiled in his heart and lashes out with it, destroying another. Bones snap, organs rupture, and cavities fill with blood as the metis’s Rage tears the target apart. A spirit of fury teaches this Gift.",
+		"system": "The player spends one Rage point and rolls his Rage rating. A target within 100 yards (91 m) takes one level of unsoakable aggravated damage for each success. This Gift can be used safely only once per scene. Any additional uses inflict the Gift’s full damage on both the metis and his target.",
+		"level": "4",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 35,
+		"name": "Rattler's Bite",
+		"description": "The metis’s eyeteeth lengthen, and she can inject a deadly poison with her bite. Spider- and snake-spirits teach this Gift.",
+		"system": "The player spends a Rage point when attempting to bite an opponent. If the bite is successful, any remaining damage after soak is doubled.",
+		"level": "4",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 36,
+		"name": "Wither Limb",
+		"description": "With a snarl and a baleful stare, the werewolf ruins an opponent’s limb: bones twist, muscles wither, flesh desiccates. Creatures with regenerative capabilities will recover after one scene; all others are permanently crippled. Venomous spirits teach this Gift.",
+		"system": "The player spends a Gnosis point and rolls Willpower (difficulty equals the victim’s Stamina + 4). The victim adds two to the difficulties of all Dexterity rolls. If a leg is crippled, he can move at only half his normal speed.",
+		"level": "4",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 37,
+		"name": "Madness",
+		"description": "Metis struggle throughout their lives to find a place of dignity and respect amidst a minefield of horror and abuse. This Gift allows her to unleash her inner demons upon others, inflicting insanity and madness. The nature of the derangement inflicted varies from individual to individual, but is always severe, making it impossible for the victim to function normally. Lunes and spirits of trickery and madness teach this Gift.",
+		"system": "The player spends a Gnosis point and rolls Manipulation + Intimidation (difficulty equal to the victim’s Willpower). The target immediately begins to suffer from a Derangement (see p. 485). The insanity lasts a number of days equal to the successes rolled. During this time, the metis can increase or decrease the severity of the madness, granting the victim lucidity and then driving him into psychosis. Even after the Gift has ended, the repercussions may haunt the victim for the rest of his life.",
+		"level": "5",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 38,
+		"name": "Protean Form",
+		"description": "Born misshapen, the metis takes her deformity and makes it a source of power. She can twist her flesh in any number of ways, sprouting a number of unnatural features, from extra limbs to additional mouths to grasping tentacles. A Chimerling teaches this Gift.",
+		"system": "The character’s ability to partially transform (see p. 286) is permanently modified, allowing her to make almost any grotesque modifications the player can imagine. These modifications must logically bestow one of the following benefits: +2 dice on a certain category of attack rolls (extra clawed limbs for claw attacks, tentacles for clinches, etc), +2 damage on a certain category of attack rolls (a chest-mounted squid beak for extra damage on clinches, arms coated in shark teeth for boosted claw attacks, etc.), or +5 yards per turn of movement (extra legs, vestigial wings, etc.).",
+		"level": "5",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 39,
+		"name": "Totem Gift",
+		"description": "Metis are Garou from the moment of their birth, and their ties to the spirit that guides their tribe run deep. The metis may plead with her tribal totem for power, with effects varying from tribe to tribe. Rat might send a swarm of rodents to attack the werewolf’s enemies, while Grandfather Thunder might send down the lightning to strike aside obstacles and opponents. The potential of this Gift depends on the favor of the totem, and may extend into the miraculous. Only the tribal totem teaches this Gift.",
+		"system": "The player spends one Gnosis point and rolls Charisma + Rituals (difficulty 7). The greater the number of successes, the more dramatic the aid provided. One success might cause a minor distraction, whereas 10 successes could produce volcanic eruptions or county-smashing tornadoes.",
+		"level": "5",
+		"users": [
+			"metis"
+		]
+	},
+	{
+		"id": 40,
+		"name": "Hare's Leap",
+		"description": "The werewolf can leap impossible distances. Hare-spirits teach this Gift, naturally, though cat-, frog-, kangaroo-, and even flea-spirits occasionally do so as well.",
+		"system": "The player makes a reflexive Strength + Athletics roll (difficulty 7) to activate this Gift. If successful, the character’s leaping distances are doubled for the scene — or tripled for a single turn with the expenditure of a Willpower point (see Jumping, p. 271).",
+		"level": "1",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 41,
+		"name": "Heightened Senses",
+		"description": "This Gift sharpens the werewolf’s senses to an incredible degree. She enjoys the olfactory and auditory acuity of a wolf whenever she is in Homid and Glabro forms, along with superior night vision. In Crinos, Hispo and Lupus, her senses become preternaturally potent, allowing sensory feats that border on precognition. Sudden loud noises, bright lights or overwhelming scents can be disorienting, however. Wolf-spirits teach this Gift.",
+		"system": "The player spends a Gnosis point to activate this Gift for a scene. In Homid and Glabro, the werewolf’s Perception difficulties decrease by two and she may roll Perception + Primal-Urge to perform uncanny sensory feats such as tracking by scent. In Crinos, Hispo, and Lupus, Perception difficulties decrease by three (this is not cumulative with the ordinary Lupus-form Perception bonuses) and the werewolf gains an extra die to Primal-Urge dice pools.",
+		"level": "1",
+		"users": [
+			"lupus, Galliard"
+		]
+	},
+	{
+		"id": 42,
+		"name": "Sense Prey",
+		"description": "This Gift lets a werewolf locate enough prey to feed her pack. In the urban environment, this tends to guide lupus to prey in parks, sewers, animal shelters or even zoos, drawing her unfailingly to the presence of prey animals. Humans and carnivores too large or dangerous for a lone wolf to regard as prey do not register as prey animals. A wolf-spirit teaches this Gift.",
+		"system": "The player rolls Perception + Primal-Urge. The difficulty is 5 in wilderness environments and 7 in urban environments. Success indicates the location of enough prey to feed a large pack for a day.",
+		"level": "1",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 43,
+		"name": "Predator's Arsenal",
+		"description": "One of the most unnerving aspects of the Homid shape is its lack of proper weapons. This Gift remedies that problem (while still retaining much of the Homid shape’s ability to blend in with the human world), granting the Garou battle-ready claws and teeth in Homid form. It is taught by a wolf-spirit.",
+		"system": "The werewolf concentrates for a turn to gain access to bite and claw attacks in Homid form for the rest of the scene, or until she dismisses the transformation. These attacks inflict lethal rather than aggravated damage, and may be concealed by simple expediencies such as the werewolf keeping her mouth closed, wearing long sleeves, or keeping her hands in her pockets. She can even speak normally without giving herself away, as long as she’s careful not to open her mouth too wide or smile so that her teeth show, although her voice sounds rough and a bit distorted (attempting to discern that there’s something amiss with a Garou taking such precautions requires a Perception + Alertness roll, difficulty 9).",
+		"level": "1",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 44,
+		"name": "Prey Mind",
+		"description": "As Gaia dies and her natural order is perverted, predators become prey with increasing frequency — this is a sorrowful truth that lupus know all too well. This Gift assists the Garou in evading their enemies that they might fight another day, showing them places to hide, ways to run, and even chances to strike back. A hare- or deer-spirit teaches this Gift.",
+		"system": "The player rolls Wits + Primal-Urge; difficulty 7 in the wilderness, 9 in urban environments. Each success adds one die to all pools made to escape, outdistance, hide from or evade pursuit for the remainder of the scene.",
+		"level": "1",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 45,
+		"name": "Axis Mundi",
+		"description": "The lupus reaches out with her spirit to feel the presence of Gaia, centering herself with relation to her Mother. She always knows what direction she is traveling or facing in, so long as she travels within the Gaia Realm. The spirits of migratory birds teach this Gift.",
+		"system": "This Gift’s effects are permanent.",
+		"level": "2",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 46,
+		"name": "Eyes of the Eagle",
+		"description": "This Gift allows the werewolf to see over impossibly long distances, though not through obstacles — good vantage points are invaluable, and this Gift is in much demand among caern guardians. It is taught by an eagle-spirit.",
+		"system": "The player rolls Perception + Alertness (difficulty 7). The number of successes is the number of miles added to the Garou’s clear visual range.",
+		"level": "2",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 47,
+		"name": "Name the Spirit",
+		"description": "The werewolf gains an instinctive rapport with denizens of the Umbra. He can sense the type and approximate Trait levels (Rage, Gnosis, Willpower) of spirits. Owl- and raven-spirits teach this Gift.",
+		"system": "The player spends one Willpower and rolls Perception + Occult (difficulty 8).",
+		"level": "2",
+		"users": [
+			"lupus, theurge"
+		]
+	},
+	{
+		"id": 48,
+		"name": "Scent of Sight",
+		"description": "The werewolf can compensate for her vision completely by using her sense of smell. She can attack invisible creatures normally or navigate in absolute darkness. Wolf-spirits teach this Gift.",
+		"system": "The werewolf fully substitutes her sense of smell for her vision, enabling her to distinguish identity and location flawlessly (color and fine details, such as letters printed on a page, remain beyond her). A Perception + Primal-Urge roll may be required to detect things which actively obscure their scent.",
+		"level": "2",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 49,
+		"name": "Catfeet",
+		"description": "The werewolf gains the agility of a cat, making him immune to falls under 100 feet (91 m). He also has perfect balance even on the most slippery surfaces, and the difficulties of all combat actions involving body slams and grappling decrease by two. Cat-spirits teach this gift.",
+		"system": "This ability becomes innate to those who learn the Gift.",
+		"level": "3",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 50,
+		"name": "Monkey Tail",
+		"description": "The lupus may lengthen her tail and use it as a prehensile appendage at will. Although it’s no replacement for a hand, it can grasp objects, wrap around branches, and even allow the Garou to hang upside-down. A monkey-spirit teaches this Gift.",
+		"system": "The Gift may employ her prehensile tail at will in any form which possesses a tail. Successfully manipulating the tail requires a Dexterity + Athletics roll (difficulty varies according to the task).",
+		"level": "3",
+		"users": [
+			"lupus, ragabash"
+		]
+	},
+	{
+		"id": 51,
+		"name": "Sense the Unnatural",
+		"description": "The werewolf can sense any supernatural presence and determine its approximate strength and type. Supernatural presences can include magic, spirits, Wyrm taint, ghosts, vampires, faeries, and any other such unnatural manifestation — although it won’t pick them out specifically as such. A werewolf may sense a person plagued by haunting as easily as a ghost. Any spirit servant of Gaia can teach this Gift.",
+		"system": "The player rolls Perception + Enigmas (difficulty 6). The more successes he rolls, the more information he gains. The sensory input is somewhat vague and subject to interpretation, though. For instance, a vampire might smell of clotted blood, fear, corpse-meat or whatever else the Storyteller finds appropriate.",
+		"level": "3",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 52,
+		"name": "Silence the Weaver",
+		"description": "The lupus releases a shattering howl, destroying all nearby delicate electronics — computers, laptops, smart phones, tablets and the like. Simpler machines such as land line phones, cars, and firearms are unaffected. A storm-spirit teaches this Gift.",
+		"system": "The lupus spends a turn howling. The player then spends one Rage point and rolls Manipulation + Primal-Urge. Delicate electronics are destroyed within a radius of (20 x successes) yards (or meters) in a flash of sparks.",
+		"level": "3",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 53,
+		"name": "Strength of Gaia",
+		"description": "The Goddess blesses the lupus with the fullness of his might when he wears the most natural of his skins. While wearing lupus form, the Garou enjoys the full might of Crinos. A wolf-spirit teaches this Gift.",
+		"system": "The player spends one Rage point. His Lupus form base strength increases by four, rather than the normal one, for the rest of the scene.",
+		"level": "3",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 54,
+		"name": "Beast Life",
+		"description": "The werewolf can communicate with other wild animals and attract or even command them. Domesticated animals may speak with the Garou, but they have given themselves over to the ways of humans and will provide no aid beyond information. Any animal spirit can teach this Gift, although lupus prefer to learn it from lion- or wolf-spirits.",
+		"system": "The character gains the permanent ability to communicate with all animals, regardless of the form she wears. To attract animals, the player spends one Gnosis point and rolls Charisma + Animal Ken (difficulty 7). All animals within 10 miles (16 km) per success respond to the summons, and will follow any requests the Garou makes. It is considered customary to pay homage to the spirit of any animal ordered to sacrifice itself with this Gift; to do otherwise risks angering the spirit world.",
+		"level": "4",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 55,
+		"name": "Gnaw",
+		"description": "The werewolf’s jaws strengthen until she can chew through nearly anything. Her fangs inflict more damage in combat, and only death will break her grip if she clamps her teeth into an opponent. Hyena- and wolf-spirits teach this Gift.",
+		"system": "The player spends one Willpower point and rolls Stamina + 4 against a variable difficulty (3 for wood, 6 for steel handcuffs, 9 for a train car coupling). The length of time it takes to gnaw through something depends on the number of successes. Additionally, the Gift grants a character’s bite two extra dice of damage for the rest of the scene.",
+		"level": "4",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 56,
+		"name": "Scream of Gaia",
+		"description": "The Garou emits a horrible, ragged scream imbued with Rage and the pain of Gaia. The force of the scream batters foes and knocks them off their feet. Storm-spirits teach this Gift.",
+		"system": "The player spends a Gnosis point and rolls Rage. Everyone within a 50-foot (15 m) radius, except for the werewolf’s pack, is blasted to the ground to suffer one unsoakable health level of bashing damage per success as a shockwave rips through the area.",
+		"level": "4",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 57,
+		"name": "Terror of the Dire Wolf",
+		"description": "Wolves haunt the ancestral nightmares of humanity, and of those monsters that were once human. The werewolf lets out a fierce snarl that triggers primordial terror in opponents and drowns them in the Delirium. A wolf-spirit teaches this Gift.",
+		"system": "The player spends a point of Rage and rolls Manipulation + Primal-Urge (difficulty of the opponent’s Willpower or, if he is affecting a group, the highest Willpower represented). If successful, the werewolf invokes the full effect of the Delirium on any human, formerly-human, or partly-human creature who can see her — including those normally immune to the Delirium, such as mages and vampires. Only other werewolves and Fera are immune. It may be used in any form, although Homid and Glabro raise the difficulty of the Primal-Urge roll by one.",
+		"level": "4",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 58,
+		"name": "Elemental Gift",
+		"description": "Gaia herself steps into lend a hand, offering part of herself to the character. The werewolf gains the power to command his surroundings, directing the elemental forces of the world. Elementals teach this Gift.",
+		"system": "The player spends one Gnosis point and rolls Gnosis (difficulty 8). If successful, the Garou calls an elemental, who then grants her the ability to control a large volume of air, earth, fire, or water — approximately 20’ by 20’ (6 m x 6 m) per success. The effect lasts for one scene, or until the elemental leaves or is destroyed. Elementals summoned by this Gift are roughly as powerful as a Nexus Crawler (see p. 444).",
+		"level": "5",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 59,
+		"name": "Song of the Great Beast",
+		"description": "The Garou travels to the deep wilderness and lets out a long, mournful howl. One of the Great Beasts of antiquity answers the call, appearing in the Realm near the werewolf — a mighty and savage being that walked the Earth in ages past. Such creatures include the Willawau (giant owl), the Sabertooth Tiger, the great Megalodon sharks that swam the seas eons ago and the mighty Mammoth, who arrives in herds. Who knows what else the Song might call up? The Great Beasts possess power in the physical world to rival that of mighty spirits in the Umbra. Once the ancient creature arrives, the Garou may make a request of it, but the Great Beast will fulfill it in its own way, according to its nature. Using this Gift is risky, but the results can be truly spectacular. Few spirits know this Gift. It’s said that the reclusive Mokolé (see p. 412) know which spirits can teach the Song of the Great Beast ... if any survived the Impergium, and are willing to talk to the Garou, that is.",
+		"system": "The player spends two Gnosis points and rolls Charisma + Primal-Urge (difficulty 8). More successes improve the Great Beast’s disposition. Traits are left to the Storyteller’s discretion, but should always be impressive.",
+		"level": "5",
+		"users": [
+			"lupus"
+		]
+	},
+	{
+		"id": 60,
+		"name": "Blur of the Milky Eye",
+		"description": "The werewolf’s form becomes a shimmering, indistinct blur, as though seen through heavy cataracts — even in the midday sun. The Ragabash is not truly invisible, however, and if spotted, this Gift’s protection fails until the observer is distracted. A chameleon- or ermine-spirit teaches this Gift.",
+		"system": "The player rolls Manipulation + Stealth (difficulty 8). Each success increases the difficulty of all Perception rolls made to detect him by one for the rest of the scene.",
+		"level": "1",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 61,
+		"name": "Infectious Laughter",
+		"description": "Laughter is the tool with which Gaia’s tricksters promote enlightenment and the knife that slashes through the veil of Rage. When the Ragabash laughs, those around her are compelled to follow along, forgetting their grievances. A coyote- or hyena-spirit teaches this Gift.",
+		"system": "The Ragabash must make some comment mocking the present situation in which she finds herself, then laugh at it. The player then rolls Manipulation + Expression (difficulty of the highest Rage rating of anyone listening). Success causes those who hear the Ragabash’s comment and laughter lose hold of their ire, and forget what it was that had them upset in the first place — al- though their temper will return if they are reminded of what the New Moon has made them forget.",
+		"level": "1",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 62,
+		"name": "Liar's Face",
+		"description": "The Ragabash wraps herself in such a deceitful attitude that nothing she says can be trusted — not even the clear and unvarnished truth. The werewolf may make a single truthful statement, and no human who hears it will believe her. A platypus-spirit teaches this Gift.",
+		"system": "After the character makes a truthful statement, the player spends one Willpower point and rolls Charisma + Subterfuge (difficulty 7). This Gift is automatically effective on humans, causing them to believe the Ragabash is lying. Supernatural listeners whose Willpower rating is lower than the Ragabash’s successes also refuse to believe the Ragabash’s words.",
+		"level": "1",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 63,
+		"name": "Open Seal",
+		"description": "The werewolf can open nearly any sort of closed or locked physical device. A raccoon-spirit teaches this Gift.",
+		"system": "The player rolls Gnosis (difficulty of the local Gauntlet rating). If the object is sealed with magic, the player must spend a Gnosis point before making the attempt.",
+		"level": "1",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 64,
+		"name": "Scent of Running Water",
+		"description": "The werewolf can mask her scent completely, making herself virtually impossible to track. A fox-spirit teaches this Gift.",
+		"system": "The difficulties of all rolls to track the Garou increase by two. This Gift’s effects are permanent, though the Ragabash may temporarily suppress them at will (which may be necessary to blend in with wolf packs).",
+		"level": "1",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 65,
+		"name": "Blissful Ignorance",
+		"description": "The Garou can become completely invisible to all senses, spirits or monitoring devices by remaining still. A chameleon-spirit teaches this Gift.",
+		"system": "The player rolls Stamina + Stealth (difficulty 5). Each success subtracts one success from the Perception + Alertness rolls of those looking for the character. If no one is actively seeking the werewolf, one success provides perfect concealment.",
+		"level": "2",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 66,
+		"name": "Pulse of the Prey",
+		"description": "If the werewolf knows anything about her prey—even a nickname, initials, or crude description—she can track it as fast as she can travel. This unerring sense of direction works anywhere, and is as useful for tracking spirits through the Deep Umbra as Pentex executives through Baltimore. A wolf- or dog-spirit teaches this Gift.",
+		"system": "No roll is required unless the target is actively hiding, in which case the player rolls Perception + Enigmas against a difficulty of the target’s Wits + Stealth. If the target is a spirit, the difficulty is the spirit’s Gnosis.",
+		"level": "2",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 67,
+		"name": "Spider's Song",
+		"description": "The Ragabash can steal messages from the Weaver’s web, plucking them from the air or eavesdropping as they race through telephone lines. The Ragabash must be aware that a conversation is happening to listen in on it (though she doesn’t have to know who’s on the other end of the line). For conversations across land lines, the Ragabash must place her ear against a telephone pole or cord; to listen in on cell phone discussions (or even to intercept text messages) she need only be able to see one of the phones being used. Spider- and raven-spirits teach this Gift.",
+		"system": "The player spends a Gnosis point. She listens in on the conversation (or receives mental translations of text messages) for as long as she keeps her ear to the line or keeps the cell phone user in sight.",
+		"level": "2",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 68,
+		"name": "Taking the Forgotten",
+		"description": "A Ragabash with this Gift can steal something from a target and make his victim forget that she ever possessed the stolen item. A mouse-spirit teaches this Gift.",
+		"system": "After successfully stealing the item, the player must score three successes on a Wits + Larceny roll (difficulty of the victim’s Intelligence + Streetwise).",
+		"level": "2",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 69,
+		"name": "Gremlins",
+		"description": "The Ragabash can cause a technological device to malfunction merely by touching it. This Gift actually causes the spirit energy within the device to work counter to its function. If the Garou can frighten the spirit sufficiently, it will flee the device, causing it to malfunction permanently. A Gremlin teaches this Gift.",
+		"system": "The player rolls Manipulation + Intimidation; the difficulty is determined by the complexity of the item. The more successes the Garou obtains, the more the device is damaged. Three successes disables the device permanently (the spirit has fled). Good roleplaying might certainly warrant one to three additional dice, at the Storyteller’s discretion.<br><br>Device | Difficulty <br> Computer | 4 <br> Phone | 6 <br> Car | 7 <br> Gun | 8 <br> Knife | 9",
+		"level": "3",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 70,
+		"name": "Liar's Craft",
+		"description": "The Ragabash can tell the most outrageous of lies and have them accepted as truth — for a while, at least. This Gift is taught by a fox-spirit.",
+		"system": "The character first tells his lie, then the player rolls Wits + Subterfuge (difficulty of the target’s Wits + Subterfuge, or the highest rating in a group of listeners). One success convinces a single individual, while three successes are needed to dupe a crowd. Since the roll is made after the lie is told, this Gift always carries some element of risk.",
+		"level": "3",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 71,
+		"name": "Open Moon Bridge",
+		"description": "The werewolf has the ability to open a moon bridge, with or without the permission of the totem of that caern. A Lune teaches this Gift.",
+		"system": "The player spends one Gnosis point. See the Rite of the Opened Bridge (p. 207) for more information on opening moon bridges. The maximum distance that can thereby be covered is 1,000 miles (1600 km).",
+		"level": "3",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 72,
+		"name": "Pathfinder",
+		"description": "The werewolf can strike implausible trails through pristine wilderness and the urban jungle alike, locating the fastest and shortest routes from one place to another. A crow-spirit teaches this Gift.",
+		"system": "The player rolls Perception + Survival (for wilderness) or Streetwise (for urban environments) against difficulty 7. The number of successes equals the quality of the path she blazes and how much she decreases her travel time. Every success reduces travel time by approximately 10 percent, up to a maximum of half the original travel time. The difficulty of any rolls to track the werewolf increase by two when this Gift is active; this decrease is cumulative with other similar effects, such as Scent of Running Water.",
+		"level": "3",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 73,
+		"name": "Luna's Blessing",
+		"description": "When Luna stands visible in the night sky, silver ceases to act as a bane to the Garou. Indeed, when the moon waxes full, silver may well turn on those who would wield it against Gaia’s children. A Lune teaches this Gift.",
+		"system": "When the moon shows in the sky in a visible phase, the character suffers lethal or bashing damage from silver, rather than aggravated (damage type depends on the form of attack — a silver-headed cane would do bashing damage, while silver bullets inflict lethal damage). Additionally, all attacks against the werewolf with silver weapons at this time are considered to roll a 1 in addition to all dice actually rolled — or a pair of 1s during the full moon. The Garou retains his normal vulnerability to silver during the day, on nights of the new moon, and when the moon is below the horizon.",
+		"level": "4",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 74,
+		"name": "Umbral Dodge",
+		"description": "The Ragabash finds that the best way to deal with an enemy is to send him far away — perhaps to a place where he’ll learn the folly of his ways. She may tear open a hole in the Gauntlet while dodging an enemy’s attack, sending them to the land of spirits. A trapdoor spider-spirit teaches this Gift.",
+		"system": "When attempting to dodge a close-range attack, the player spends one Gnosis point and increases the difficulty of the dodge by one, or to the rating of the local Gauntlet, whichever is higher. If the dodge succeeds in avoiding the attack completely, the attacker is dropped into the Penumbra (or into the physical world if this Gift is used in the Penumbra).",
+		"level": "4",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 75,
+		"name": "Whelp Body",
+		"description": "The Garou delivers a devastating curse upon a foe’s body, causing it to weaken or palsy. Many consider the use of this Gift upon a foe to constitute a declaration of eternal enmity. Pain- and disease-spirits teach this Gift.",
+		"system": "The player spends one Gnosis point and rolls Gnosis, resisted by the target’s own roll of higher of Gnosis or Stamina. The Garou’s difficulty is the opponent’s Willpower, while the victim’s difficulty is the Ragabash’s Gnosis. Each success scored by the Ragabash allows her to remove one point from any of the victim’s Physical Attributes. The effect is permanent, although the victim may restore these Attributes via experience. This Gift may be used only once ever against a given opponent.",
+		"level": "4",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 76,
+		"name": "Thieving Talons of the Magpie",
+		"description": "The Ragabash can steal the powers of others and use them herself. These powers can be Gifts (either Garou or those of other Fera), spirit Charms, vampiric Disciplines, Sphere magic or any other such power (the Edges of the Imbued may be exempt, at the Storyteller’s discretion). Naturally, a magpie-spirit teaches this Gift.",
+		"system": "The player must gain three successes on a Wits + Larceny roll (difficulty of the target’s Willpower). If successful, the Ragabash steals the targeted power, depriving its owner of its use. Powers are stolen piecemeal, so a Ragabash who steals a vampire’s power to merge with the earth (Protean •••) doesn’t also gain its ability to see in the dark or grow claws (Protean • and ••). The Garou may keep the power for as many turns as she wishes, so long as she pays a point of Gnosis each turn. The werewolf’s Gnosis is substituted for any Traits exclusive to the victim that might be necessary to work the power, such as a vampire’s blood pool or a mage’s Arete. The Ragabash must know something about her target’s powers, either through observation or rumor, and she must target a power in the terms by which she would understand it (“I wish to steal the wizard’s ability to command fire!”). This Gift grants no insight into stolen powers, so botches tend to be dramatic and memorable.",
+		"level": "5",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 77,
+		"name": "Thousand Forms",
+		"description": "The werewolf with this Gift may change herself into any animal between the sizes of a small bird and a bison. The Garou gains all the special capabilities (flight, gills, poison, sensory abilities, etc.) of the animal she mimics. She may not take the form of Wyrm-beasts (not that she would wish to!), but with some extra effort she may take the form of mystical beasts (such as a griffon or unicorn), provided the beast remains within the usual size limitations of the Gift. Wyld-spirits teach this Gift.",
+		"system": "The player spends a point of Gnosis and rolls Intelligence + Animal Ken (difficulty 6). One success allows the character to assume the shape of any normal animal. For the duration of the scene, he may make additional transformation rolls without spending additional Gnosis, provided he only takes the shape of normal animals. To allow the character to take on a mythical form, the player must spend an additional point of Gnosis and succeed against a difficulty of 9.",
+		"level": "5",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 78,
+		"name": "Firebringer",
+		"description": "The Ragabash performs the ultimate trick, stealing a supernatural power and turning it into a Gift, which may in turn be bestowed upon to others as though the New Moon were a spirit teacher. Alas, the Ragabash must first survive having the power used upon him. Coyote or another trickster Incarna teaches this Gift.",
+		"system": "After having a power used on him, the Ragabash may spend one point of permanent Gnosis to internalize it into a Gift. The Ragabash cannot use this Gift himself, and in fact forfeits all defenses against that power if ever used on him in the future; it exists instead as a treasure to bequeath upon the Garou Nation. Any power may become a Gift in this fashion — even the vile magic of the Wyrm may be stolen and turned to the defense of Gaia. The Storyteller determines the new Gift’s appropriate level and what sort of spirit Garou should be able to learn it from. In the case of mages, this power steals particular rotes rather than entire Spheres.",
+		"level": "6",
+		"users": [
+			"Ragabash"
+		]
+	},
+	{
+		"id": 79,
+		"name": "Mother's Touch",
+		"description": "The Theurge channels spiritual power through her hands, mending the wounds of any other living creature. This Gift may not heal the werewolf herself, spirits, or the undead. A bear- or unicorn-spirit teaches it.",
+		"system": "The player spends one Gnosis point and rolls Intelligence + Empathy (difficulty is the target’s current Rage, or 5 for those with no Rage). Each success heals one level of lethal, bashing, or aggravated damage. The healer may even heal fresh Battle Scars (see p. 259) in this manner, if the Gift is applied during the same scene in which the scar is received and an extra Gnosis point is spent.",
+		"level": "1",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 80,
+		"name": "Spirit Snare",
+		"description": "The Theurge casts out an invisible, mystic net which entangles hostile spirits, confounding them with a mixture of magical force and long-broken but still potent Gaian law. An owl-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point and rolls Intelligence + Occult (difficulty 8) as an attack directed at a spirit within 30 feet, which can be defended against normally. Rather than inflicting damage, this attack reduces the spirit’s effective Willpower by two for the purpose of all combat actions for the rest of the scene. Multiple applications of this Gift don’t stack.",
+		"level": "1",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 81,
+		"name": "Spirit Speech",
+		"description": "This Gift bestows understanding of the language of the spirit world, permitting the Garou to clearly understand and speak with any spirit he encounters. The Gift doesn’t influence spirits’ attitudes toward the werewolf in any way, nor ensure that they have any desire to communicate with him. Any spirit can teach it.",
+		"system": "This Gift’s effects are permanent.",
+		"level": "1",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 82,
+		"name": "Umbral Tether",
+		"description": "The Umbra is a shifting world where logic doesn’t always apply and losing one’s way is easy. Theurges ensure they can always find their way back to the point where they entered the Umbra with this Gift, which creates a silvery “umbilical cord” connecting the Garou to the point where they last crossed the Gauntlet. Only the werewolf who creates the tether can see it. This Gift is taught by a spider-spirit.",
+		"system": "No roll is needed to create the thread. However, after each full day the character spends in the Umbra, a point of Gnosis must be spent to maintain the cord; otherwise, it slowly corrodes from the point of entry and toward the Garou.",
+		"level": "1",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 83,
+		"name": "Battle Mandala",
+		"description": "A mystical sigil burns itself into the ground around the Theurge, visible only to those with Gnosis ratings. This circle drains the Essence from spirits caught within its web. A spider- or antlion-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis and rolls Intelligence + Occult (difficulty 7). The battle mandala encompasses a radius of (50 x number of successes) feet (or 15 meters per success) around the Garou; spirits (other than the Garou’s pack totem) within the mandala lose one Essence per turn. The mandala dissipates at the end of the scene or when the werewolf steps outside of its bounds, whichever comes first.",
+		"level": "2",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 84,
+		"name": "Command Spirit",
+		"description": "The Theurge can give commands to spirits she meets and expect obedience. The Gift doesn’t grant the ability to summon spirits — only to compel them to obey. As always when dealing with spirits, clear wording is essential, as some clever spirits may attempt to twist the spirit of issued commands while obeying them to the letter. Any Incarna avatar can teach this Gift.",
+		"system": "The player spends a Willpower point and rolls Charisma + Leadership (difficulty is the spirit’s Gnosis). The character can issue successive commands once the spirit is under her control; each additional command requires that the player expend an additional Willpower point. The spirit cannot be ordered to leave a place or object (or, in the case of fomori, person...) to which it is bound.",
+		"level": "2",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 85,
+		"name": "Sight From Beyond",
+		"description": "This is a Gift of prophecy. The werewolf becomes an oracle, prone to dreams and visions which hint at future opportunities, challenges and threats to come. These visions are always veiled in symbolism — an impending war against the local vampires might be presaged by visions of skyscrapers weeping blood from their upper stories, while a death in the sept might be heralded by dreams of a chorus of mournful howls rising to a ghost-pale moon. Owl-spirits teach this Gift.",
+		"system": "Visions are entirely under the Storyteller’s control and are best handled through roleplaying, though a truly stumped player might ask for a Wits + Occult (difficulty 7) roll to help interpret a particularly puzzling vision.",
+		"level": "2",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 86,
+		"name": "Exorcism",
+		"description": "This is the Gift of ejecting spirits from places, objects, or even people, whether they are bound or in voluntary possession. Any Incarna avatar can teach this Gift.",
+		"system": "The werewolf must concentrate for three uninterrupted turns. If the spirit does not wish to leave, the player must roll Manipulation + Intimidation (difficulty of the spirit’s Willpower). If the spirit was bound to its lodging, the exorcist must gain more successes than the binder did when tying the spirit to its location. This Gift can be used to “cure” fomori, although doing so inflicts ten levels of aggravated damage at a rate of one level per turn as the Bane tears free of its fleshly home. This ensures the host’s swift demise unless a powerful healer manages to preserve his life during the exorcism.",
+		"level": "3",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 87,
+		"name": "Pulse of the Invisible",
+		"description": "Spirits fill the world, and none know this fact better than the Theurge. This Gift grants constant awareness of the spirit world. Even in the physical world, the Theurge can interact with spirits in the Penumbra at will. While most spirit activity isn’t worth watching, the Theurge will be automatically aware of any dramatic changes or upheavals nearby. Any spirit can teach this Gift.",
+		"system": "If the Garou’s permanent Gnosis equals or exceeds the local Gauntlet, he can see into the Umbra automatically. Otherwise, the player must roll Gnosis to look through the Gauntlet (difficulty of the Gauntlet rating). Such awareness lasts for the rest of the scene or until the character enters an area with a stronger Gauntlet.",
+		"level": "3",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 88,
+		"name": "Umbral Camouflage",
+		"description": "Although perfectly visible to all others, this Gift renders the werewolf undetectable to spirits. A wind-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point, and for the remainder of the scene, she is completely invisible to spiritual senses. She may move about as normal but cannot make any attack actions without disrupting the Gift.",
+		"level": "3",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 89,
+		"name": "Web Walker",
+		"description": "The Garou may travel on the Pattern Web through the Umbra without physical difficulty, and without attracting the unfriendly attention of Weaver-spirits in the area. Any Weaver-spirit can teach this Gift.",
+		"system": "The player spends one Gnosis point and rolls Charisma + Science (difficulty 7). Success enables the Garou (and her pack, so long as they stick close to her) to travel through the Umbra across the Pattern Web as though she were on a moon bridge. Whether the Web’s strands go where the Garou wants to travel is another matter entirely.",
+		"level": "3",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 90,
+		"name": "Blurring the Mirror",
+		"description": "This Gift allows the Theurge to cloud the minds of other beings, making it impossible for them to find the Umbra or step sideways into it. Once used as a form of punishment for arrogant pups, this Gift is more often deployed as a weapon against Black Spiral Dancers in the days of the coming Apocalypse. A Weaver-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis point for every individual she wishes to affect. The Gauntlet increases by five for those targets for the rest of the scene. Up to five individuals can be affected at once. While normally used against other Garou, this Gift is effective against any being capable of entering the Umbra sideways, including other Fera and some mages.",
+		"level": "4",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 91,
+		"name": "Grasp the Beyond",
+		"description": "The werewolf may carry things in and out of the Umbra without having to dedicate them to herself (see the Rite of Talisman Dedication, p. 211). This Gift affects objects, people and animals, both willing and unwilling. An opossum- or kangaroo-spirit teaches this Gift.",
+		"system": "The character must grasp the object or person he wishes to take to (or from) the spirit world, and spend a number of Willpower points: one for small items (a knife or cell phone), two for larger items (a backpack or shotgun), and three for man-sized items (including people). The player makes the usual Gnosis roll to pierce the Gauntlet and step sideways; if successful, both he and the desired object or person pass into the Umbra. An unwilling subject may resist with a Willpower roll; each success subtracts one from the Garou’s successes. If left in the Umbra too long, living beings turn into spirits entirely.",
+		"level": "4",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 92,
+		"name": "Spirit Drain",
+		"description": "The Garou may drain power from a spirit to feed her own resolve. A rat-spirit teaches this Gift.",
+		"system": "The player makes a resisted Gnosis roll against the spirit. If the player succeeds, the spirit loses one Essence point per success for the rest of the scene. For every two points drained, the Garou gains a temporary Willpower point. She loses any points exceeding her maximum at the end of the scene.",
+		"level": "4",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 93,
+		"name": "Feral Lobotomy",
+		"description": "Unleashing a surge of pure Wyld energy, the werewolf can devolve an opponent’s mind into that of an animal, effectively destroying his intelligence. A Wyldling teaches this Gift.",
+		"system": "The player rolls Wits + Empathy (difficulty of the target’s Willpower + 3, maximum 10) and spends a number of Gnosis points. If successful, the Garou can destroy the target’s Intelligence Attribute permanently; the target loses one Intelligence dot for each two points of Gnosis spent, and cannot lose more Intelligence than the number of successes rolled. Lost Intelligence is replaced with feral, animalistic behavior.",
+		"level": "5",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 94,
+		"name": "Malleable Spirit",
+		"description": "The werewolf can change a spirit’s form or purpose. A Chimerling teaches this Gift.",
+		"system": "The player must best the spirit in a resisted Gnosis roll. The difficulty is based on what the Garou tries to accomplish, while the spirit’s difficulty is the Garou’s Gnosis. <br><br> Change | Difficulty <br> Characteristics (Willpower, Rage, Gnosis; one point changed per success) | 6 <br> Disposition (Friendly, Neutral, Hostile) | 7 <br> Type (Naturae, Elemental, Bane, etc) | 9",
+		"level": "5",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 95,
+		"name": "Ultimate Argument of Logic",
+		"description": "Those who speak with the Theurge leave convinced of some fact they might otherwise have disbelieved. If successful, the Garou can cause the target to believe implicitly in one aspect of existence (true or false) — that the Earth is the center of the universe, that there is such a thing as a spirit world, or that cities are unnatural affronts to nature, for example. A coyote-spirit teaches this Gift.",
+		"system": "The player needs three successes on a Manipulation + Performance roll (difficulty of the target’s Wits + Enigmas).",
+		"level": "5",
+		"users": [
+			"Theurge"
+		]
+	},
+	{
+		"id": 96,
+		"name": "Fangs of Judgement",
+		"description": "It falls upon the Philodox to levy not only judgment but also punishment against those who have fallen from their proper stations. This Gift, taught by an ancestor-spirit, causes the werewolf’s claws and fangs to burn with the righteous power of law.",
+		"system": "The player spends one Willpower point. For the next full day, all of the Garou’s natural weaponry attacks do two extra dice of damage to all beings who have fallen from their original purpose to the service of the Wyrm (such as Black Spiral Dancers, fomori, and corrupted nature spirits; Banes which came into existence as agents of the Wyrm are, regrettably, exempt from this Gift’s sanction).",
+		"level": "1",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 97,
+		"name": "Resist Pain",
+		"description": "Fortifying herself with purpose and will, the werewolf shuts out the pain of her wounds. A bear- or badger-spirit teaches this Gift.",
+		"system": "The player spends one Willpower point; the character ignores all wound penalties for the rest of the scene.",
+		"level": "1",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 98,
+		"name": "Scent of the True Form",
+		"description": "The Philodox is able to scent the truth of those she meets, literally sniffing out an individual’s true form. A vulture- spirit teaches this Gift. ",
+		"system": "The Garou can smell Kinfolk or a fellow werewolf automatically. In all other cases, the player must roll Perception + Primal-Urge (difficulty 6). One success will identify a normal human or animal; two successes will detect a vampire, changeling, demon, mummy, or Fera; four successes are needed to sniff out a mage, ghoul, or fomor. The Imbued register as normal humans to this Gift. Unfamiliar scents aren’t automatically recognized: A Philodox that has never encountered any Rokea might not immediately recognize the scent she detects as “wereshark.”",
+		"level": "1",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 99,
+		"name": "Truth of Gaia",
+		"description": "As judges of the Litany, Philodox may easily separate truth from falsehood. A Gaffling of Falcon teaches this Gift.",
+		"system": "The player rolls Intelligence + Empathy (difficulty equals the subject’s Manipulation + Subterfuge). This Gift reveals only which of the words that have been spoken are true and which are false. It doesn’t reveal the truth behind a lie unless the speaker utters it. If the speaker is uncertain whether his words are true or false, the Gift identifies them as neither.",
+		"level": "1",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 100,
+		"name": "Call to Duty",
+		"description": "Names hold great power in the spirit world, and the Philodox may exploit this to summon and command any spirit she knows by name. Only one command may be given, and the spirit departs immediately after fulfilling it. Alternatively, all spirits in the area may be called in times of great need. An Incarna avatar teaches this Gift.",
+		"system": "The Garou must know the name of the spirit she wishes to summon. The player rolls Charisma + Leadership (difficulty equal to the spirit’s Willpower). The second mode of this Gift simply requires the player to spend two Gnosis points to summon all Gaian spirits within a one-mile (1.6 km) radius. If the character has abused this Gift in the past (in the Storyteller’s estimation), the spirits might refuse the call — such a general summons is rooted more in appeal to duty than compulsion. The mightiest of spirits (Incarnae and above) are generally able to ignore this Gift if they choose.",
+		"level": "2",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 101,
+		"name": "Command the Gathering",
+		"description": "The Philodox draws all eyes to herself with a great exclamation, a clap of her hands, the striking of klaive to shield, or some other such gesture. Until she has had her say, none may depart or interrupt her. A lion-spirit teaches this Gift.",
+		"system": "The player spends one Willpower point and rolls Appearance + Leadership (difficulty equals the highest Willpower among those whose attention she seeks to gain). If the roll succeeds, all in attendance fall quiet and listen. Any individual who wishes to interrupt the Philodox or walk out before she has finished speaking must spend two points of Willpower to do so.",
+		"level": "2",
+		"users": [
+			"Philodox, Galliard"
+		]
+	},
+	{
+		"id": 102,
+		"name": "King of the Beasts",
+		"description": "The Philodox’s authority extends even into the realm of beasts, so that he can command the loyalty of any single animal. If successful, the animal follows the letter and spirit of his commands unconditionally. A lion- or falcon-spirit teaches this Gift.",
+		"system": "The Philodox targets one animal within 100 feet (30 m). The player rolls Charisma + Animal Ken (difficulty 7). The power lasts until the Garou releases the animal from its obligation to him; this Gift can only hold sway over one animal at a time.",
+		"level": "2",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 103,
+		"name": "Strength of Purpose",
+		"description": "Philodox use this Gift to fortify themselves in the face of the Apocalypse, turning hot passion and burning Rage into cold, steely resolve. A wolf-spirit teaches this Gift.",
+		"system": "Once per scene, the player may roll Stamina + Rituals (difficulty 7). For every two successes, the Philodox recovers one point of Willpower, up to her maximum.",
+		"level": "2",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 104,
+		"name": "Scent of the Oathbreaker",
+		"description": "Oaths sanctified before a Philodox are a serious matter indeed, so this Gift grants the judges of the Garou nation the ability to know when an oath has been broken and totrack down the oathbreaker to correct him personally. A dog-spirit teaches this Gift.",
+		"system": "The Philodox may spend one Gnosis point to sanctify any oath or promise he personally witnesses, no matter how formal or informal. If at any point in the future one of the individuals sworn to the oath breaks it, the Philodox immediately becomes aware of this, and all rolls for the werewolf to track the oathbreaker by scent drop to difficulty 4. This benefit lasts until the Philodox next stands in the oathbreaker’s presence.",
+		"level": "3",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 105,
+		"name": "Sense Balance",
+		"description": "As the arbitrators of the Garou Nation, the Philodox have developed an attunement with the cosmic forces that balance the Tellurian. The werewolf may sense an overabundance of Wyrm, Wyld, or Weaver energies in a location. A cat-spirit teaches this Gift.",
+		"system": "The player spends a Gnosis point and rolls Perception + Enigmas (difficulty 8) to detect the spiritual balance of an area, if any. Wyrm manifestations feel dense and oily, Weaver presence feels cold and unyielding, and Wyld energies feel hot and trembling. The Philodox must be at peace and without distraction to use this Gift.",
+		"level": "3",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 106,
+		"name": "Weak Arm",
+		"description": "By watching an opponent’s fighting style, the Philodox can quickly evaluate his strengths and weaknesses. Snake- and wind-spirits teach this Gift.",
+		"system": "The player rolls Perception + Brawl (difficulty 8). Each success grants one bonus die to add to her attack or damage rolls against that opponent. For instance, a Philodox who gets four successes could add two dice to her attack rolls and two to her damage pool, or four to her damage rolls, or three to attack and one to damage — whatever combination suits her. However, the distribution of dice cannot be changed once the Gift has been activated. This Gift can be used against a given foe only once per scene, and its benefits are lost at the end of the scene. A full turn of concentration is necessary to use this Gift.",
+		"level": "3",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 107,
+		"name": "Wisdom of the Ancient Ways",
+		"description": "All werewolves have an innate connection to their ancestors — a spiritual, racial unconscious accessible through intense meditation. The Philodox can tap into these deep memories to remember ancient lore. An ancestor-spirit teaches this Gift.",
+		"system": "The character must meditate for a short time, concentrating on the past. The player then rolls Gnosis (difficulty 9, –1 for each dot of Ancestors the Garou possesses). The number of successes determines how detailed and exact the answer he receives will be.",
+		"level": "3",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 108,
+		"name": "Roll Over",
+		"description": "The werewolf radiates authority and power, allowing him to exert his dominance over others. Humans bow or kneel, while Garou roll over to expose their throats. A wolf-spirit teaches this Gift.",
+		"system": "The player begins an extended, resisted Willpower contest. The results are compared to each of her opponents in turn; when the player has scored three more successes than an opponent, that opponent drops out of the contest and submits. If one of the opponents accumulates three more successes over the character, the contest ends. For the remainder of the scene, any individual who has submitted will take no actions at all without the approval of the character, unless their life depends on it.",
+		"level": "4",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 109,
+		"name": "Scent of Beyond",
+		"description": "With a moment’s concentration, the werewolf can hurl her senses to any place with which she is familiar (even an Umbral location), no matter how far away it may be. Because a bird-spirit teaches this Gift, her senses perceive the scene from above.",
+		"system": "The player rolls Perception + Enigmas (difficulty 8). If the target location is in the Umbra, the difficulty is 8 or the local Gauntlet rating, whichever is higher. This far-seeing continues for as long as the werewolf desires, but the character suffers a –3 penalty to any attempts to react to local stimuli while her senses are projected.",
+		"level": "4",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 110,
+		"name": "Take the True Form",
+		"description": "The Philodox can force a being into its true form. A wolf-spirit teaches this Gift.",
+		"system": "The player rolls Manipulation + Primal-Urge (difficulty 7). If successful, Changing Breeds (including Garou) are forced to revert to their breed form for one turn per success. Other shapeshifted creatures (such as vampires masquerading as wolves) targeted by this power are likewise forced to revert to their true forms.",
+		"level": "4",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 111,
+		"name": "Geas",
+		"description": "This Gift binds an individual or group to a sacred oath. While the geas cannot force and individual to act against her nature (such as to allow herself to be killed), it also doesn’t allow her to act against the task the Philodox has set before her. This Gift is taught by an Incarna avatar.",
+		"system": "The player spends one Gnosis point and rolls Manipulation + Leadership (difficulty of the opponent’s Willpower, or the highest Willpower in a group). The compulsion to complete the task set out in the geas lasts until the task is completed or the target is harmed to the point of incapacitation in pursuit of the quest.",
+		"level": "5",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 112,
+		"name": "Wall of Granite",
+		"description": "Philodox have a stronger relationship with the elementals of the earth than other werewolves do; just as the earth upholds those upon it, the Philodox uphold the Litany that sustains their people. While in contact with earth or rock, the Philodox can invoke a wall to protect himself. This wall moves with the Garou, defending him from all angles. Earth elementals teach this Gift.",
+		"system": "The player spends one Gnosis point. The wall’s dimensions are three yards high, two yards long and one yard thick (or a similar number of meters), and if the Garou desires, it may be extended to encircle a number of allies up to the werewolf’s Gnosis, so long as they huddle close. It has a soak pool of 10 dice, and 15 health levels must be inflicted to penetrate it at any point. The wall lasts for one scene or until released into the earth by the Garou.",
+		"level": "5",
+		"users": [
+			"Philodox"
+		]
+	},
+	{
+		"id": 113,
+		"name": "Break the Bonds",
+		"description": "This Gift shatters all bonds, whether physical or mental, from sturdy iron chains to the slavery of a vampire’s bewitched blood. The Garou may use it to benefit any being, including herself. It is taught by any Incarna with the freedom to come and go as they please.",
+		"system": "The Garou is automatically immune to any supernatural coercion, and may break bonds as though she had Strength 15. She may also break another’s physical bonds with that same Strength, or banish mental bonds from another with a Manipulation + Leadership roll (difficulty 11 – target’s Willpower).",
+		"level": "6",
+		"users": [
+			"Philodox, Galliard"
+		]
+	},
+	{
+		"id": 114,
+		"name": "Beast Speech",
+		"description": "The werewolf may instinctively understand and communicate with any natural animals, from fish to mammals. She need only speak normally to be understood by animals, along with a touch of appropriate body language — there is no need to bark like a dog. This Gift doesn’t change animals’ basic reactions or dispositions; most are still afraid of predators such as werewolves. Any animal spirit can teach this Gift.",
+		"system": "This Gift’s effects are permanent.",
+		"level": "1",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 115,
+		"name": "Call of the Wyld",
+		"description": "The werewolf may send her howl far beyond the normal range of hearing and imbue it with great emotion, stirring the hearts of fellow Garou and chilling the bones of all others. A wolf-spirit teaches this Gift.",
+		"system": "The player rolls Stamina + Empathy; the number of successes determines how far away the Call can be heard (double the normal range for each success) and how stirring it is to those who hear it. This Gift should be used in conjunction with one of the Garou howls (see p. 58). The Storyteller determines the effects as appropriate to the purpose to which it is put, perhaps awarding a bonus die to revel participants for each two successes, or granting a point of Rage to all listeners for an exceptional battlefield howl.",
+		"level": "1",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 116,
+		"name": "Mindspeak",
+		"description": "Invoking the power of a waking dream, the Garou can place any chosen characters into silent communication. A Chimerling teaches this Gift.",
+		"system": "The player spends one Willpower point per chosen sentient being and makes a Manipulation + Expression roll (difficulty of the victim’s Willpower) if any participants are unwilling. All those included in the waking dream may interact normally through the Mindspeak, although they can inflict no damage through it. Their real bodies can still act, although all dice pools decrease by two. The Mindspeak ends when all the participants want it to, or on the turn the Galliard fails the roll against an unwilling member. All beings affected must be within line of sight. The Garou may include her entire pack in the waking dream for only one Willpower point, if she desires.",
+		"level": "1",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 117,
+		"name": "Perfect Recall",
+		"description": "The werewolf is able to remember and relive any memory with perfect clarity. An elephant-spirit teaches this Gift.",
+		"system": "The player may spend one Gnosis point to perfectly remember any one detail, no matter how small, from any point in her character’s entire life.",
+		"level": "1",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 118,
+		"name": "Call of the Wyrm",
+		"description": "This dangerous Gift attracts creatures of the Wyrm, luring them into traps and ambushes or flushing them from hiding. Any spirit servant of Gaia can teach this Gift.",
+		"system": "The player makes a resisted roll of Manipulation + Performance against the Wyrm creature’s Willpower(both rolls are difficulty 7). If the Wyrm creature loses the contest, it must come to the source of the Call.",
+		"level": "2",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 119,
+		"name": "Distractions",
+		"description": "The werewolf can make distracting yips, yelps, and howls to divert the attention of his target. A coyote-spirit teaches this Gift.",
+		"system": "The player rolls Wits + Performance (difficulty equals the victim’s Willpower). Each success subtracts one die from the target’s dice pool for the next three turns.",
+		"level": "2",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 120,
+		"name": "Dreamspeak",
+		"description": "The Galliard can walk among another’s dreams and thereby affect their course. The werewolf doesn’t have to be anywhere near the target, but she must know or have seen the dreamer. A Chimerling teaches this Gift.",
+		"system": "The player rolls Wits + Empathy (difficulty 8). If the dreamer awakens while the Galliard is still within the dream, the werewolf is thrown out of the dream world and loses a Gnosis point.",
+		"level": "2",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 121,
+		"name": "Howls in the Night",
+		"description": "The werewolf sends a full-throated howl shivering into the night sky, evoking primal terror in Gaia’s enemies. Creatures of the Wyrm who hear the howl find themselves troubled and unable to rest easily while their enemies are on the prowl. A wolf-spirit teaches this Gift.",
+		"system": "The player spends a Gnosis point and rolls Charisma + Primal-Urge (difficulty 7). Creatures of the Wyrm who hear the howl will be jolted awake if asleep, and rendered unable to sleep for the next (successes x 3) hours.",
+		"level": "2",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 122,
+		"name": "Eye of the Cobra",
+		"description": "With an unearthly stare, the werewolf can draw anyone to within striking distance. A snake-spirit teaches this Gift.",
+		"system": "The player rolls Appearance + Enigmas (difficulty equal to the target’s Willpower). The Garou needs three successes to bring the target to his side; fewer successes will at least start the victim moving in the right direction. Once there, the target can do as he pleases, but he must try his best to get to the Galliard until then.",
+		"level": "3",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 123,
+		"name": "Song of Heroes",
+		"description": "Reciting a tale of ancient Garou heroism, the Galliard conjures up the spirit of fallen heroes and infuses those listening with some portion of their power. An ancestor-spirit teaches this Gift.",
+		"system": "This Gift requires the full recitation of a story of epic heroism, taking at least several minutes. Athe end of the tale, the player spends two Gnosis pointand rolls Charisma + Performance (difficulty 8). Every two successes on this roll add one point to a single Ability score for all listening Garou and Kinfolk, much like the Ancestors Background (see p. 136). This bonus last until the sun rises.",
+		"level": "3",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 124,
+		"name": "Song of Rage",
+		"description": "This Gift unleashes the beast in others, forcing werewolves, vampires, and other such creatures into frenzy and turning humans into berserkers. A wolverine-spirit teaches this Gift.",
+		"system": "The Garou rolls Manipulation + Leadership (difficulty of the target’s Willpower). The victim flies into a violent rage (or frenzy, if naturally prone) for one turn per success.",
+		"level": "3",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 125,
+		"name": "Song of the Siren",
+		"description": "The Garou’s song or howl can entrance anyone who hears it. A songbird- spirit teaches this Gift.",
+		"system": "The player rolls Charisma + Performance (difficulty equal to the target’s Willpower) and spends one Gnosis point. Packmates resist the Gift automatically; all others in earshot whose Willpower is exceeded are affected. Enchanted targets can’t perform any actions for a number of turns equal to the successes rolled, unless one Willpower point is spent per turn of free action.",
+		"level": "3",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 126,
+		"name": "Bridge Walker",
+		"description": "The Galliard may create minor moon bridges through which she alone can travel. Such travel takes one percent of the time the journey would take normally, allowing the werewolf to disappear from in front of a foe and reappear behind it instantly. These moon bridges are not protected by Lunes, and may attract the interest of spirits. A Lune teaches this Gift.",
+		"system": "The player spends one Gnosis point to create the bridge. The moon bridge lasts for only one passage, unless the player spends an additional three Willpower, in which case it lasts until the next full moon. The maximum distance that can be traversed by the bridge is the Garou’s Gnosis in miles (1.6 km per Gnosis dot). ",
+		"level": "4",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 127,
+		"name": "Gift of Dreams",
+		"description": "The Galliard crafts a dream, then breathes it into a sleeping individual. A Lune teaches this Gift.",
+		"system": "The player rolls Wits + Expression (difficulty 6) to craft the dream; more successes allows for more vivid and impactful dreams. To ensure that an individual experiences this dream, the Galliard must breathe it into the target’s mouth while they sleep. The player spends a Gnosis point to complete the Gift. Dreams crafted with this Gift are often unusually vivid and dramatic, often leaving even lifelong skeptics convinced that they hold some deep meaning.",
+		"level": "4",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 128,
+		"name": "Shadows by the Firelight",
+		"description": "The Galliard invokes shadows and dreams to set the stage for a play in which other werewolves play a part. The Galliard narrates the tale, and the actors are swept along in the narrative, willing or no. The Gift is often used at moots, since it allows many to participate in the retelling of legends. It is also used as an object lesson for the way- ward and stubborn. An ancestor-spirit teaches this Gift.",
+		"system": "To press an unwilling actor into the shadow-play, the player spends one Gnosis point per target and rolls Manipulation + Performance (difficulty equal to the target’s Willpower). The effects last until the story ends (one scene), or until the actor is attacked. Willing participants require no roll or expenditure.",
+		"level": "4",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 129,
+		"name": "Fabric of the Mind",
+		"description": "The greatest Galliards can bring the products of their imagination to life, crafting creatures from the essence of dreams. Chimerlings teach this Gift.",
+		"system": "The player makes an extended Intelligence + Performance roll (difficulty 8). She can create any form of life she can imagine, assigning it one dot of Traits for each success gained on the roll. The werewolf can take as long as she wants to form the creature, accumulating successes from turn to turn, but once she stops, the dream- being takes form and requires one Gnosis point per scene to keep it manifested.",
+		"level": "5",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 130,
+		"name": "Head Games",
+		"description": "Emotions become a palette with which the Galliard may paint whatever picture takes her fancy. She may change the target’s emotions as she pleases, from love to hate and back again. A coyote-spirit teaches this Gift.",
+		"system": "The player rolls Manipulation + Empathy (difficulty equal to the target’s Willpower). Success allows the Garou to steer the emotions of any one individual for the rest of the scene. These emotions don’t last beyond the end of the Gift’s duration unless events naturally re- inforce them (such as the Galliard acting friendly toward an individual she has forced to regard her warmly).",
+		"level": "5",
+		"users": [
+			"Galliard"
+		]
+	},
+	{
+		"id": 131,
+		"name": "Falling Touch",
+		"description": "This Gift allows the Garou to send her foe sprawling with but a touch. Any aerial spirit can teach this Gift. ",
+		"system": "The player rolls Willpower (difficulty of the opponent’s Stamina + Athletics). Even one success sends the victim to the ground. This Gift may be employed through even the lightest, brushing contact at no cost, or may be delivered through an attack by paying one point of Willpower or Rage. Such attacks inflict full damage in addition to knocking the target prone.",
+		"level": "1",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 132,
+		"name": "Inspiration",
+		"description": "Other werewolves look to the Ahroun for leadership in battle, and this Gift helps them to live up to that trust. The werewolf employs this Gift to lend her resolve and righteous anger to those who share her cause. A lion- or wolf-spirit teaches it.",
+		"system": "The player spends one Gnosis point. All comrades (but not the Gift’s user) receive one Willpower point, which disappears if it is not used before the end of the scene.",
+		"level": "1",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 133,
+		"name": "Pack Tactics",
+		"description": "While the Ahroun’s role as the overall leader of Garou is questionable, there’s no doubt at all who should take control of the pack in battle. By taking the lead and coordinating pack actions, the Ahroun gifts all her packmates with great competence in the heat of battle. A wolf-spirit teaches this Gift.",
+		"system": "The player spends a Willpower point before initiating a Pack Tactics maneuver (see p. 300) and divides a pool of extra dice equal to her Leadership score among everyone performing the maneuver. The dice should be divided as evenly as possible, although the player may choose where to distribute extra dice (or in case of the Ahroun’s Leadership score granting fewer dice than the number of packmates involved).",
+		"level": "1",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 134,
+		"name": "Razor Claws",
+		"description": "By raking his claws over stone, steel, or some other hard surface, the werewolf hones them to razor sharpness. A cat- or bear-spirit teaches this Gift.",
+		"system": "The player spends one Rage point and the Ahroun takes a full turn sharpening her claws. All claw attacks do two additional dice of damage and are made at –1 difficulty for the rest of the scene.",
+		"level": "1",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 135,
+		"name": "Spur Claws",
+		"description": "In ancient times, Ahroun warriors made common cause with the spirit-Queen of Bees. As her own hive-children rallied to protect her, so too did the Garou fight in defense of Gaia, and the Queen decreed that they should be properly equipped for the fight. This Gift, taught by a bee-spirit in recognition of that alliance, allows the Ahroun to transform her claws into hooked and barbed spurs.",
+		"system": "The player spends one Rage point and the Ahroun takes a full turn sharpening her claws. All claw attacks do two additional dice of damage and are made at –1 difficulty for the rest of the scene.",
+		"level": "1",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 136,
+		"name": "Shield of Rage",
+		"description": "Such is the Rage burning within an Ahroun’s heart that all lesser furies quail before it. A wolverine-spirit teaches this Gift.",
+		"system": "The player spends one Willpower point. For the rest of the scene, all spirits’ Rage scores are considered two less than their real values for the purpose of rolling damage against the Ahroun.",
+		"level": "2",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 137,
+		"name": "Spirit of the Fray",
+		"description": "A cat-spirit grants the Ahroun the Gift of blinding speed and lightning reflexes, permitting her to strike before any foe.",
+		"system": "Once the Ahroun learns this Gift, its effects are permanent. She adds 10 to all her initiative rolls, and if she chooses, may spend a Gnosis point to add another 10 to an initiative roll (such an expenditure prevents spending Rage for extra actions, however).",
+		"level": "2",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 138,
+		"name": "True Fear",
+		"description": "The werewolf displays his full, terrifying might — baring teeth or claws, howling, or simply looming ominously over a foe. Terror strikes one foe into quiescence. Spirits of fear teach this Gift.",
+		"system": "The player rolls Strength + Intimidation (difficulty equal to the target’s Willpower). Each success cows the enemy for one turn; the victim cannot attack during this time, but may defend himself and otherwise act normally (although his actions are likely guided by overwhelming terror).",
+		"level": "2",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 139,
+		"name": "Combat Healing",
+		"description": "This Gift allows the werewolf to mend his injuries without rest or hesitation — even in the heart of combat — as claws and bullets tear fresh rents in his flesh. While other Garou struggle to mend their wounds under fire, the Ahroun never stops fighting. Elemental spirits teach this Gift, although they must generally be bested in battle first.",
+		"system": "The Ahroun no longer needs to pause or roll Stamina to heal during combat, and automatically regenerates one non-aggravated health level every round. This benefit is permanent.",
+		"level": "3",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 140,
+		"name": "Heart of Fury",
+		"description": "The Garou steels himself against anger, suppressing his Rage and creating a mental wall to hold back the tide of righteous fury that threatens to drown him. The anger always returns, however, and the Garou had best be ready to pay its bill. A boar-spirit teaches this Gift.",
+		"system": "The player rolls Willpower (difficulty equals the character’s permanent Rage). Every two successes add +1 to the character’s frenzy difficulties for the scene, making it harder to frenzy. When the scene ends, past slights and injuries come rushing back to haunt the werewolf, refilling his heart and soul. He must spend one Willpower point or make an immediate frenzy check at regular difficulty.",
+		"level": "3",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 141,
+		"name": "Silver Claws",
+		"description": "Luna sends her children to teach this powerful but painful Gift to those warriors who gain her favor. When invoked, it transforms the werewolf’s claws into silver.",
+		"system": "The player rolls Gnosis (difficulty 7) to activate this Gift. Silver claws inflict aggravated damage to all targets, and are naturally unsoakable to Garou and most other Fera. The Ahroun suffers searing agony while manifesting these silver claws. Each turn, she gains an automatic Rage point, and all non-combat difficulties increase by one because of the distraction. On each turn that her Rage points exceed her Willpower, she must check for frenzy. The Gift lasts for one scene, unless the Garou takes a turn to voluntarily end it sooner.",
+		"level": "3",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 142,
+		"name": "Wind Claws",
+		"description": "The Ahroun’s claws and fangs pass through the flimsy protections of their enemies as though they were but air and hope. An air elemental teaches this Gift.",
+		"system": "The player spends one Rage point. For the rest of the turn, all of the Ahroun’s attacks completely ignore any armor (mundane or magical) that targets might be wearing; the targets forfeit all soak dice from such protection.",
+		"level": "3",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 143,
+		"name": "Clenched Jaw",
+		"description": "The werewolf bites down with such power that her grip won’t loosen until she chooses to let it; even in death, her jaws remain locked. A wolf- or hyena-spirit teaches this Gift.",
+		"system": "After making a successful bite attack, the player may spend a Rage point to invoke this Gift. For each successive turn she chooses to maintain her grip, she makes a bite attack roll (difficulty 3). While foes can make a resisted Strength roll to break the grip (suffering an additional health level of damage in the process of trying to tear free), the Garou may add half her Willpower to her dice pool (round up).",
+		"level": "4",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 144,
+		"name": "Full Moon's Light",
+		"description": "The full moon is Luna’s warrior phase, when she searches out her enemies. The Ahroun can call upon her determination in finding her foes, illuminating any who oppose her. Lunes teach this Gift.",
+		"system": "The player spends one Gnosis point. For the remainder of the scene, anyone within one mile who is working against the Ahroun or her pack emits a soft glow, as though illuminated by moonlight. This Gift can be used to confound powers of stealth or even invisibility, but only if the target is actively attempting to harm, compete with, or otherwise foil the Ahroun or her pack.",
+		"level": "4",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 145,
+		"name": "Stoking Fury's Furnace",
+		"description": "This Gift allows the Garou to husband his Rage, keeping it burning for as long as Gaia’s enemies remain to be defeated. A wolverine-spirit teaches it.",
+		"system": "This Gift’s effects are permanent. The werewolf regains one Rage point during any turn in which he takes damage. This Rage does not cause a frenzy check, though other sources will induce checks as usual. Additionally, the player can spend one Rage point per turn without losing any temporary Rage. If multiple Rage points are spent during any turn, however, all are marked off.",
+		"level": "4",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 146,
+		"name": "Kiss of Helios",
+		"description": "The Ahroun can invoke the sun’s power to gain immunity to flame. Additionally, she may ignite any portion of her body and keep it burning as she desires. Garou with this Gift are as likely to light their mane to honor the sun during rituals as they are to ignite their claws or fangs in battle. A fire elemental or sun-spirit teaches this Gift.",
+		"system": "The player spends one Gnosis. For the rest of the scene, the character is unharmed by any natural source of flames or heat. Artificial (napalm, gas fires, etc.) and supernatural flames can inflict no more than a single level of bashing damage during a turn. The character inflicts two additional dice of aggravated damage with burning attacks.",
+		"level": "5",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 147,
+		"name": "Strength of Will",
+		"description": "A werewolf with this Gift is a pillar of indomitable will. He can share this terrifying strength with others as well, leading them through the gates of Malfeas without a moment’s fear or hesitation. A wolf-spirit or an Incarna avatar teaches this Gift.",
+		"system": "The player spends a point of Willpower and rolls Charisma + Leadership (difficulty 8). Each success grants all the Garou’s allies within 100 feet (and her packmates anywhere within 100 miles) an extra point of Willpower. The extra points last for the rest of the scene and may raise an ally’s Willpower above its maximum (and even above 10). This Gift can only be used once per scene.",
+		"level": "5",
+		"users": [
+			"Ahroun"
+		]
+	},
+	{
+		"id": 148,
+		"name": "Unstoppable Warrior",
+		"description": "The werewolf with this potent Gift may shrug off even flames and the claws of his own kind. A warrior Incarna teaches this Gift.",
+		"system": "The Garou becomes permanently capable of healing all aggravated damage as though it were lethal damage, save for wounds inflicted by silver.",
+		"level": "6",
+		"users": [
+			"Ahroun"
 		]
 	}
 ]
