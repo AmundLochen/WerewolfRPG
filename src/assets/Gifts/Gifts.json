@@ -36,7 +36,8 @@
 		"system": "The player rolls Charisma + Subterfuge (difficulty 7). Success lowers the difficulty of all social rolls by one for the rest of the scene, and allows successful rolls to have uncommonly strong impact (such as changing long-held political views, or causing an addict to seriously reconsider the course of his life).",
 		"level": "1",
 		"users": [
-			"homid, philodox"
+			"homid", 
+			"philodox"
 		]
 	},
 	{
@@ -136,7 +137,8 @@
 		"system": "The Garou can use her shapeshifting to alter her physical Attributes: a dot of Dexterity can be shifted to Strength or Stamina, and so forth. The player rolls Stamina + Primal-Urge (difficulty 9). For each two successes, one physical Attribute dot can be shifted for the rest of the scene.",
 		"level": "4",
 		"users": [
-			"homid, ahroun"
+			"homid", 
+			"ahroun"
 		]
 	},
 	{
@@ -166,7 +168,8 @@
 		"system": "The player spends one Gnosis point and rolls Manipulation + Rituals (difficulty 7). Spirits within 100 feet (30 m) of the character must subtract one from their dice pools for each success. Any spirit that comes within 50 feet (15 m) of the character (except a caern spirit or the character’s pack totem) loses one point from its Essence per turn for each success the player rolled. This Gift lasts for one scene.",
 		"level": "4",
 		"users": [
-			"homid, theurge"
+			"homid", 
+			"theurge"
 		]
 	},
 	{
@@ -236,7 +239,8 @@
 		"system": "The player rolls Perception + Occult. The difficulty depends on the concentration and strength of the Wyrm’s influence: sensing a single fomor in the next room would be difficulty 6, while detecting the stench of a Bane that was in the room an hour ago would be difficulty 7. Vampires register as Wyrm-tainted, save those with Humanity ratings of 7 or higher.",
 		"level": "1",
 		"users": [
-			"metis, theurge"
+			"metis", 
+			"theurge"
 		]
 	},
 	{
@@ -286,7 +290,8 @@
 		"system": "The player rolls Perception + Primal-Urge (difficulty 7). If successful, she can detect the presence of any silver within 100 yards. Three successes allow her to pinpoint the silver’s location.",
 		"level": "2",
 		"users": [
-			"metis, ahroun"
+			"metis", 
+			"ahroun"
 		]
 	},
 	{
@@ -316,7 +321,8 @@
 		"system": "The player rolls Charisma + Empathy (difficulty 8) and spends a Willpower point; the effects last for a scene. The character may hold a mental conversation with a target at a maximum distance of 10 miles (16 km) per success. Mind reading isn’t possible, but the werewolf may use social Abilities such as Intimidation.",
 		"level": "3",
 		"users": [
-			"metis, philodox"
+			"metis", 
+			"philodox"
 		]
 	},
 	{
@@ -416,7 +422,8 @@
 		"system": "The player spends a Gnosis point to activate this Gift for a scene. In Homid and Glabro, the werewolf’s Perception difficulties decrease by two and she may roll Perception + Primal-Urge to perform uncanny sensory feats such as tracking by scent. In Crinos, Hispo, and Lupus, Perception difficulties decrease by three (this is not cumulative with the ordinary Lupus-form Perception bonuses) and the werewolf gains an extra die to Primal-Urge dice pools.",
 		"level": "1",
 		"users": [
-			"lupus, Galliard"
+			"lupus", 
+			"Galliard"
 		]
 	},
 	{
@@ -476,7 +483,8 @@
 		"system": "The player spends one Willpower and rolls Perception + Occult (difficulty 8).",
 		"level": "2",
 		"users": [
-			"lupus, theurge"
+			"lupus", 
+			"theurge"
 		]
 	},
 	{
@@ -506,7 +514,8 @@
 		"system": "The Gift may employ her prehensile tail at will in any form which possesses a tail. Successfully manipulating the tail requires a Dexterity + Athletics roll (difficulty varies according to the task).",
 		"level": "3",
 		"users": [
-			"lupus, ragabash"
+			"lupus", 
+			"ragabash"
 		]
 	},
 	{
@@ -1016,7 +1025,8 @@
 		"system": "The player spends one Willpower point and rolls Appearance + Leadership (difficulty equals the highest Willpower among those whose attention she seeks to gain). If the roll succeeds, all in attendance fall quiet and listen. Any individual who wishes to interrupt the Philodox or walk out before she has finished speaking must spend two points of Willpower to do so.",
 		"level": "2",
 		"users": [
-			"Philodox, Galliard"
+			"Philodox",
+			"Galliard"
 		]
 	},
 	{
@@ -1136,7 +1146,8 @@
 		"system": "The Garou is automatically immune to any supernatural coercion, and may break bonds as though she had Strength 15. She may also break another’s physical bonds with that same Strength, or banish mental bonds from another with a Manipulation + Leadership roll (difficulty 11 – target’s Willpower).",
 		"level": "6",
 		"users": [
-			"Philodox, Galliard"
+			"Philodox", 
+			"Galliard"
 		]
 	},
 	{
