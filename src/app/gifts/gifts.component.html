@@ -3,11 +3,45 @@
 		<div class="col-sm-4">
 			<h1>Gifts</h1>
 			<input class="gift-filter" placeholder="Filter gifts" [(ngModel)]="query">
+			<div class="col-sm-4">
+				<label>
+  					<input type="radio" name="breed-group" id="Homid" value="homid" [checked]="breedSearchTerm==='homid'" [(ngModel)]="breedSearchTerm">Homid
+				</label>
+				<label>
+  					<input type="radio" name="breed-group" id="Metis" value="metis" [checked]="breedSearchTerm==='metis'" [(ngModel)]="breedSearchTerm">Metis
+				</label>
+				<label>
+  					<input type="radio" name="breed-group" id="Lupus" value="lupus" [checked]="breedSearchTerm==='lupus'" [(ngModel)]="breedSearchTerm">Lupus
+				</label>
+				
+			</div>
+			<div class="col-sm-5">
+				<label>
+  					<input type="radio" name="auspice-group" id="Ragabash" value="ragabash" [checked]="auspiceSearchTerm==='ragabash'" [(ngModel)]="auspiceSearchTerm">Ragabash
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Theurge" value="theurge" [checked]="auspiceSearchTerm==='theurge'" [(ngModel)]="auspiceSearchTerm">Theurge
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Philodox" value="philodox" [checked]="auspiceSearchTerm==='philodox'" [(ngModel)]="auspiceSearchTerm">Philodox
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Galliard" value="galliard" [checked]="auspiceSearchTerm==='galliard'" [(ngModel)]="auspiceSearchTerm">Galliard
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Ahroun" value="ahroun" [checked]="auspiceSearchTerm==='ahroun'" [(ngModel)]="auspiceSearchTerm">Ahroun
+				</label>
+			</div>
 			<div class="scrollbar scrollbar-primary col-sm-6">
 				<div class="force-overflow container-fluid">
 					<ul class="smooth-scroll list-unstyled">
+<<<<<<< HEAD
 						<li class="gift list-group-item-unstyled" 
 						*ngFor="let giftObject of giftList | search:'name':query" 
+=======
+						<li class="list-group-item-unstyled" 
+						*ngFor="let giftObject of giftList | search:'name':query | search:'users':breedSearchTerm| search: 'users':auspiceSearchTerm"
+>>>>>>> a5fc09fba1606a30cd4faafa3b54adccab90abcc
 						[class.selected]="giftObject === selectedGift" 
 						(click)="onSelect(giftObject)">
 						<span class="badge">{{giftObject.name}}</span>
