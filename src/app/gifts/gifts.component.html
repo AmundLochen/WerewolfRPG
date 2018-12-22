@@ -6,7 +6,7 @@
 			<div class="scrollbar scrollbar-primary col-sm-6">
 				<div class="force-overflow container-fluid">
 					<ul class="smooth-scroll list-unstyled">
-						<li class="list-group-item-unstyled" 
+						<li class="gift list-group-item-unstyled" 
 						*ngFor="let giftObject of giftList | search:'name':query" 
 						[class.selected]="giftObject === selectedGift" 
 						(click)="onSelect(giftObject)">

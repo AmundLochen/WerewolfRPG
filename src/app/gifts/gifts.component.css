@@ -15,6 +15,10 @@
 	max-width: 300px;
 }
 
+.gift {
+	cursor: pointer;
+}
+
 .scrollbar {
 max-height: 500px;
 background: transparent;
