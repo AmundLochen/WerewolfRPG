@@ -29,6 +29,7 @@ import { CharacterCreationComponent } from './character-creation/character-creat
 import { TribesComponent } from './tribes/tribes.component';
 import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
 import { SearchPipe } from './search.pipe';
+import { FilterPipe } from './filter.pipe';
 
 @NgModule({
   declarations: [
@@ -55,7 +56,8 @@ import { SearchPipe } from './search.pipe';
     CharacterCreationComponent,
     TribesComponent,
     GiftsDetailComponent,
-    SearchPipe
+    SearchPipe,
+    FilterPipe
   ],
   imports: [
     BrowserModule,

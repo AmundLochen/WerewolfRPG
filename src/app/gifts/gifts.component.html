@@ -3,15 +3,15 @@
 		<div class="col-sm-4">
 			<h1>Gifts</h1>
 			<input class="gift-filter" placeholder="Filter gifts" [(ngModel)]="query">
-			<div class="col-sm-4">
+			<!--<div class="col-sm-4">
 				<label>
-  					<input type="radio" name="breed-group" id="Homid" value="homid" [checked]="breedSearchTerm==='homid'" [(ngModel)]="breedSearchTerm">Homid
+  					<input type="checkbox" name="homid-check"[(ngModel)]="homidCheck">Homid
 				</label>
 				<label>
-  					<input type="radio" name="breed-group" id="Metis" value="metis" [checked]="breedSearchTerm==='metis'" [(ngModel)]="breedSearchTerm">Metis
+  					<input type="checkbox" name="metis-check"[(ngModel)]="metisCheck">Metis
 				</label>
 				<label>
-  					<input type="radio" name="breed-group" id="Lupus" value="lupus" [checked]="breedSearchTerm==='lupus'" [(ngModel)]="breedSearchTerm">Lupus
+  					<input type="checkbox" name="lupus-check"[(ngModel)]="lupusCheck">Lupus
 				</label>
 				
 			</div>
@@ -31,12 +31,12 @@
 				<label>
   					<input type="radio" name="auspice-group" id="Ahroun" value="ahroun" [checked]="auspiceSearchTerm==='ahroun'" [(ngModel)]="auspiceSearchTerm">Ahroun
 				</label>
-			</div>
+			</div>-->
 			<div class="scrollbar scrollbar-primary col-sm-6">
 				<div class="force-overflow container-fluid">
 					<ul class="smooth-scroll list-unstyled">
 						<li class="gift list-group-item-unstyled"
-						*ngFor="let giftObject of giftList | search:'name':query | search:'users':breedSearchTerm| search: 'users':auspiceSearchTerm"
+						*ngFor="let giftObject of giftList | search:'name':query"
 						[class.selected]="giftObject === selectedGift" 
 						(click)="onSelect(giftObject)">
 						<span class="badge">{{giftObject.name}}</span>
