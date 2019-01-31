@@ -81,7 +81,8 @@
 		"system": "The player rolls Intelligence + Academics (difficulty 7). The effect lasts for one scene.",
 		"level": "2",
 		"users": [
-			"homid"
+			"homid",
+			"Silent Striders"
 		]
 	},
 	{
@@ -249,7 +250,11 @@
 		"users": [
 			"metis", 
 			"theurge",
-			"Black Furies"
+			"Black Furies",
+			"Silent Striders",
+			"Silver Fangs",
+			"Stargazers",
+			"Uktena"
 		]
 	},
 	{
@@ -302,7 +307,8 @@
 		"level": "2",
 		"users": [
 			"metis", 
-			"ahroun"
+			"ahroun",
+			"Silver Fangs"
 		]
 	},
 	{
@@ -476,7 +482,8 @@
 		"system": "This Gift’s effects are permanent.",
 		"level": "2",
 		"users": [
-			"lupus"
+			"lupus",
+			"Silent Striders"
 		]
 	},
 	{
@@ -538,7 +545,8 @@
 		"system": "The player rolls Perception + Enigmas (difficulty 6). The more successes he rolls, the more information he gains. The sensory input is somewhat vague and subject to interpretation, though. For instance, a vampire might smell of clotted blood, fear, corpse-meat or whatever else the Storyteller finds appropriate.",
 		"level": "3",
 		"users": [
-			"lupus"
+			"lupus",
+			"Silent Striders"
 		]
 	},
 	{
@@ -591,7 +599,8 @@
 		"level": "4",
 		"users": [
 			"lupus",
-			"Get of Fenris"
+			"Get of Fenris",
+			"Wendigo"
 		]
 	},
 	{
@@ -671,7 +680,8 @@
 		"system": "The difficulties of all rolls to track the Garou increase by two. This Gift’s effects are permanent, though the Ragabash may temporarily suppress them at will (which may be necessary to blend in with wolf packs).",
 		"level": "1",
 		"users": [
-			"Ragabash"
+			"Ragabash",
+			"Red Talons"
 		]
 	},
 	{
@@ -682,7 +692,8 @@
 		"level": "2",
 		"users": [
 			"Ragabash",
-			"Bone Gnawers"
+			"Bone Gnawers",
+			"Silent Striders"
 		]
 	},
 	{
@@ -693,7 +704,8 @@
 		"level": "2",
 		"users": [
 			"Ragabash",
-			"Black Furies"
+			"Black Furies",
+			"Red Talons"
 		]
 	},
 	{
@@ -845,7 +857,8 @@
 		"system": "This Gift’s effects are permanent.",
 		"level": "1",
 		"users": [
-			"Theurge"
+			"Theurge",
+			"Uktena"
 		]
 	},
 	{
@@ -1007,7 +1020,8 @@
 		"users": [
 			"Philodox",
 			"Children of Gaia",
-			"Get of Fenris"
+			"Get of Fenris",
+			"Wendigo"
 		]
 	},
 	{
@@ -1088,7 +1102,8 @@
 		"system": "The player spends a Gnosis point and rolls Perception + Enigmas (difficulty 8) to detect the spiritual balance of an area, if any. Wyrm manifestations feel dense and oily, Weaver presence feels cold and unyielding, and Wyld energies feel hot and trembling. The Philodox must be at peace and without distraction to use this Gift.",
 		"level": "3",
 		"users": [
-			"Philodox"
+			"Philodox",
+			"Stargazers"
 		]
 	},
 	{
@@ -1108,7 +1123,8 @@
 		"system": "The character must meditate for a short time, concentrating on the past. The player then rolls Gnosis (difficulty 9, –1 for each dot of Ancestors the Garou possesses). The number of successes determines how detailed and exact the answer he receives will be.",
 		"level": "3",
 		"users": [
-			"Philodox"
+			"Philodox",
+			"Wendigo"
 		]
 	},
 	{
@@ -1179,7 +1195,8 @@
 		"system": "This Gift’s effects are permanent.",
 		"level": "1",
 		"users": [
-			"Galliard"
+			"Galliard",
+			"Red Talons"
 		]
 	},
 	{
@@ -1249,7 +1266,9 @@
 		"system": "The player spends a Gnosis point and rolls Charisma + Primal-Urge (difficulty 7). Creatures of the Wyrm who hear the howl will be jolted awake if asleep, and rendered unable to sleep for the next (successes x 3) hours.",
 		"level": "2",
 		"users": [
-			"Galliard"
+			"Galliard",
+			"Red Talons",
+			"Shadow Lords"
 		]
 	},
 	{
@@ -1330,7 +1349,8 @@
 		"system": "The player makes an extended Intelligence + Performance roll (difficulty 8). She can create any form of life she can imagine, assigning it one dot of Traits for each success gained on the roll. The werewolf can take as long as she wants to form the creature, accumulating successes from turn to turn, but once she stops, the dream- being takes form and requires one Gnosis point per scene to keep it manifested.",
 		"level": "5",
 		"users": [
-			"Galliard"
+			"Galliard",
+			"Uktena"
 		]
 	},
 	{
@@ -1350,7 +1370,8 @@
 		"system": "The player rolls Willpower (difficulty of the opponent’s Stamina + Athletics). Even one success sends the victim to the ground. This Gift may be employed through even the lightest, brushing contact at no cost, or may be delivered through an attack by paying one point of Willpower or Rage. Such attacks inflict full damage in addition to knocking the target prone.",
 		"level": "1",
 		"users": [
-			"Ahroun"
+			"Ahroun",
+			"Stargazers"
 		]
 	},
 	{
@@ -1360,7 +1381,8 @@
 		"system": "The player spends one Gnosis point. All comrades (but not the Gift’s user) receive one Willpower point, which disappears if it is not used before the end of the scene.",
 		"level": "1",
 		"users": [
-			"Ahroun"
+			"Ahroun",
+			"Silver Fangs"
 		]
 	},
 	{
@@ -1421,7 +1443,8 @@
 		"system": "The player rolls Strength + Intimidation (difficulty equal to the target’s Willpower). Each success cows the enemy for one turn; the victim cannot attack during this time, but may defend himself and otherwise act normally (although his actions are likely guided by overwhelming terror).",
 		"level": "2",
 		"users": [
-			"Ahroun"
+			"Ahroun",
+			"Wendigo"
 		]
 	},
 	{
@@ -1451,7 +1474,8 @@
 		"system": "The player rolls Gnosis (difficulty 7) to activate this Gift. Silver claws inflict aggravated damage to all targets, and are naturally unsoakable to Garou and most other Fera. The Ahroun suffers searing agony while manifesting these silver claws. Each turn, she gains an automatic Rage point, and all non-combat difficulties increase by one because of the distraction. On each turn that her Rage points exceed her Willpower, she must check for frenzy. The Gift lasts for one scene, unless the Garou takes a turn to voluntarily end it sooner.",
 		"level": "3",
 		"users": [
-			"Ahroun"
+			"Ahroun",
+			"Silver Fangs"
 		]
 	},
 	{
@@ -1798,12 +1822,13 @@
 	{
 		"id": 176,
 		"name": "Attunement",
-		"description": "The werewolf may commune with the spirits of a city or town and gain information about the area from them, including a rough population estimate, enclaves of Garou or other beings, and any secret tunnels. This Gift doesn’t function in the wilderness, since the Bone Gnawers have lost the knack for conversing with such spirits easily. A rat-spirit teaches this Gift for Bone Gnawers while a cockroach-spirit teaches it for Glass Walkers.",
-		"system": "The player spends one point of Gnosis and rolls Perception + Streetwise (difficulty 6). The amount and accuracy of the information depend on the number of successes rolled.",
+		"description": "The werewolf may commune with the spirits of a city or town and gain information about the area from them, including a rough population estimate, enclaves of Garou or other beings, and any secret tunnels. This Gift doesn’t function in the wilderness, since the Bone Gnawers have lost the knack for conversing with such spirits easily. A rat-spirit teaches this Gift for Bone Gnawers while a cockroach-spirit teaches it for Glass Walkers. For the Silent Striders, this gift functions as the Bone Gnawer Gift, but when learned, the Strider must decide whether the  Gift  functions  in  the  city  or  the  wilderness.  The  “city” version is identical to the Bone Gnawer Gift; the “wilderness”  version  is  similar,  but  the  roll  required  is  Perception + Survival.",
+		"system": "The player spends one point of Gnosis and rolls Perception + Streetwise (difficulty 6). The amount and accuracy of the information depend on the number of successes rolled. ",
 		"level": "4",
 		"users": [
 			"Bone Gnawers",
-			"Glass Walkers"
+			"Glass Walkers",
+			"Silent Striders"
 		]
 	},
 	{
@@ -1903,7 +1928,9 @@
 		"system": "The werewolf concentrates for a turn; the player spends one Gnosis point and rolls Stamina + Survival (difficulty 6). Each success allows the Garou to add one die to his soak pools. These dice, and these dice alone, may even be rolled to soak damage from silver. The benefit lasts for one scene.",
 		"level": "2",
 		"users": [
-			"Children of Gaia"
+			"Children of Gaia",
+			"Shadow Lords",
+			"Silver Fangs"
 		]
 	},
 	{
@@ -1973,7 +2000,8 @@
 		"system": "The player spends one Willpower point and rolls Wits + Athletics (difficulty equals the opponent’s Willpower). For the duration of the scene, the opponent cannot strike the Garou, no matter how well he rolls. This Gift is canceled immediately if the werewolf attacks his opponent or if anyone else attacks on the Garou’s behalf. This Gift will work on multiple opponents, but the player must spend a point of Willpower and make a new roll for each attacker.",
 		"level": "4",
 		"users": [
-			"Children of Gaia"
+			"Children of Gaia",
+			"Stargazers"
 		]
 	},
 	{
@@ -2253,7 +2281,8 @@
 		"system": "The player rolls Willpower (difficulty 8). Each success grants one extra die to all Physical dice pools. In addition, the Garou may not be surprised, and all attacks are considered frontal. The Garou may not move until all foes have been defeated or have fled.",
 		"level": "4",
 		"users": [
-			"Get of Fenris"
+			"Get of Fenris",
+			"Wendigo"
 		]
 	},
 	{
@@ -2409,11 +2438,12 @@
 	{
 		"id": 236,
 		"name": "Elemental Favor",
-		"description": "By begging, threatening or cajoling an urban elemental, a werewolf can convince the spirit to do her a favor such as manipulating or even destroying its earthly shell. Thus, a glass sheet might explode at the Garou’s foes an unlocked door might refuse to open, or a car’s brakes might fail. An urban elemental teaches this Gift.",
+		"description": "By begging, threatening or cajoling an urban elemental, a werewolf can convince the spirit to do her a favor such as manipulating or even destroying its earthly shell. Thus, a glass sheet might explode at the Garou’s foes an unlocked door might refuse to open, or a car’s brakes might fail. An urban elemental teaches this Gift. For the Red Talons, this gift works as the Glass Walker  Gift,  except  that  this  version  affects  the  four  classic elements — earth, air, water, fire — and a natural elemental teaches it.",
 		"system": "The player rolls Charisma + Subterfuge (difficulty 7). The Storyteller determines the precise effects.",
 		"level": "3",
 		"users": [
-			"Glass Walkers"
+			"Glass Walkers",
+			"Red Talons"
 		]
 	},
 	{
@@ -2464,6 +2494,1088 @@
 		"level": "5",
 		"users": [
 			"Glass Walkers"
+		]
+	},
+	{
+		"id": 242,
+		"name": "Eye of the Hunter",
+		"description": "Just as wolves may assess a herd of prey animals, this Gift enables the Garou to correctly determine the weakest and strongest member of any group she can see. A wolf-spirit teaches this Gift.",
+		"system": " The player rolls Perception + Primal-Urge (difficulty 7). If successful, then the Garou learns which members of a chosen group within sight are the strongest or weakest and which is the leader. If the Garou attacks the group after employing this Gift, she gains one extra attack die against only the weakest individual for the rest of the scene.",
+		"level": "1",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 243,
+		"name": "Hidden Killer",
+		"description": "The  Red  Talons  didn’t survive for so long without learning ways to conceal themselves. This Gift allows a werewolf to leave behind no physical evidence that would betray her hand (or claws, or teeth) in a slaying. This Gift is taught by a snake-spirit.",
+		"system": " After a battle, the Garou must touch or lick once each corpse she slew. The player rolls Intelligence + Larceny (difficulty 7). If the roll succeeds, the wounds alter themselves so that they resemble stabbing or slashing injuries rather than bite or claw marks. Any peripheral damage (smashed furniture, for example) remains as it was, but all forensic evidence such as hair, saliva, or blood from the werewolf ’s body disappears from the scene.",
+		"level": "1",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 244,
+		"name": "Wolf at the Door",
+		"description": "This Gift induces a terrible dread of and respect for the wilderness, and it makes a human target afraid to tamper with it in any way. Any predator spirit can teach this Gift.",
+		"system": "  The werewolf must make eye contact with the target, but can be in any form when she does so. The player then  rolls  Charisma  +  Primal-Urge  (difficulty  equals  the  target’s Willpower). The effects last for one day per success. During this time, the human must roll Willpower to leave his home, and he may not go near anything resembling a forest,  tundra,  swamp,  or  other  untamed  wilderness  area  without spending a Willpower point. If the human does leave his home, he is shaky and fearful until he returns, and his player loses three dice from all Mental and Social dice pools. Alternately, this Gift can affect a number of humans equal to his Rage at once (difficulty equals the highest Willpower in the group). In this case, rather than making eye contact, the  humans  must  hear  the  werewolf  howl  in  Lupus  form.  This Gift can be used on Kinfolk, mages, ghouls, and other “supernatural” humans, but the difficulty increases by two.",
+		"level": "1",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 245,
+		"name": "Beastmind",
+		"description": "The werewolf can reduce the  mental  faculties  of  his  victim  to  that  of  an  animal  for  a  time.  The  victim  doesn’t  necessarily  become  less  intelligent, but human thinking (logic, complex tool use, language, and the like) becomes impossible. An avatar of Griffin teaches this Gift.",
+		"system": "  The player rolls Manipulation + Empathy against a difficulty equal to the target’s Willpower. The effects last for one minute per success, during which the target behaves like a wild animal. If a point of Rage is spent when directing this Gift at an ordinary human target, its effects last for one day per success.",
+		"level": "2",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 246,
+		"name": "Shadows of the Impergium",
+		"description": "The Red  Talon  becomes  the  embodiment  of  all  of  humanity’s primal fears of the wolf, carrying a heavy miasma of ancient terror about her. A fear-spirit teaches this Gift.",
+		"system": "  The werewolf inflicts the Delirium in Hispo form, though observers are considered to be at +2 Willpower when judging their reaction (see p. 262). Anyone who  succumbs  to  the  Delirium  because  of  seeing  the  werewolf  in  Crinos  form  is  considered  to  have  a  Willpower five points lower than their true rating (minimum 1) for the purposes of determining reaction. This Gift’s effects are permanent, though they can be suppressed for a scene if desired.",
+		"level": "2",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 247,
+		"name": "Render Down",
+		"description": "The Talon can destroy  any  man-made  substance.  Plastics,  alloys,  and  other materials not found in nature disintegrate with just a touch. Lawn chairs dissolve into oily puddles and steel melts into iron and carbon. A cockroach-spirit teaches this Gift.",
+		"system": "   The  character  must  touch  the  material;  only materials that are not naturally occurring are viable targets.  For  instance,  a  wooden  table  would  be  unaffected, whereas a plastic table would melt to the ground. The player makes a Rage roll (difficulty 7); each success reduces twenty pounds of the target material to its base components. ",
+		"level": "3",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 248,
+		"name": "Territory",
+		"description": "The Red Talon with this  Gift  doesn’t  need  to  patrol  his  hunting  ground  to  know what transpires there. With but a moment of concentration, he may extend his senses to any area he has marked. This Gift is taught by a wolf-spirit.",
+		"system": " The Red Talon must first mark one or more areas with his own urine. A Talon may have a number of marked locations equal to his Gnosis (and doesn’t have to establish such a mark in every place that he urinates). Thereafter, the player may roll Perception + Primal-Urge (difficulty 7) to extend the Talon’s senses to that location. The character can sense the area as though standing in the same place he was in when he marked the area originally. The scent marks last for one week per dot of Gnosis the character possesses (for wilderness) or one day per dot of Gnosis (for urban environments).",
+		"level": "3",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 249,
+		"name": "Trackless Waste",
+		"description": "The Talon calls upon the spirits of the wilderness to mislead and confuse any who invade her home. Humans and other travelers are confounded by this Gift, with even skilled survivalists and hikers soon becoming hopelessly lost. Even werewolves are not wholly immune to its effects. Any wilderness spirit can teach this Gift.",
+		"system": " The player spends a Gnosis point and rolls Intelligence + Primal-Urge (difficulty 6). The Gift affects up  to  a  two-mile  (3.2  km)  radius  per  success.  Humans  automatically fail at all attempts to navigate such an afflicted wilderness. Other werewolves can roll Perception + Primal-Urge; if they score more successes than the Talon, they are able to navigate normally. Those led by the Talon herself through the domain remain unaffected. This Gift lasts until the sun next rises.",
+		"level": "3",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 250,
+		"name": "Gorge",
+		"description": "Wolves will eat as much as possible when food is available, to carry them through the lean times ahead. Who knows when their next meal will arrive? With this Gift, a Red Talon can similarly gorge on Rage, Gnosis, or Willpower. A wolf-spirit teaches this Gift.",
+		"system": " Upon learning this Gift, the player chooses which trait (Rage, Gnosis, or Willpower) the character can store. Thereafter, the character can hold three more points  in  the  appropriate  Trait  than  her  permanent  rating. These extra points must be regained as normal, and  they  don’t  add  extra  dice  to  rolls  involving  the  Trait in question. To amplify more than one Trait, the character must learn the Gift (i.e., pay the experience cost) again.",
+		"level": "4",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 251,
+		"name": "Howl of Death",
+		"description": "A Talon with this Gift  may  infuse  her  howl  with  Rage  and  pain,  causing  grievous  wounds  to  one  target.  The  werewolf  must  be  able to see her target clearly, and the target must be able to hear the howl. Only the intended target is affected by the Gift, though anyone else who hears it is disquieted and frightened. A pain-spirit teaches this Gift.",
+		"system": "  The  player  rolls  Charisma  +  Primal-Urge  (difficulty  6).  Each  success  inflicts  one  level  of  lethal  damage, which the target may soak if he is able. The damage manifests as massive internal damage, as the target’s innards suddenly rupture.",
+		"level": "4",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 252,
+		"name": "Quicksand",
+		"description": "The Garou turns the ground into a sticky morass that catches foes and prevents them from escaping or even walking. An earth elemental teaches this Gift.",
+		"system": " The player spends a Gnosis point and rolls Manipulation  +  Primal-Urge  (difficulty  7).  Success  changes the ground into a quicksand-like bog for a 10-foot (3 m) radius; each additional success extends the radius of the morass an additional 10 feet (3 m). Anyone trying to move through it, save for the Garou and her pack, moves at half walking speed, and may not execute combat maneuvers that require overland movement. Additionally, all other combat maneuvers take a +1 difficulty penalty. A wolf-spirit teaches this Gift.",
+		"level": "4",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 253,
+		"name": "Curse of the Lycaon",
+		"description": "The Red Talon can  force  the  wolf-skin  onto  another.  If  the  target  is  a  werewolf, he becomes trapped in Lupus form for the rest of the scene. If the target is a human or animal, it becomes a normal wolf forever. This Gift is taught by a wolf-spirit.",
+		"system": " The player spends one Gnosis point and rolls Gnosis (difficulty of the target’s Willpower).",
+		"level": "5",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 254,
+		"name": "Gaia's Vengeance",
+		"description": "The Red Talon calls upon the Mother herself to strike on his behalf. The terrain responds as best it can: Rocks roll and smash, vines constrict,  and  water  sucks  victims  under.  An  avatar  of  Gaia herself teaches this Gift.",
+		"system": " The player spends one Gnosis point and one Rage point, then rolls Charisma + Primal-urge (difficulty of the local Gauntlet). The exact effects depend on the terrain and are left to the Storyteller.",
+		"level": "5",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 255,
+		"name": "Scabwalker Curse",
+		"description": "The Red Talon suffuses a target with a superabundance of Wyld energy, making them violently allergic to the Weaver-works of man. Any artificial material blisters and abrades the target’s skin, concrete sidewalks and artificial carpet fibers shred her feet, polyester clothing causes her body to break out in  weeping  sores,  and  steel  tools  blister  her  hands.  An  avatar of Griffin teaches this Gift.",
+		"system": "  The Red Talon spends a turn snarling at a target within 20 feet (6 m). The player then spends one Gnosis point and rolls Manipulation + Survival (difficulty 7). The target takes one level of bashing damage per turn of physical contact with any non-natural material (crafted objects formed entirely of natural materials, such as wooden furniture held together with iron nails, are safe). This curse lasts for one day per success, and can easily prove fatal if invoked in the heart of a city.",
+		"level": "5",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 256,
+		"name": "Shield of Gaia",
+		"description": "The Garou becomes so attuned to the laws and rhythms of Gaia that the Weaver’s laws cease to have any hold on her. The werewolf becomes immune to the effects of one form of technology, such as bullets, photography (i.e. cannot be photographed), electricity, chemical toxins, etc. This Gift is taught by Griffin.",
+		"system": "   The player must determine what this Gift grants  immunity  to  at  the  time  of  purchase.  Its  effects  are permanent.",
+		"level": "6",
+		"users": [
+			"Red Talons"
+		]
+	},
+	{
+		"id": 257,
+		"name": "Aura of Confidence",
+		"description": "The werewolf projects  an  aura  of  superiority,  preventing  attempts  to  find flaws or read auras (but not to read the werewolf ’s thoughts). An ancestor-spirit teaches this Gift.",
+		"system": " This Gift’s effects are permanent.",
+		"level": "1",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 258,
+		"name": "Fatal Flaw",
+		"description": "The Shadow Lord can spy a target’s weakness, gaining an advantage in combat. A Stormcrow teaches this Gift.",
+		"system": " The Shadow Lord concentrates for one full turn, then the player rolls Perception + Empathy (difficulty equals the target’s Wits + Subterfuge). Success grants the Garou an extra die of damage during combat with that target. Additional successes grant knowledge of further weaknesses, but not more dice.",
+		"level": "1",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 259,
+		"name": "Seizing the Edge",
+		"description": "Shadow Lords don’t acknowledge the idea of the draw. If neither competitor wins, then they both lose. This Gift allows the Garou to swing the balance, ever so slightly, in her favor. A spirit servant of Grandfather Thunder teaches this Gift.",
+		"system": "  Whenever the Shadow Lord is involved in an  opposed  roll  with  another  being,  any  ties  go  to  the  Shadow Lord. This Gift’s effects are permanent, but invoking them more than once in a scene costs one Gnosis per additional tie broken.",
+		"level": "1",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 260,
+		"name": "Shadow Weaving",
+		"description": "Slightly flexing her fingers or claws, the Garou pulls and weaves shadows as she desires — lengthening or shortening them, lightening or darkening, or even twisting them into grotesque and frightening shapes. A shadow-spirit teaches this Gift.",
+		"system": "  The player spends one Gnosis point and rolls Dexterity + Occult (difficulty 7). For the rest of the scene, the Shadow Lord may warp shadows within 100 yards (91 m) as she wishes. Among other creative uses, this lowers the difficulty of all Stealth and Intimidation attempts by 1.",
+		"level": "1",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 261,
+		"name": "Whisper Catching",
+		"description": "What  good  purpose could there be to keep secrets from Gaia’s pro-tectors? This Gift allows the werewolf to supernaturally eavesdrop  on  whispered  conversations—what  she  does  with the information learned is, of course, up to her own conscience. A crow- or bat-spirit teaches this Gift.",
+		"system": "   The  player  spends  a  point  of  Willpower.  For the rest of the scene, all whispers within 200 feet are  fully audible to the Shadow Lord as though they had been spoken clearly just next to her.",
+		"level": "1",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 262,
+		"name": "Clap of Thunder",
+		"description": "The Shadow Lord slams her hands together, creating a mighty thunderclap that stuns those who hear it. A Stormcrow teaches this Gift",
+		"system": "   The  player  spends  one  Gnosis  point.  All  characters within 20 feet (6 m) must succeed in a Willpower  roll  (difficulty  8  for  foes,  4  for  packmates)  or  be  stunned and unable to act for one turn. The Garou must be in Homid, Glabro, or Crinos form to use this Gift.",
+		"level": "2",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 263,
+		"name": "Cold Voice of Reason",
+		"description": "A cunning Shadow Lord can talk his way out of just about anything. If attacked, the werewolf may invent a clever remark that will detain his attacker for at least one round. A crow-spirit teaches this Gift.",
+		"system": " The player spends a Gnosis point and rolls Manipulation  +  Subterfuge  (difficulty  8).  The  attacker  is detained one round for each success as long as he, in turn, is not attacked (being attacked immediately breaks the Shadow Lord’s spell). The attacker is free to take any other actions he wishes (including attacking individuals other than the Shadow Lord).",
+		"level": "2",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 264,
+		"name": "Song of the Earth Mother",
+		"description": "This gift allows the werewolf to sense the presence of supernatural activity within a broad area. Essentially, the Garou communes with the earth and listens to what it says. The Gift is taught by an earth-spirit.",
+		"system": "  The  user  spends  10  minutes  communing  with the earth, during which time she may take no other actions. The player then spends two Gnosis points and rolls Perception + Occult (difficulty 7). Success indicates that the earth tells her about any supernatural presence within an area of 100 yards (91 m) per success. While the Gift  doesn’t  offer  specific  information  about  the  being  or beings detected, it does indicate whether or not the presence is Wyrm-tainted.",
+		"level": "2",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 265,
+		"name": "Direct the Storm",
+		"description": "The Shadow Lord can direct the primal instincts of a frenzied werewolf, friend or foe, causing him to attack targets of the Lord’s choice. A Stormcrow teaches this Gift.",
+		"system": "  The  player  spends  a  point  of  Gnosis  and  rolls Willpower (difficulty of the target’s Rage). Success indicates that the Shadow Lord controls the target’s frenzy and can set him on anyone she chooses for two turns per success. Using this Gift on a Garou in the Thrall of the Wyrm is possible, but doing so requires the player to roll Rage (difficulty 7) to check for frenzy for her own character.",
+		"level": "3",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 266,
+		"name": "Icy Chill of Despair",
+		"description": "The Shadow Lord appears to grow larger and more imposing, becoming a terrible, shadowy version of herself. This change in aspect can severely intimidate any onlookers. A Stormcrow teaches this Gift. ",
+		"system": " The werewolf concentrates for a turn; the player spends one Gnosis point and rolls Manipulation + Intimidation, difficulty 7. Anyone who means the Shadow Lord  harm  must  make  a  Willpower  check,  difficulty  8,  and score more successes than the Lord does in order to act normally. Failure means that the victims must spend a Willpower point to attack, take action against or even verbally oppose the Shadow Lord. This Gift doesn’t give the Lord actual control over her intimidated victims — they’re simply too spooked to actively oppose her.",
+		"level": "3",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 267,
+		"name": "Paralyzing State",
+		"description": "The Shadow Lord directs a terrifying glare at a target, causing her to freeze in terror. A Stormcrow teaches this Gift.",
+		"system": "  The Garou concentrates for one turn. The player  spends  one  Gnosis  point  and  rolls  Charisma  +  Intimidation (difficulty of the target’s Willpower). Each success freezes the target in place for one turn, rendering her unable to move or attack (though she may still defend herself). The target must be able to see the Garou.",
+		"level": "3",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 268,
+		"name": "Shadow Cutting",
+		"description": "The Shadow Lord can wound an enemy by striking at his very shadow. Such attacks are difficult to dodge. This Gift is taught by a night-spirit.",
+		"system": "  The  character  spits  into  his  opponent’s  shadow and the player spends a Gnosis point. For the rest of the scene, the character may strike at his foe’s shadow to wound him. Only fetish weapons or natural weaponry serves  for  such  attacks.  The  victim  has  two  fewer  dice  to dodge attacks directed at his shadow, and can’t parry them at all.",
+		"level": "3",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 269,
+		"name": "Under the Gun",
+		"description": "The  Shadow  Lord  lays  a  curse  on  her  foe,  ensuring  certain  death  by  bullets.  While  the  curse  is  in  effect,  bullets  (as  well  as  arrows,  hurled  knives,  and  any  other  missile  weapons)  are strangely attracted to the target. Although this Gift is  useful  in  battle,  most  Shadow  Lords  prefer  to  use  it  secretly on a chosen foe before a fight begins, ensuring an “unfortunate accident.” A raven-spirit teaches this Gift.",
+		"system": " The Shadow Lord touches the intended target with her fingertips. The player spends a Gnosis point and rolls Manipulation + Firearms. The curse lingers for one day per success. While it is in effect, the difficulty to strike the target with any sort of missile attack drops by two.",
+		"level": "3",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 270,
+		"name": "Open Wounds",
+		"description": "The werewolf causes the next wound he inflicts to bleed profusely, weakening his opponent further. A pain-spirit teaches this Gift.",
+		"system": "  The  player  spends  one  Gnosis  point  and  rolls Strength + Medicine (difficulty 7). If the Shadow Lord’s next attack does any damage, the target will bleed continuously,  suffering  one  unsoakable  lethal  damage  per  turn  for  a  number  of  turns  equal  to  the  number  of  successes rolled.",
+		"level": "4",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 271,
+		"name": "Durance",
+		"description": "The werewolf dominates a talen-bound spirit, spinning webs of metaphysical authority to forcibly lengthen its service to her. Some consider this Gift disrespectful, but the Shadow Lords find it ridiculous to discard a weapon that might serve Gaia, just for the sake of politeness. This Gift is taught by a spider-spirit.",
+		"system": "  Upon using a talen, the player may reflexively spend  one  Gnosis  point  to  keep  the  spirit  bound  within  from departing. This Gift is ineffective on talens which are destroyed as an inherent aspect of their use (such as the nightshade talen, which must be drunk to activate its powers), but preserves talens whose destruction is a metaphysical result of their use (such as moon glow and Wyrm scales).",
+		"level": "4",
+		"users": [
+			"Shadow Lords",
+			"Uktena"
+		]
+	},
+	{
+		"id": 272,
+		"name": "Strength of the Dominator",
+		"description": "The werewolf  draws  on  a  target’s  anger  to  feed  his  own.  A  Stormcrow teaches this Gift.",
+		"system": " The player rolls Wits + Intimidation (difficulty  equals  the  target’s  Willpower).  For  a  number  of  turns  equal  to  the  successes  scored,  the  target  will  lose  a point of Rage per turn, while the Shadow Lord gains that Rage. The character can use this Gift only once per target per scene.",
+		"level": "4",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 273,
+		"name": "Obedience",
+		"description": "The Shadow Lord becomes the ultimate alpha, compelling all others to follow her orders. A Stormcrow teaches this Gift.",
+		"system": " The player spends one Gnosis point and rolls Charisma + Leadership (difficulty 8). All in the vicinity must roll Willpower (difficulty 8) and match or exceed the Garou’s successes, or they succumb to the Gift’s ef-fects. If the werewolf wins by one success, targets follow any orders that don’t directly inconvenience them. Three successes cause the targets to treat the Lord as their alpha and fight for her. Five successes make the targets follow her into the Abyss or perform virtually suicidal actions. This Gift’s effects last for one full day.",
+		"level": "5",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 274,
+		"name": "Shadow Pack",
+		"description": "The werewolf summons up shadowy duplicates of himself to stand by him in  battle.  These  shadow-wolves  resemble  the  Shadow  Lord  and  share  some  of  his  capabilities.  A  night-spirit  teaches this Gift.",
+		"system": "  The  player  rolls  Gnosis  (difficulty  8)  and  spends a number of Gnosis points. One shadow-duplicate appears for each point spent. These duplicates have the same Attributes and Abilities as the Garou, but not his fetishes and may not use Gifts, Gnosis or Willpower. Each has only one health level. The duplicates fade at the end of the scene.",
+		"level": "5",
+		"users": [
+			"Shadow Lords"
+		]
+	},
+	{
+		"id": 275,
+		"name": "Heaven's Guidance",
+		"description": "The  Strider is never lost while the stars shine in the sky. This Gift is taught by a spirit servant of the North Star.",
+		"system": " The werewolf gains an innate sense of direction; he always knows which way is north and the path he took to reach where he is. This Gift’s effects are permanent.",
+		"level": "1",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 276,
+		"name": "Silence",
+		"description": "The Strider can muffle any sound she makes, the better to creep up on the Wyrm’s minions or escape them unnoticed. An owl-spirit teaches this Gift.",
+		"system": "  The player adds two  dice  to  all  Dexterity  +  Stealth rolls.",
+		"level": "1",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 277,
+		"name": "Speed of Thought",
+		"description": "The Garou doubles her running speed. A roadrunner- or cheetah-spirit teaches this Gift.",
+		"system": "    The  player  spends  one  Gnosis  point.  The Gift lasts until the end of the scene.",
+		"level": "1",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 278,
+		"name": "Visions of Duat",
+		"description": "The  werewolf ’s eyes become cloudy and pale as she attunes her vision to the ashen landscape of the Underworld. An owl-spirit teaches this Gift.",
+		"system": "  The player spends one Gnosis point and  rolls  Perception  +  Occult  (difficulty  7).  For  the rest of the scene, the character can see (and hear) ghosts and detect haunted areas with another Perception + Occult roll (difficulty corresponds to the severity of the haunting). This Gift bestows no power to touch or communicate with the dead, however — that usually requires the use of the Descent into the Underworld rite (see p. 213). A botch causes the Garou’s eyes to shine as beacons in the underworld, drawing the notice of broken, vengeful shades.",
+		"level": "1",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 279,
+		"name": "Messenger's Fortitude",
+		"description": "The Strider can  run  at  full  speed  for  three  days  without  rest,  food,  or water. When she reaches her destination, she has 10 minutes to complete whatever business brought her, then she  must  sleep  for  one  full  day.  A  camel-  or  wolf-spirit  teaches this Gift.",
+		"system": "The player spends one Gnosis point. Doing anything other than running ends the Gift. Others may be granted the Messenger’s Fortitude as well, for one Gnosis point per additional runner.",
+		"level": "2",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 280,
+		"name": "Tread Sebek's Back",
+		"description": "The werewolf calls upon the river to support her steps, allowing her to walk or run across water or other liquids. Her feet gain no special protection if she chooses to run across Wyrm-toxins  or  other  hazardous  liquids.  A  crocodile-spirit  teaches this Gift.",
+		"system": " The player spends a Gnosis point and rolls Dexterity + Survival (difficulty 7). The Strider may travel across liquid as if it were open ground for one hour per success.",
+		"level": "2",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 281,
+		"name": "Adaptation",
+		"description": "The  Strider  takes  no damage from poison or disease, and he may exist in any environment, regardless of pressure, temperature, or atmospheric  conditions.  This  Gift  doesn’t  protect  the  Garou  from  hazardous  situations  (such  as  falling),  only  hazardous environments. A bear-spirit teaches this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point  and  rolls Stamina + Survival (difficulty 7). The Gift lasts for one hour per success.",
+		"level": "3",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 282,
+		"name": "Great Leap",
+		"description": "The Strider can jump truly  astounding  distances.  A  jackrabbit-spirit  teaches  this Gift.",
+		"system": " The player spends one Willpower point and rolls Strength + Athletics. The character may jump 100 feet per success.",
+		"level": "3",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 283,
+		"name": "Mark of the Death-Wolf",
+		"description": "The Silent Strider uses his claws to gouge an eerie sigil into a nearby surface, which fascinates and attracts the unquiet dead. An owl-spirit teaches this Gift.",
+		"system": " The player spends one Gnosis point upon making the mark, which takes a full turn, and then rolls Wits + Occult (difficulty 7). The mark retains its mystic potency for one week per success, leaving the area around it badly haunted if there are any ghosts in the area at all. Destroying the mark can end this Gift’s effects prematurely.",
+		"level": "3",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 284,
+		"name": "Black Mark",
+		"description": "The Strider’s claws darken with the leaden sheen of the Dark Umbra, marking her foes fit for the attentions of the restless dead. An owl-spirit teaches this Gift.",
+		"system": "  The player may spend a point of Gnosis when the strider successfully strikes an opponent with her claws, but before rolling damage. The target becomes haunted for one day per level of damage inflicted, as with Mark of the Death-Wolf.",
+		"level": "4",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 285,
+		"name": "Dam the Heartflood",
+		"description": "No  tribe  hates vampires more than the Silent Striders, who lost their homeland to the leeches. This Gift allows Strider heroes to nullify the magic inherent to blood. It is taught by a cobra-spirit.",
+		"system": "  The player spends a Gnosis point and rolls Manipulation  +  Occult  (difficulty  of  the  target’s  Willpower). Each success prevents the target from using any magic  related  in  any  way  to  blood  for  one  turn.  It  also  prohibits the spending blood points for any purpose for the same duration, should the target possess a blood pool trait (such as that of vampires, ghouls, and Ananasi). ",
+		"level": "4",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 286,
+		"name": "Speed Beyond Thought",
+		"description": "The  werewolf can run at 10 times his normal land speed. The effects last for up to eight hours, during which the Strider can do nothing but concentrate on running. When the Gift’s effects end, the werewolf must eat immediately or face frenzy from hunger. A cheetah- or air-spirit teaches this Gift.",
+		"system": "  The player spends one Gnosis point and rolls Stamina + Athletics (difficulty 7) to activate this Gift.",
+		"level": "4",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 287,
+		"name": "Gate of the Moon",
+		"description": "This Gift creates as specialized moon bridge that takes the Strider to her destination instantly. At least a sliver of the moon must be visible at her area of departure. A Lune teaches this Gift.",
+		"system": "  The player spends one Gnosis point for every 100 miles the Strider needs to travel. She then rolls Intelligence + Alertness (difficulty varies by how far the journey is and how well the Strider knows the way). Suc-cess transports the character instantly to her destination.",
+		"level": "5",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 288,
+		"name": "Reach the Umbra",
+		"description": "The Garou may step in and out of the Umbra at will, without need of a reflective surface or even any effort at all. An owl-spirit teaches this Gift.",
+		"system": "   The Garou may step sideways instantly, at any time, with no fear of being “caught.” No roll is necessary. All rolls to enter or leave Umbral Realms receive a –2 difficulty bonus. She may not, however, spend Rage on the turn that she steps sideways. The Garou may not step sideways quickly enough to dodge an attack that has already been declared.",
+		"level": "5",
+		"users": [
+			"Silent Striders"
+		]
+	},
+	{
+		"id": 289,
+		"name": "Eye of the Falcon",
+		"description": "The werewolf ’s vision  gains  the  predatory  clarity  of  a  bird  of  prey.  A  falcon-spirit teaches this Gift.",
+		"system": "  The player spends one Gnosis point. For the rest of the scene, all long-range attack rolls and visually based Perception rolls are made at –1 difficulty.",
+		"level": "1",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 290,
+		"name": "Falcon's Grasp",
+		"description": "The werewolf ’s hands or  jaws  tighten  in  a  mighty  death-grip,  making  it  nearly  impossible to escape. A falcon-spirit teaches this Gift.",
+		"system": "  The player spends one Rage point. For the rest of the scene, the Garou’s grip (with both hands and jaws) is much stronger — her Strength is considered three points higher for grappling or maneuvers such as the jaw lock (see Special Maneuvers, p. 299). This extra Strength does not apply to damage rolls.",
+		"level": "1",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 291,
+		"name": "Lambent Flame",
+		"description": "The  werewolf  causes her body to ignite with silver light. A Lune teaches this Gift.",
+		"system": "   The player spends one Willpower point to activate  the  Gift.  The  light  illuminates  a  100-foot  (30  m) area around the Garou for the rest of the scene. All attacks  against  the  Garou  suffer  a  +1  difficulty  penalty  while this Gift persists.",
+		"level": "1",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 292,
+		"name": "Empathy",
+		"description": "Among wolves, alphas rule by strength, but leaders of men must be able to read their subjects if they are to keep their crown. A falcon-spirit teaches this Gift.",
+		"system": "  The  player  spends  one  Gnosis  point  and  rolls Intelligence + Empathy (difficulty 4). One success indicates that the Garou knows the general feelings and expectations of any one group. The more successes the player rolls, the greater her understanding of the group’s wants and needs.",
+		"level": "2",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 293,
+		"name": "Hand Blade",
+		"description": "Many Silver Fangs are trained in swordplay as part of their birthright. This Gift allows them to rely on such skills at any time by turning their arm into a razor-sharp blade that slices and cuts like the best-forged sword. An ancestor spirit, usually a former klaive-dueling master, teaches this Gift.",
+		"system": "  The player spends a point of Rage to transform one or both hands. For the rest of the scene, he may use his arm like a sword by rolling Dexterity + Melee (difficulty 6). Such attacks inflict Strength + 2 aggravated damage, as his claws are part of the blade.",
+		"level": "2",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 294,
+		"name": "Unity of the Pack",
+		"description": "It is only natural for those guided by canny leaders to excel. This Gift allows the Silver Fang’s pack to enjoy the benefits of her unifying aura, making them deadlier warriors against the Wyrm’s minions. A wolf-spirit teaches this Gift.",
+		"system": "   Whenever  the  Silver  Fang  is  present,  all  members of her pack (including herself) gain one extra die on all rolls to execute Pack Tactics (see p. 300). This Gift’s  benefits  are  permanent.  The  Silver  Fang  cannot  benefit from this Gift when she is alone.",
+		"level": "2",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 295,
+		"name": "Burning Blade",
+		"description": "This Gift causes a Garou’s weapon, whether it’s a sword, klaive or axe, to burn with a deadly fire that burns her enemy even as it bites into their flesh. A firebird spirit teaches this Gift.",
+		"system": "The werewolf concentrates for a turn, and the player rolls Gnosis (difficulty 7) to activate the Gift. The weapon now does two extra dice of aggravated fire damage. Flammable objects will catch fire if struck by the blade. The weapon remains ignited for a number of turns equal to the number of successes rolled. ",
+		"level": "3",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 296,
+		"name": "Talons of the Falcon",
+		"description": "The Silver Fang’s claws transform into impaling weapons, allowing her to cut muscle, bone, and sinew as though they were paper. A falcon-spirit teaches this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point  and  makes a Dexterity + Brawl roll to attack. The attack does three additional levels of damage, and its damage may not be regenerated for the rest of the scene. ",
+		"level": "3",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 297,
+		"name": "Wrath of Gaia",
+		"description": "The  werewolf  shows  himself  in  full,  terrible  glory  as  Gaia’s  chosen  warrior. His splendor overwhelms minions of the Wyrm, driving  them  before  him  in  terror.  An  avatar  of  Gaia  herself teaches this Gift.",
+		"system": "  The player spends a Gnosis point and rolls Charisma + Intimidation. Any minions of the Wyrm who look upon the Garou during the rest of the scene must either roll Willpower (difficulty 7) and equal or exceed the player’s successes, or flee in terror.",
+		"level": "3",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 298,
+		"name": "Mastery",
+		"description": "The Silver Fang can command other Garou — even Black Spiral Dancers — to do her bidding. A falcon-spirit teaches this Gift.",
+		"system": "   The player rolls Charisma + Leadership (difficulty equal to the target’s Wits + 3). If the roll succeeds, the Garou can give the target one non-suicidal command, which he must obey for one turn per success. This Gift works only against Garou.",
+		"level": "4",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 299,
+		"name": "Mindblock",
+		"description": "The  Garou  fortifies  her will against mystical influences of all sorts. A falcon-spirit teaches this Gift.",
+		"system": " The difficulties of any direct mental attacks or attempts to control the Garou’s mind, as well as more insidious  psychic  assaults  (mind-reading,  illusions,  possession, and so forth) are raised to 10. The effects of this Gift  are  permanent,  but  do  not  apply  to  magic  which  sways the Garou’s emotions.",
+		"level": "4",
+		"users": [
+			"Silver Fangs",
+			"Stargazers"
+		]
+	},
+	{
+		"id": 300,
+		"name": "Sidestep Death",
+		"description": "Legends say that when the first Silver Fang died, he was reborn with this Gift. The Fang simply sidesteps what would have become his deathblow. A lion-spirit teaches this Gift.",
+		"system": "  Once per scene, the player may spend three Willpower  points  to  evade  a  single  attack  that  would  inflict enough damage to place the Fang’s health levels below Crippled (before soak). The Garou simply appears instantly at the nearest location not affected by the attack, which may be an inch, a mile, or even farther away.",
+		"level": "4",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 301,
+		"name": "Luna's Avenger",
+		"description": "The Silver Fang transforms his greatest weakness into his greatest strength, transforming his body into living silver. A Lune teaches this Gift.",
+		"system": "   The Garou concentrates for a full turn to activate this Gift. The player spends a Gnosis point; for the rest of the scene, the Garou is immune to the effects of silver. All damage inflicted by attacks made with the werewolf ’s body are considered to have been made with silver weapons. Additionally, the character gains two additional points of Stamina and one extra health level for the duration of this Gift (any damage marked to this additional health level vanishes harmlessly when the Gift ends).",
+		"level": "5",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 302,
+		"name": "Paws of the Newborn Cub",
+		"description": "With only a glare and a snarl, the Silver Fang can temporarily suppress an opponent’s supernatural tricks, leaving him to face the werewolf ’s wrath as nothing more than an animal or human. A falcon-spirit teaches this Gift.",
+		"system": "   The  player  spends  two  Gnosis  points  and  rolls Gnosis (difficulty of the target’s Willpower). Each success  removes  all  supernatural  powers  (shapeshifting,  Gifts, Disciplines, and any other sort of supernatural or magical power) from the target for one turn.",
+		"level": "5",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 303,
+		"name": "Renew the Cycle",
+		"description": "One of the most potent powers available to the Garou, this Gift allows the correction of a grievous wrong done to the natural cycle of Gaia. The undead, whose very existence is an affront to the natural order of things, wither and crumble to dust when struck by the power of this Gift. Whether the undead is a shambling, month-old animated corpse or an ancient vampire, the Fang can destroy it with but a glance. Only an avatar of Gaia Herself can teach this Gift.",
+		"system": " The player and the target enter into a resisted contest  of  Gnosis  versus  Willpower  (both  difficulty  8).  If the Garou wins the contest, the undead is reduced to its natural state — fresh corpses simply lose their animation,  whereas  an  elder  vampire  would  crumble  to  dust.  Mummies are simply banished to a season of sleep. The Garou must spend one Gnosis for every hundred years (or fraction thereof) the undead has existed in its unnatural state; should the target’s age exceed the Garou’s capacity to spend Gnosis points, permanent Gnosis may be sacrificed to account for 500 years of age per dot spent.",
+		"level": "6",
+		"users": [
+			"Silver Fangs"
+		]
+	},
+	{
+		"id": 304,
+		"name": "Balance",
+		"description": "The Stargazer is able to walk across any ledge, rope, or other narrow causeway, no matter how thin or slippery. Wind-spirits teach this Gift.",
+		"system": " Difficulties for climbing decrease by three, and attempts to maintain balance automatically succeed. This Gift’s effects are permanent.",
+		"level": "1",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 305,
+		"name": "Channeling",
+		"description": "Rage is both a boon and a bane to the Garou, and the Stargazers feel this more than most. Many stargazers seek new ways to harness and direct their divine fury, and those with this Gift have at least one more option: to channel the vast stream of Rage into a single action, intensifying and clarifying it. This Gift is taught by a fire-spirit.",
+		"system": " The player may spend up to three Rage points on a single action. Each point spent in this manner gives the werewolf an extra die for that roll.",
+		"level": "1",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 306,
+		"name": "Iron Resolve",
+		"description": "Through the blessings of the spirits, the Stargazer’s resolve is tempered like steel, allowing great feats through application of sheer will. An ancestor-spirit teaches this Gift.",
+		"system": "  Once per scene, the Stargazer may spend one Willpower to gain two automatic successes on an action, rather than one.",
+		"level": "1",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 307,
+		"name": "Inner Light",
+		"description": "The Stargazer can step sideways into the Umbra using only his own inner light; he needs no mirror. This Gift is taught by an Epiphling of Truth.",
+		"system": " The character is always considered to be using a mirror when attempting to step sideways, regardless of the presence of any reflective surface.",
+		"level": "2",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 308,
+		"name": "Inner Strength",
+		"description": "After brief meditation, the Garou may convert her inner anger into iron resolve. Ancestor-spirits teach this Gift.",
+		"system": " The character concentrates for five minutes; the player rolls Wits + Enigmas (difficulty 8). Each success converts one point of Rage into a point of Willpower.",
+		"level": "2",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 309,
+		"name": "Resist Temptation",
+		"description": "Using a series of ritual gestures to equalize the flow of energy through her chakra points, the Stargazer can resist worldly, material, and spiritual temptations, including corruption. This Gift is taught by an earth-spirit.",
+		"system": "  The player rolls Wits + Rituals and spends one Gnosis point. Each success raises others’ difficulties to ensorcel or supernaturally coerce the character by one for the rest of the scene. This Gift is automatically successful against non-supernatural coercion.",
+		"level": "2",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 310,
+		"name": "Surface Attunement",
+		"description": "The Stargazer becomes as one with her environment, gaining the ability to easily traverse Gaia’s face — no matter what obstacles it may present. She may pass at normal speed across water, mud, snow, and quicksand without falling through or leaving tracks. The spirits of small, often-overlooked animals (such as rabbits, sparrows and mice) teach this Gift.",
+		"system": "  The werewolf concentrates for a turn; her player rolls Dexterity + Athletics, difficulty 6. This Gift lasts for a scene.",
+		"level": "2",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 311,
+		"name": "Wuxing",
+		"description": "The Stargazer exploits the mystical resonance between the Asian elements of water, fire, earth, metal, and wood, transforming one element into another. An avatar of Chimera teaches this Gift.",
+		"system": "   The  player  rolls  Manipulation  +  Enigmas  (difficulty 7). Each success allows for one square foot of a particular element (water, earth, fire, metal, or wood) to be changed into an alternate type of the same group of elements: Fire may become wood, water may become earth,  and  so  on.  The  dimension  and  shape  of  the  element doesn’t change — a fire in a fireplace still retains its “shape,” but may now be made of wood, or even water (which retains the same shape, becoming liquid held fast to  a  specific  contour).  The  effect  lasts  for  a  number  of  turns equal to the character’s Gnosis rating.",
+		"level": "2",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 312,
+		"name": "Clarity",
+		"description": "This Gift grants the ability to see through fog, pitch darkness, and invisibility, and to recognize illusions. A wind-spirit teaches it.",
+		"system": "  The player rolls Perception + Enigmas (difficulty 7). If the Stargazer attempts to see someone else’s illusion, the number of successes rolled by the creator must be matched or beaten by the Garou; otherwise, this Gift negates visual penalties.",
+		"level": "3",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 313,
+		"name": "Merciful Blow",
+		"description": "The Garou can subdue a foe in combat without harming him. A mongoose-spirit teaches this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point,  and  the Stargazer attunes himself to the body of his foe. For the remainder of the scene, although the Garou’s attacks inflict damage, no actual injuries appear upon the opponent’s body. A foe incapacitated through the use of this power immediately regains all health lost to the Garou’s Merciful Blows, and is guaranteed to remain unconscious for at least the rest of the scene.",
+		"level": "3",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 314,
+		"name": "Wind's Returning Favor",
+		"description": "A Stargazer with this Gift may be a master of weapons, but rarely goes about armed. She may rely on her opponents to  bring  weapons  to  her  hand.  This  Gift  is  taught  by  a  wind-spirit.",
+		"system": " The player spends one Willpower point and rolls Dexterity + Athletics in response to an opponent’s close-range Melee attack (difficulty equals the opponent’s Wits + Melee). The Stargazer’s successes take away the successes on the opponent’s attack roll; if the Stargazer’s successes  outnumber  the  opponent’s,  she  steals  the  attacker’s weapon and may use it on the following turn.",
+		"level": "3",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 315,
+		"name": "Preternatural Awareness",
+		"description": "The  Stargazer attunes all her senses to her surroundings, becoming preternaturally aware of her opponent’s doings and allowing her to anticipate them somewhat. A wind-spirit teaches this Gift.",
+		"system": "  The  player  spends  one  Gnosis  point  and  rolls Perception + Athletics (difficulty 7). All opponents’ dice pools to hit the Garou decrease by a number of dice equal to the successes rolled. This penalty applies even if the werewolf cannot see the attack coming. This Gift’s effects last for one scene.",
+		"level": "4",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 316,
+		"name": "Circular Attack",
+		"description": "The  greatest  Stargazers  have  no  fear  of  fighting  even  a  horde  of  opponents. They can not only avoid their foes’ attacks, but can channel those attacks toward other enemies. Thus the Stargazer’s flowing movements turn a mob of murderous fomori into a weapon directed against itself. A wind-spirit teaches this Gift.",
+		"system": "   The player spends one Willpower point and rolls Wits + Athletics (difficulty equals the highest Wits of any present opponent + 3). Each success enables the Garou to perfectly dodge one attack or to redirect one attack directed at her to strike a different target during that turn. The Stargazer may not use this Gift multiple times in one turn or spend Rage during the same turn, although she may take multiple actions in the standard fashion.",
+		"level": "5",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 317,
+		"name": "Harmonious Unity of the Emerald Mother",
+		"description": "The  wisest  of  Stargazers  understand  that  all  divisions  of  the  flesh  are  mere  illusion.  The  only  true  separation  is  of  spirit  —  Wyrm  from  Weaver,  Weaver  from  Wyld,  Triat  from  Gaia.  But  even  then,  the  great  forces of the universe are connected. Drawing upon this wisdom, the Garou banishes the boundaries dividing the mind and body of man from the power of the werewolf. An avatar of Gaia herself teaches this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point.  For  the next day, the Stargazer enjoys the physical Attribute bonuses and regenerative powers of the Crinos form while in  Homid.  This  Gift  doesn’t  grant  Crinos  form’s  claws,  fangs, or expanded senses, nor does it inflict the Delirium.",
+		"level": "5",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 318,
+		"name": "Wisdom of the Seer",
+		"description": "By gazing into the night sky for an hour, the Stargazer becomes a channel for the wisdom of the Tellurian, and can find the answer to almost any question. A Chimerling teaches this Gift.",
+		"system": " The player spends one Gnosis point and rolls Intelligence  +  Enigmas  (difficulty  7).  If  successful,  the  player can ask any one simple question of the Storyteller and expect an answer that is honest, if vague and wrapped in symbolism. The clarity of the information depends on the number of successes, and it is rare to gain a complete and straightforward answer.",
+		"level": "5",
+		"users": [
+			"Stargazers"
+		]
+	},
+	{
+		"id": 319,
+		"name": "Sense Magic",
+		"description": "The  werewolf  can  sense the pulse and flux of mystic energies, whether the righteous  Gifts  of  the  Garou,  the  arrogant  wizardry  of  mages, the debased powers of vampires, or even the black arts of the Wyrm’s minions. A spirit-servant of Uktena teaches this Gift.",
+		"system": "  The player rolls Perception + Enigmas. The difficulty is based on the strength and subtlety of the magic. The  Uktena  cannot  tell  the  exact  nature  of  the  magic,  although  clues  such  as  “Gaian,”  “dreamcraft,”  or  “blood  magic” might be granted with three or more successes. The radius is 20 feet per success.",
+		"level": "1",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 320,
+		"name": "Shroud",
+		"description": "The Uktena can create a field of inky blackness through which only she can see. A night-spirit teaches this Gift.",
+		"system": "   The player spends one Gnosis point and rolls Gnosis (difficulty varies: 3 for twilight, 6 indoors, 9 for bright sunlight). Each success blacks out a 10’ by 10’ by 10’ area within the Garou’s line of sight. Powers which permit sight in total darkness are capable of defeating this Gift.",
+		"level": "1",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 321,
+		"name": "Spirit of the Lizard",
+		"description": "The werewolf ’s hands and feet spout hundreds of tiny hooks, allowing her to climb across or cling to any surface — even sheer hori-zontal surfaces and ceilings. A gecko-spirit teaches this Gift.",
+		"system": "   The player spends one Gnosis. For the rest of  the  scene,  the  character  can  move  across  any  solid  surface at her normal walking speed. Staying attached to a vertical surface or ceiling while taking any more strenuous movement (fighting, moving faster than walking speed, attempting to dislodge a steam grate) requires a reflexive Stamina + Athletics roll, difficulty 7).",
+		"level": "1",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 322,
+		"name": "Coils of the Serpent",
+		"description": "The Uktena calls forth dark tentacles of mist or fog that wrap around enemies and hold them in a viselike grip. Each coil is 30 feet long and possesses the same Physical characteristics as the werewolf who summons them. A snake-spirit teaches this Gift.",
+		"system": "  The player rolls Dexterity + Occult, difficulty 7. Each success causes a single coil to emerge from the air at a point within 100 feet (30 m) of the Uktena. The player must use a turn’s concentration and a Dexterity + Brawl roll to aim the tentacles. The coils focus on a single target, unless the player makes attack rolls against multiple targets,  with  the  normal  penalties  for  multiple  actions.  The coils only bind; they can’t inflict damage. To break free, the victim must make a Strength roll, difficulty 7; if his successes exceed the number of coils entangling him, he struggles free. The tentacles last until the end of the scene or until dismissed, whichever is sooner.",
+		"level": "2",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 323,
+		"name": "Fetish Fetch",
+		"description": "The  Uktena  need  not carry her fetishes with her. She may draw them from a hidden cache whenever she needs them, no matter the distance, and return them just as easily. A packrat-spirit teaches this Gift.",
+		"system": "  The first part of the Gift involves creating the secret hiding spot for the fetishes. The player spends one Gnosis and buries or covers her items. Once this ritual is complete, she need only spend a Gnosis point to summon any or all of her fetishes, or to return them to their hiding place. The fetish appears in her hand as if from thin air. Only one hiding spot can exist at a time, but the Uktena can replace it with a new one whenever she wishes.",
+		"level": "2",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 324,
+		"name": "Shadows at Dawn",
+		"description": "Sometimes,  one must give information to get information. However, Uktena are notoriously tightfisted with secrets. With this Gift, the werewolf can share a bit of knowledge that later vanishes  from  the  subject’s  memory.  An  ancestor-spirit  teaches this Gift.",
+		"system": "  After relating a bit of lore, the player rolls Wits + Subterfuge (difficulty of the opponent’s Wits + Subterfuge). If the roll succeeds, whatever information the Uktena imparted completely vanishes from the target’s memory when the sun next rises.",
+		"level": "2",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 325,
+		"name": "Spirit of the Bird",
+		"description": "Few  enemies  would  expect  a  werewolf  to  attack  from  above  —  an  excellent reason to do so, in the eyes of the Uktena. The Garou  using  this  gift  may  hover,  fly,  or  float.  Any  bird  spirit can teach this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point,  and  with  an  audible  rush  of  mighty-but-unseen  wings,  the  character takes to the air. The Garou can fly at 20 mph and  hover  as  she  desires.  The  difficulties  of  all  combat  maneuvers increase by one. This Gift lasts for one hour.",
+		"level": "2",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 326,
+		"name": "Spirit of the Fish",
+		"description": "The werewolf can breathe underwater and swim as fast as he can run in Hispo form. Any fish-spirit can teach this Gift.",
+		"system": "  The player spends one Gnosis point and rolls Stamina + Animal Ken (difficulty 7). The effect lasts one hour per success.",
+		"level": "2",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 327,
+		"name": "Banish Totem",
+		"description": "By speaking words of forbiddance, the Uktena can bar pack or personal totems from giving their children aid. Doing so also disrupts the spiritual rapport between packmates, making it difficult for  them  to  execute  pack  tactics  or  act  in  concert.  An  ancestor-spirit teaches this Gift.",
+		"system": "  The Uktena must concentrate for a full turn, and he must know which totem his victims follow. The player spends one Gnosis point and one Willpower point, and he rolls Gnosis at a difficulty of the pack’s combined Totem  score  (maximum  of  10).  If  successful,  members  of the targeted pack lose all Traits associated with their totem, and they cannot use pack tactics or act in concert for the remainder of the scene. If the Uktena is rendered unconscious or killed, the Gift is canceled.",
+		"level": "3",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 328,
+		"name": "Chains of Mist",
+		"description": "Silvery filaments spin out from the Garou’s claws, becoming streamers of mist  that  enwrap  and  confound  nearby  spirits,  sapping  their strength. A fog-spirit teaches this Gift.",
+		"system": "    The  Uktena  concentrates  for  a  turn;  and  the player spends one Gnosis point and rolls Dexterity + Enigmas (difficulty 7). One spirit of the player’s choice within  200  feet  (60  m)  is  affected  per  success.  Spirits  struck by this Gift treat their Rage, Gnosis, and Willpower ratings as though they were one lower than they truly are for the purpose of all dice rolls for the rest of the scene.",
+		"level": "3",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 329,
+		"name": "Invisibility",
+		"description": "The Garou can vanish from sight, though she must concentrate to maintain her invisibility. She can’t move faster than half normal walking  speed,  and  can’t  draw  attention  to  herself.  A  spirit-servant of Uktena teaches this Gift.",
+		"system": "    The  player  spends  one  Gnosis  point  and  rolls Intelligence + Occult (difficulty varies: 4 if already concealed,  6  if  in  the  open,  9  in  plain  sight).  Anyone  looking  for  the  Garou  must  score  more  successes  on  a  Perception + Alertness roll (difficulty 8) than the player did on the initial roll. Anyone not actively seeking the Garou will not spot her at all.",
+		"level": "3",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 330,
+		"name": "Rending the Craft",
+		"description": "The werewolf ’s claws burn with mystic force, rending apart the delicate workings of magic. An ancestor-spirit teaches this Gift.",
+		"system": "  After the werewolf makes a successful claw attack, the player may spend a point of Willpower to end the effects of any ongoing magical power enhancing the target (such as the Gift: Razor Claws, or the Armor Charm). Permanent magical effects cannot be rent asunder by this Gift, nor powers that are innate to the nature of the target. For example, a werewolf ’s Gifts could be cancelled, but not her ability to shapeshift; a vampire’s Disciplines could be disrupted, but not her immortality or her ability to spend blood to raise her Attributes. In the event that a magical effect mixes permanent and temporary elements, the permanent elements are retained while transitory elements are disabled. For example, a vampire’s Potence would continue to passively grant extra Strength dice, but blood could not be spent to transform those dice into automatic successes.",
+		"level": "3",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 331,
+		"name": "Scrying",
+		"description": "The Uktena may view events elsewhere by staring into a reflective surface. Many supernatural beings, particularly those capable of scrying themselves, know defenses against this Gift. A fly-spirit teaches this Gift.",
+		"system": "   The player spends one Gnosis and rolls Perception + Occult (difficulty 10 unless the Uktena possesses an item belonging to the person or place being viewed, in which case the difficulty is 8). The Uktena may view everything that happens in that area for the rest of the scene.",
+		"level": "3",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 332,
+		"name": "Call Elemental",
+		"description": "The Garou is able to call one of the four classic elementals to his aid (earth, air, fire or water). An elemental teaches this Gift.",
+		"system": "    The player spends one Gnosis point and rolls Gnosis (difficulty is equal to the area’s Gauntlet). She must then roll Manipulation + Occult (difficulty 7) to make the summoned elemental amenable to helping her. The elemental vanishes at the end of the scene.",
+		"level": "4",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 333,
+		"name": "Hand of the Earth Lords",
+		"description": "By drawing on the land’s energies, the Uktena can move any one object weighing up to 2,000 pounds (900 kg) simply by gesturing at it. An air elemental and an earth elemental must teach this Gift in concert.",
+		"system": "  The player spends one Gnosis point and rolls Dexterity + Occult (difficulty 7). Concentration is necessary to move the object, which travels at roughly 20 mph (32 kph). The Garou’s control lasts for one turn per success.",
+		"level": "4",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 334,
+		"name": "Fetish Doll",
+		"description": "Sympathetic  magic  is among the oldest principles of sorcery — possibly theoldest — and still as effective as it ever was. The Garou can harm his victims from afar using a specially-created doll. He must have a piece of his victim or an object belonging to him, and he must then construct the doll to incorporate the prize. An ancestor-spirit teaches this Gift.",
+		"system": "   The  doll  takes  one  week  to  construct  and  enchant. The player rolls Perception + Crafts (difficulty 8) to do so. When the doll is complete, the player may roll  Intelligence  +  Medicine  (difficulty  is  equal  to  the  victim’s  Willpower).  Each  success  inflicts  one  level  of  aggravated damage on the victim, soakable if the victim is capable of doing so. After 10 successes, the doll is too mutilated to be of further use.",
+		"level": "5",
+		"users": [
+			"Uktena"
+		]
+	},
+	{
+		"id": 335,
+		"name": "Beat of the Heart Drum",
+		"description": "The  werewolf becomes an inescapable hunter, drawn ever onward by the beat of his prey’s heart until that heart grows still. A spirit servant of Great Wendigo teaches this Gift.",
+		"system": "   The  Garou  must  have  an  object  belonging  to his target, a piece of the victim (a blood sample, a lock of hair), or must have tasted his quarry’s blood in the past. The player spends a point of Gnosis and rolls Perception + Survival (difficulty 7). The Wendigo can hear her quarry’s heartbeat for one day per success, no matter how far away they may be. The beat grows louder as the werewolf draws near, making tracking effortless.",
+		"level": "1",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 336,
+		"name": "Call the Breeze",
+		"description": "The werewolf calls up a strong (~20 mph/36 kph), cold wind and directs it as she wills. The wind chills anyone not prepared for it, and can disperse (or redirect) clouds of vapor (including tear gas or airborne toxins) as well as swarms of insects. An air elemental teaches this Gift.",
+		"system": "  The Garou whistles or breathes out to summon the wind. Anyone caught in it loses one die from Perception rolls as long as the breeze lasts, and suffers a –1 penalty to all actions after one minute of exposure if not dressed appropriately for cold weather.",
+		"level": "1",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 337,
+		"name": "Camouflage",
+		"description": "The Wendigo blends in  with  the  surrounding  wilderness,  the  better  to  evade  enemies or prepare ambushes. A deer-spirit teaches this Gift.",
+		"system": "    The  difficulties  to  spot  the  Garou  in  the  wilderness increase by three.",
+		"level": "1",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 338,
+		"name": "Ice Echo",
+		"description": "The Wendigo conjures a perfect reflection of himself. The image is identical to the Garou, except that it is reversed, as though seen in a mirror (so any writing on the Garou’s clothing would be backwards, scars would be on the wrong side, etc.) The Wendigo can control the image easily, giving it voice and guiding its motion. An ancestor-spirit teaches this Gift.",
+		"system": "  The player spends a point of Gnosis to create the Ice Echo at any point within 100 feet (30 m). The Echo moves and sounds exactly like the Garou in addition to taking on her precise appearance, but gives off no scent or heat, and is intangible. Discerning which is the echo  and  which  is  the  original  requires  a  Perception  +  Enigmas roll (difficulty of the Garou’s Gnosis).",
+		"level": "1",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 339,
+		"name": "Cutting Wind",
+		"description": "The  Wendigo  conjures up a bitterly cold blast of wind and directs it at will.  The  wind  can  knock  opponents  off  their  feet  and  chill them to the bone. A spirit servant of Great Wendigo itself teaches this Gift.",
+		"system": "   The player spends one Willpower point. Directing the gust requires a Dexterity + Occult roll. Anyone hit by the wind loses two dice from all dice pools for two turns. The wind can also knock foes off ledges, into traffic, or into pits. The wind’s medium range is 20 yards (18 m), and it is modified as per the rules on firearms (see p. 293). The wind lasts for a number of turns equal to the successes rolled.",
+		"level": "2",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 340,
+		"name": "Claws of Frozen Death",
+		"description": "As  the  Get of Fenris Gift: Fangs of the North.",
+		"system": "   ",
+		"level": "2",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 341,
+		"name": "Salmon Swim",
+		"description": "The Wendigo can swim as easily as a fish or walk on the surface of the water as if it were land. Salmon Swim only works on freshwater bodies; any natural body such as a lake, pond, or river is fair game, but the Gift doesn’t function for swimming pools or other purely artificial containers of freshwater. It is taught by a salmon-spirit. ",
+		"system": "  The player spends one Gnosis point and rolls Dexterity + Athletics (difficulty 7). For each success, the character can move freely on or under the surface for one scene. Additionally, during this period, the Garou can use the effects of the lupus Gift: Hare’s Leap, so long as he begins and ends his leap in a sizable body of fresh water.  ",
+		"level": "2",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 342,
+		"name": "Speak with Wind Spirits",
+		"description": "The  Wendigo may call upon wind-spirits for knowledge and guidance.  She  can  ask  them  one  question,  which  must  concern the immediate area (wind-spirits have short attention spans). A wind-spirit teaches this Gift.",
+		"system": "   Upon learning this Gift, the Garou can automatically speak with wind-spirits while in the Umbra. To ask a question in the physical world, the player must roll Manipulation + Expression (difficulty 8). The number of successes reflects the accuracy of the information. If no wind-spirits are present (such as indoors, where the air is still and stagnant) this Gift cannot function. ",
+		"level": "2",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 343,
+		"name": "Blood of the North",
+		"description": "The Wendigo takes winter as his brother, infusing the spiritual essence of the howling cold into his very flesh and bones. A snow-spirit teaches this Gift.",
+		"system": "   The  Wendigo  ignores  all  penalties  due  to  cold or chilling effects, and gains an extra five dice of soak against all cold-based attacks. All Survival rolls made in cold environments are at –2 difficulty. This Gift’s effects are permanent.  ",
+		"level": "3",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 344,
+		"name": "Bloody Feast",
+		"description": "Great Wendigo, as a hungry cannibal spirit, can teach his favored children how  to  gain  strength  from  an  enemy’s  flesh  and  blood.  An avatar of Great Wendigo teaches this Gift.",
+		"system": "  The Garou must bite his opponent and taste blood — he must inflict at least one lethal or aggravated health level of damage, and his victim must be something that bleeds. If the opponent has toxic blood or none at all, this Gift cannot function. The player then rolls Gnosis at a difficulty of the opponent’s Stamina + 3. The Wendigo gains one extra dot in Strength for every two health levels of damage inflicted by the bite (maximum of + 5 to Strength). The extra Strength bonus lasts for two turns per success on the Gnosis roll. However, flesh and blood can  be  addictive;  the  Wendigo’s  player  must  make  an  immediate frenzy roll the turn after activating the Gift. ",
+		"level": "3",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 345,
+		"name": "Sky Running",
+		"description": "The  Wendigo  gains the ability to run at 50 mph (80 kph) through the skies, leaving a track of fire behind him as he goes. He must continually remain in motion, or he falls. This Gift is taught by an avatar of Great Wendigo.",
+		"system": "   The  Wendigo  concentrates  for  one  turn.  The player then spends one Willpower point. This Gift lasts  for  four  hours  and  may  be  replenished  by  further  Willpower expenditure. ",
+		"level": "3",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 346,
+		"name": "Call of the Cannibal Spirit",
+		"description": "By  dancing  under  the  night  sky,  the  werewolf  can  summon  an avatar of Great Wendigo to hunt down a target of the Garou’s  choice.  The  werewolf  must  possess  a  piece  of  his  target, whose heart the Wendigo will devour. An avatar of Great Wendigo teaches this Gift.",
+		"system": "  The Garou must dance for three full turns. The player spends one Rage point and one Gnosis point, then  rolls  Charisma  +  Occult  (difficulty  8).  If  the  roll  botches  or  if  the  Wendigo  is  somehow  prevented  from  killing its target, the spirit will return to kill the summoner.",
+		"level": "4",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 347,
+		"name": "Chill of Early Frost",
+		"description": "The werewolf calls down a mystical chill from Great Wendigo himself, freezing the surrounding land and anyone in it. A spirit servant of Great Wendigo teaches this Gift.",
+		"system": "   The player spends one Gnosis point and rolls Intelligence + Occult (difficulty varies; 4 if it is already winter,  6  for  spring,  9  for  summer).  Success  drops  the  temperature  a  bit  below  freezing  in  a  five-mile  (8  km)  radius, or even further below zero if it was already winter. All creatures without a natural coat of fur lose two dice from all pools. This Gift wreaks particular havoc in urban environments as pipes burst and roads freeze. This Gift lasts for one day per success.",
+		"level": "4",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 348,
+		"name": "Invoke the Spirits of the Storm",
+		"description": "The Garou can summon nearly any weather effect she desires: Fog, tornadoes, blizzards, and thunderstorms all await her call. An avatar of Great Wendigo teaches this Gift.",
+		"system": "   The  player  spends  one  Gnosis  point  and  rolls  Willpower.  (The  difficulty  varies  based  on  how  conceptually  close  the  desired  effect  is  to  the  current  weather patterns of the area). The storm covers 10 miles per success. If the Garou summons a thunderstorm, she may spend Gnosis to call lightning down on her enemies (Wits + Occult to hit, 10 dice of aggravated damage).",
+		"level": "5",
+		"users": [
+			"Wendigo"
+		]
+	},
+	{
+		"id": 349,
+		"name": "Heart of Ice",
+		"description": "The  werewolf  can  call down the curse of the Wendigo on an enemy. The Garou must whisper the target’s name to the hungry winds; thereafter, the victim’s innards begin to turn to ice. An avatar of Great Wendigo teaches this Gift.",
+		"system": "   The player spends one Gnosis point and rolls Wits + Occult (difficulty equals the target’s Willpower). Each success inflicts one level of unsoakable aggravated damage  at  a  rate  of  one  health  level  per  turn  until  all  damage has been done.",
+		"level": "5",
+		"users": [
+			"Wendigo"
 		]
 	}
 ]
