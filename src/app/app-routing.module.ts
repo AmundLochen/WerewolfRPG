@@ -20,6 +20,7 @@ import { BreedsComponent } from './breeds/breeds.component';
 import { AuspicesComponent } from './auspices/auspices.component';
 import { TribesComponent } from './tribes/tribes.component';
 import { CharacterCreationComponent } from './character-creation/character-creation.component';
+import { NewsComponent} from './news/news.component';
 
 const routes: Routes = [
 	{ path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -43,7 +44,8 @@ const routes: Routes = [
   { path: 'breeds', component: BreedsComponent },
   { path: 'auspices', component: AuspicesComponent },
   { path: 'tribes', component: TribesComponent },
-  { path: 'creation', component: CharacterCreationComponent }
+  { path: 'creation', component: CharacterCreationComponent },
+  { path: 'news', component: NewsComponent }
 ];
 
 @NgModule({

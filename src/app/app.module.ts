@@ -30,6 +30,7 @@ import { TribesComponent } from './tribes/tribes.component';
 import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
 import { SearchPipe } from './search.pipe';
 import { FilterPipe } from './filter.pipe';
+import { NewsComponent} from './news/news.component';
 
 @NgModule({
   declarations: [
@@ -57,7 +58,8 @@ import { FilterPipe } from './filter.pipe';
     TribesComponent,
     GiftsDetailComponent,
     SearchPipe,
-    FilterPipe
+    FilterPipe,
+    NewsComponent
   ],
   imports: [
     BrowserModule,
