@@ -1,2 +1,6 @@
 /dist
-/node_modules
+node_modules/*
+github_ssh
+github_ssh.pub
+node_modules
+package-lock.json
