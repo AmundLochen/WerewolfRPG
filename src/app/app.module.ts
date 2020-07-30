@@ -31,6 +31,7 @@ import { GiftsDetailComponent } from './gifts-detail/gifts-detail.component';
 import { SearchPipe } from './search.pipe';
 import { FilterPipe } from './filter.pipe';
 import { NewsComponent} from './news/news.component';
+import { MartialArtsComponent } from './combat/martial-arts/martial-arts.component';
 
 @NgModule({
   declarations: [
@@ -59,7 +60,8 @@ import { NewsComponent} from './news/news.component';
     GiftsDetailComponent,
     SearchPipe,
     FilterPipe,
-    NewsComponent
+    NewsComponent,
+    MartialArtsComponent
   ],
   imports: [
     BrowserModule,

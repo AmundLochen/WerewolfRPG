@@ -21,6 +21,7 @@ import { AuspicesComponent } from './auspices/auspices.component';
 import { TribesComponent } from './tribes/tribes.component';
 import { CharacterCreationComponent } from './character-creation/character-creation.component';
 import { NewsComponent} from './news/news.component';
+import { MartialArtsComponent } from './combat/martial-arts/martial-arts.component';
 
 const routes: Routes = [
 	{ path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -35,6 +36,7 @@ const routes: Routes = [
   { path: 'combat/types', component: TypesComponent },
   { path: 'combat/stages', component: StagesComponent },
   { path: 'combat/maneuvers', component: ManeuversComponent },
+  { path: 'combat/martial-arts', component: MartialArtsComponent },
   { path: 'combat/charts', component: ChartsComponent },
   { path: 'combat/health', component: HealthComponent },
   { path: 'traits/renown', component: RenownComponent },
