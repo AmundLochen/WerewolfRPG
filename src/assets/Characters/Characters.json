@@ -1,0 +1,49 @@
+[		
+	{
+		"id": 0,
+		"name": "Butch",
+		"description": "Ragabash and shadow lord",
+		"rank": "fostern",
+		"pack": "Moontusks",
+		"sept": "Unknown",
+		"image": "",
+		"stories": [
+			{
+				"title": "origin",
+				"link": "testLink"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Hvitr",
+		"description": "Roar",
+		"rank": "fostern",
+		"pack": "Moontusks",
+		"sept": "Unknown",
+		"image": "",
+		"stories": [
+			{
+				"title": "origin",
+				"link": "testLink"
+			},
+			{
+				"title": "origin2",
+				"link": "testLink2"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Seeks-In-Darkness",
+		"description": "Ded",
+		"rank": "gammal",
+		"pack": "unknown",
+		"sept": "Unknown",
+		"image": "",
+		"stories": [
+		]
+	}
+]
+
+

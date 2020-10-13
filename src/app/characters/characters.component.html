@@ -1,0 +1,52 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-4">
+			<h1>Characters</h1>
+			<input class="gift-filter" placeholder="Filter characters" [(ngModel)]="query">
+			<!--<div class="col-sm-4">
+				<label>
+  					<input type="checkbox" name="homid-check"[(ngModel)]="homidCheck">Homid
+				</label>
+				<label>
+  					<input type="checkbox" name="metis-check"[(ngModel)]="metisCheck">Metis
+				</label>
+				<label>
+  					<input type="checkbox" name="lupus-check"[(ngModel)]="lupusCheck">Lupus
+				</label>
+				
+			</div>
+			<div class="col-sm-5">
+				<label>
+  					<input type="radio" name="auspice-group" id="Ragabash" value="ragabash" [checked]="auspiceSearchTerm==='ragabash'" [(ngModel)]="auspiceSearchTerm">Ragabash
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Theurge" value="theurge" [checked]="auspiceSearchTerm==='theurge'" [(ngModel)]="auspiceSearchTerm">Theurge
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Philodox" value="philodox" [checked]="auspiceSearchTerm==='philodox'" [(ngModel)]="auspiceSearchTerm">Philodox
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Galliard" value="galliard" [checked]="auspiceSearchTerm==='galliard'" [(ngModel)]="auspiceSearchTerm">Galliard
+				</label>
+				<label>
+  					<input type="radio" name="auspice-group" id="Ahroun" value="ahroun" [checked]="auspiceSearchTerm==='ahroun'" [(ngModel)]="auspiceSearchTerm">Ahroun
+				</label>
+			</div>-->
+			<div class="scrollbar scrollbar-primary col-sm-6">
+				<div class="force-overflow container-fluid">
+					<ul class="smooth-scroll list-unstyled">
+						<li class="gift list-group-item-unstyled"
+						*ngFor="let characterObject of characterList | search:'name':query"
+						[class.selected]="characterObject === selectedCharacter" 
+						(click)="onSelect(characterObject)">
+						<span class="badge">{{characterObject.name}}</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div *ngIf="selectedCharacter" class="col-sm-8 gift-detail-app">
+			<app-character-detail [characterObject]="selectedCharacter"></app-character-detail>
+		</div>
+	</div>
+</div>

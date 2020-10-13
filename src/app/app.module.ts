@@ -32,6 +32,8 @@ import { SearchPipe } from './search.pipe';
 import { FilterPipe } from './filter.pipe';
 import { NewsComponent} from './news/news.component';
 import { MartialArtsComponent } from './combat/martial-arts/martial-arts.component';
+import { CharactersComponent } from './characters/characters.component';
+import { CharacterDetailComponent } from './character-detail/character-detail.component';
 
 @NgModule({
   declarations: [
@@ -61,7 +63,9 @@ import { MartialArtsComponent } from './combat/martial-arts/martial-arts.compone
     SearchPipe,
     FilterPipe,
     NewsComponent,
-    MartialArtsComponent
+    MartialArtsComponent,
+    CharactersComponent,
+    CharacterDetailComponent
   ],
   imports: [
     BrowserModule,

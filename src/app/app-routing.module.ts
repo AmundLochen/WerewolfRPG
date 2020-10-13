@@ -22,6 +22,7 @@ import { TribesComponent } from './tribes/tribes.component';
 import { CharacterCreationComponent } from './character-creation/character-creation.component';
 import { NewsComponent} from './news/news.component';
 import { MartialArtsComponent } from './combat/martial-arts/martial-arts.component';
+import { CharactersComponent } from './characters/characters.component';
 
 const routes: Routes = [
 	{ path: '', redirectTo: '/home', pathMatch: 'full' },
@@ -47,7 +48,8 @@ const routes: Routes = [
   { path: 'auspices', component: AuspicesComponent },
   { path: 'tribes', component: TribesComponent },
   { path: 'creation', component: CharacterCreationComponent },
-  { path: 'news', component: NewsComponent }
+  { path: 'news', component: NewsComponent },
+  { path: 'characters', component: CharactersComponent }
 ];
 
 @NgModule({
