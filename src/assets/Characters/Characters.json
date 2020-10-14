@@ -1,47 +1,86 @@
 [		
 	{
 		"id": 0,
-		"name": "Butch",
-		"description": "Ragabash and shadow lord",
-		"rank": "fostern",
-		"pack": "Moontusks",
-		"sept": "Unknown",
-		"image": "",
+		"name": "Butch Colcord",
+		"description": "A young, homid, Shadow Lord Ragabash. Grew up with his grandfather outside of Miami and participated in the battles against the Black Spiral Dancers in Florida as a member of the Sept of the Sunrise Birds. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou nation",
+		"images": [
+			"butch1.jpg"
+		],
 		"stories": [
 			{
-				"title": "origin",
-				"link": "testLink"
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1VuGN06qn5Bqyo-VasHwQ85GiQgSLd8AsijVIhqxgF0U"
+			},
+			{
+				"title": "Background 2004",
+				"link": "https://docs.google.com/document/d/1G9lQ27B8ocf3FQ70CtG1nbZNgqZcuipqfEd58jBd18A"
 			}
 		]
 	},
 	{
 		"id": 1,
-		"name": "Hvitr",
-		"description": "Roar",
-		"rank": "fostern",
-		"pack": "Moontusks",
-		"sept": "Unknown",
-		"image": "",
+		"name": "Hvitr Storm",
+		"description": "A young lupus ahroun in the Get of Fenris tribe. Known for his immense strength, strong bite and short temper. Participated in the war for the Everglades against the Wyrm, and secretly fathered a metis child with one of the Black Spiral Dancers there. Has currently left the Garou Nation to raise his child. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "None",
+		"images": [
+			"hvitr1.jpg",
+			"hvitr2.png"
+		],
 		"stories": [
 			{
-				"title": "origin",
-				"link": "testLink"
-			},
-			{
-				"title": "origin2",
-				"link": "testLink2"
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1EpI-pJzkySgyS2WR5QS_eSWssd-ekvDVi267A6j3DsY"
 			}
 		]
 	},
 	{
 		"id": 2,
-		"name": "Seeks-In-Darkness",
-		"description": "Ded",
-		"rank": "gammal",
-		"pack": "unknown",
-		"sept": "Unknown",
-		"image": "",
+		"name": "Kiera Beshir",
+		"description": "A young homid theurge of the Children of Gaia. Originally from the Sept of the Western Eye in California. She spent the time after her first change fighting against the Wyrm in the Everglades as part of the Sept of the Sunrise Birds. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"images": [
+			"kiera1.jpg",
+			"kiera2.jpg"
+		],
 		"stories": [
+			{
+				"title": "Background",
+				"link": "https://www.facebook.com/events/2127847414131689"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Christopher Hughes",
+		"description": "A young homid ragabash of the Glass Walker tribe. Fought the war against Pentex with the Glass Walkers of Miami. Currently part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"images": [
+			"chris1.jpg",
+			"chris2.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://www.facebook.com/events/2127847414131689"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "No-Name",
+		"description": "A young metis of the Uktena tribe. Galliard of the Moontusk pack. Took part in the battles against the Wyrm in the Everglades during the year 1999.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"images": [
+		],
+		"stories": [
+			{
+			}
 		]
 	}
 ]

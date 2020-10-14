@@ -4,3 +4,7 @@ border-color: white;
 border-radius: 15px;
 padding: 25px; 
 }
+#characterImage {
+  	height: 30em;
+  	width: auto;
+}

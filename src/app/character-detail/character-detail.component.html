@@ -1,16 +1,23 @@
 <div class="gift-detail">
 	<div *ngIf="character" >
 		<div class="col-sm">
-			<h2>{{character.name}} - Rank {{character.rank}}</h2>
+			<h2>{{character.name}}</h2>
 			<br>
+			<div class="container-fluid">
+				<ul class="list-inline">
+					<li class="gift list-inline-item"
+					*ngFor="let image of character.images">
+						<img id="characterImage" class="clearfix img-fluid" src="assets/Characters/{{image}}">
+					</li>
+				</ul>
+			</div>
 			<div><span><b>Description: </b><p [innerHTML]="character.description"></p></span></div>
-				<br><br>
-			<div><span><b>Pack: </b><p [innerHTML]="character.pack"></p></span></div>
-			<br><br>
-			<ul style="list-style: none; padding-left: 0px"> <b>Stories: </b>
+			<div><span><b>Affiliation: </b><p [innerHTML]="character.affiliation"></p></span></div>
+			<div><span><b>Rank: </b><p [innerHTML]="character.rank"></p></span></div>
+			<ul style="list-style: none; padding-left: 0px">
 				<li class="gift list-item"
 					*ngFor="let story of character.stories">
-					<a href={{story.link}}>{{story.title}}</a>
+					<a href={{story.link}} target="_blank"><b>{{story.title}}</b></a>
 				</li>
 			</ul>
 		</div>
