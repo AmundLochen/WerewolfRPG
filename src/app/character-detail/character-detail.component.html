@@ -14,6 +14,7 @@
 			<div><span><b>Description: </b><p [innerHTML]="character.description"></p></span></div>
 			<div><span><b>Affiliation: </b><p [innerHTML]="character.affiliation"></p></span></div>
 			<div><span><b>Rank: </b><p [innerHTML]="character.rank"></p></span></div>
+			<div><span><b>{{character.status}}</b></span></div><br>
 			<ul style="list-style: none; padding-left: 0px">
 				<li class="gift list-item"
 					*ngFor="let story of character.stories">
