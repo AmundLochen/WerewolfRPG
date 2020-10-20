@@ -4,7 +4,7 @@
 		"name": "Butch Colcord",
 		"description": "A young, homid, Shadow Lord Ragabash. Grew up with his grandfather outside of Miami and participated in the battles against the Black Spiral Dancers in Florida as a member of the Sept of the Sunrise Birds. Known for routing out hidden enemies of the Nation, and fighting the Wyrm in clever ways. Part of the Moontusk pack.",
 		"rank": "Fostern",
-		"affiliation": "Garou nation",
+		"affiliation": "Garou Nation",
 		"status": "Alive",
 		"images": [
 			"butch1.jpg"
@@ -501,6 +501,110 @@
 		"rank": "Adren",
 		"affiliation": "Garou Nation",
 		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 35,
+		"name": "Howard Burke",
+		"description": "Local head of Pentex - Florida in the year of 1999. An ambitious and ruthless man, and a great servant to the Wyrm, he had his eyes set on the Board of Directors at Pentex. Was responsible for development of the War Wolves-project on a local level and tried to recapture the escaped subjects throughout the year 1999. Was held responsible for a loss of a hundred million dollars in a bank heist and eventually committed suicide, leaving behind two young daughters.",
+		"rank": "General Manager",
+		"affiliation": "Pentex",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 36,
+		"name": "Filled-With-Love",
+		"description": "Former leader of the Black Spiral Dancers in Florida, and a Metis herself, together with her sisters 'Kills-The-Weak' and 'No-Soul'. 'Filled-With-Love' was constantly filled with lust towards other Garou, forcing her to break the litany countless times. She would search out the strongest Garou she could find and try to force herself on them in any way she could. Even though she is a metis, she somehow gave birth to another metis during the events of 1999, leading some to suspect this cub to be the Perfect Metis of prophecy. She was eventually killed in the Black Spiral Dancers' homeland by the Get of Fenris Ahroun, Hvitr Storm.",
+		"rank": "Elder",
+		"affiliation": "Black Spiral Dancers",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 37,
+		"name": "Pete 'Avenger001' Castello",
+		"description": "A professional soldier-turned-Werewolfhunter from Miami after an incident where a frenzied Werewolf got his family killed in the street during the day. This Werewolf was seen carrying several boxes of pizza. He eventually tracked down and attempted several times to kill the Werewolf, but eventually ended up blowing himself up in an attempt to take his foe with him. Thus adding another casualty to the list of fatalities on Hunter-Net.",
+		"rank": "Avengers",
+		"affiliation": "Imbued",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 38,
+		"name": "Henry O'Connor",
+		"description": "A vampire working out of Miami running several businesses to sustain his unlife. Attempted to prey on Kiera Beshir and turn her into his servant, but was outsmarted and forced into aiding the Moontusk Pack.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+			"henry1.png"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1WC3A2OD49bDuu58fUbfrwsNHtR2R7dmH1NTOUDnVW_Q"
+			}
+		]
+	},
+	{
+		"id": 39,
+		"name": "Travis Pilgrim",
+		"description": "A young and hotheaded vampire with a strong bloodlust. Loves fighting strong opponents and once took on two Garou at the same time, barely escaping the battle, but leaving both Garou heavily wounded.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+			"travis1.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1MRwBvsmtgLcXM-ZIj9UeD54TpGXnis9hp6vyN_6LZ1k"
+			}
+		]
+	},
+	{
+		"id": 40,
+		"name": "Rosalie Grey",
+		"description": "A young vampire in charge of the club 'No Mercy' in Miami. This club has been a hub of supernatural activity ever since it was founded, and been completely trashed at least once.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 41,
+		"name": "John Franklin",
+		"description": "A young vampire in Miami who prefers to keep a low profile and keep to himself when it comes to other supernaturals, but whose genius has also helped protect his clan against attacks by the Garou.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
 		"images": [
 		],
 		"stories": [

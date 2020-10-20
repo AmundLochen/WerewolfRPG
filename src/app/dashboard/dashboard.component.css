@@ -1,4 +1,14 @@
+.LogoSpace {
+	height: 100%;
+	width: 100%;
+    text-align: right;
+}
+
 #werewolfLogo {
 	margin-top: 5em;
-	height: 50%; width: 50%;
+	margin-right: 5em;
+	margin-left:5em;
+	margin-bottom: 5em;
+	height: 75%; width: 75%;
 }
+
