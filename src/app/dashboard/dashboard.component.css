@@ -4,11 +4,23 @@
     text-align: right;
 }
 
-#werewolfLogo {
-	margin-top: 5em;
-	margin-right: 5em;
-	margin-left:5em;
-	margin-bottom: 5em;
-	height: 75%; width: 75%;
+
+
+@media screen and (max-width: 1000px) {
+	#werewolfLogo {
+  		height: 100%;
+  		width: 100%;
+  		margin-left: 15%;
+  		margin-top: 50%;
+	}
 }
 
+@media screen and (min-width: 1000px) {
+	#werewolfLogo {
+		margin-top: 5em;
+		margin-right: 5em;
+		margin-left:5em;
+		margin-bottom: 5em;
+		height: 75%; width: 75%;
+	}
+}

@@ -77,11 +77,12 @@
 	{
 		"id": 4,
 		"name": "No-Name",
-		"description": "A young metis of the Uktena tribe. Galliard of the Moontusk pack. Took part in the battles against the Wyrm in the Everglades during the year 1999.",
+		"description": "A young metis with one arm of the Uktena tribe. Galliard of the Moontusk pack. Took part in the battles against the Wyrm in the Everglades during the year 1999, and told the stories of the Moontusk Pack. He honors his friends highly in his tales and they reflect well upon the pack as a whole. Also has a bit of fear towards Hvitr Storm due to his terrible frenzies.",
 		"rank": "Fostern",
 		"affiliation": "Garou Nation",
 		"status": "Alive",
 		"images": [
+			"noname1.jpg"
 		],
 		"stories": [
 			{
