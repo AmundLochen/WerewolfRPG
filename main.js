@@ -326,7 +326,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "@font-face {\n    font-family: werewolf;\n    src: url(\"https://AmundLochen.github.io/WerewolfRPG/assets/WEREWOLF.TTF\");\n}\n\nbody {\n\tpadding-top: 70px; \n}\n\n.main-content {\n    padding: 5rem 1.5rem;\n    text-align: center;\n}\n\n/deep/ body {\n\tbackground-image: linear-gradient(#21548d, #000000);\n\tcolor: white;\n    background-repeat: no-repeat;\n    background-attachment: fixed;\n    background-size:cover;\n}\n\n/deep/ a {\n\tcolor: rgba(255, 255, 255, 0.75);\n}\n\n/deep/ a:hover {\n\tcolor: white;\n}\n\n/deep/ h1 {\n\tfont-family: werewolf;\n}\n\n/deep/ h2 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h3 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h4 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h5 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ .modal-body{\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ .modal-header {\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ .modal-footer {\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ hr {\n\tcolor: white;\n\tbackground-color: white;\n}"
+module.exports = "@font-face {\n    font-family: werewolf;\n    src: url(\"https://AmundLochen.github.io/WerewolfRPG/home/assets/WEREWOLF.TTF\");\n}\n\nbody {\n\tpadding-top: 70px; \n}\n\n.main-content {\n    padding: 5rem 1.5rem;\n    text-align: center;\n}\n\n/deep/ body {\n\tbackground-image: linear-gradient(#21548d, #000000);\n\tcolor: white;\n    background-repeat: no-repeat;\n    background-attachment: fixed;\n    background-size:cover;\n}\n\n/deep/ a {\n\tcolor: rgba(255, 255, 255, 0.75);\n}\n\n/deep/ a:hover {\n\tcolor: white;\n}\n\n/deep/ h1 {\n\tfont-family: werewolf;\n}\n\n/deep/ h2 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h3 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h4 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ h5 {\n\tcolor: gold;\n\tfont-family: werewolf;\n}\n\n/deep/ .modal-body{\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ .modal-header {\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ .modal-footer {\n\tbackground-color: black;\n\tcolor: white;\n}\n\n/deep/ hr {\n\tcolor: white;\n\tbackground-color: white;\n}"
 
 /***/ }),
 
@@ -2285,7 +2285,7 @@ var WillpowerComponent = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "@font-face {\n    font-family: werewolf;\n    src: url(\"https://AmundLochen.github.io/WerewolfRPG/assets/WEREWOLF.TTF\");\n}\n\n#tribeTitle {\n\tpadding-bottom: 40px;\n}\n\n#tribeLogo {\n\theight: 20em;\n}\n\n#quote {\n\tfont-family: werewolf;\n\tcolor: gold;\n}\n"
+module.exports = "@font-face {\n    font-family: werewolf;\n    src: url(\"https://AmundLochen.github.io/WerewolfRPG/home/assets/WEREWOLF.TTF\");\n}\n\n#tribeTitle {\n\tpadding-bottom: 40px;\n}\n\n#tribeLogo {\n\theight: 20em;\n}\n\n#quote {\n\tfont-family: werewolf;\n\tcolor: gold;\n}\n"
 
 /***/ }),
 
