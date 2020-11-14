@@ -1,0 +1,619 @@
+[		
+	{
+		"id": 0,
+		"name": "Butch Colcord",
+		"description": "A young, homid, Shadow Lord Ragabash. Grew up with his grandfather outside of Miami and participated in the battles against the Black Spiral Dancers in Florida as a member of the Sept of the Sunrise Birds. Known for routing out hidden enemies of the Nation, and fighting the Wyrm in clever ways. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"butch1.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1VuGN06qn5Bqyo-VasHwQ85GiQgSLd8AsijVIhqxgF0U"
+			},
+			{
+				"title": "Background 2004",
+				"link": "https://docs.google.com/document/d/1G9lQ27B8ocf3FQ70CtG1nbZNgqZcuipqfEd58jBd18A"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "Hvitr Storm",
+		"description": "A young lupus ahroun in the Get of Fenris tribe. Known for his immense strength, strong bite and short temper. Participated in the war for the Everglades against the Wyrm, and secretly fathered a metis child with one of the Black Spiral Dancers there. Has currently left the Garou Nation to raise his child. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "None",
+		"status": "Alive",
+		"images": [
+			"hvitr1.jpg",
+			"hvitr2.png"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1EpI-pJzkySgyS2WR5QS_eSWssd-ekvDVi267A6j3DsY"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Kiera Beshir",
+		"description": "A young homid theurge of the Children of Gaia. Originally from the Sept of the Western Eye in California. She spent the time after her first change fighting against the Wyrm in the Everglades as part of the Sept of the Sunrise Birds. Experienced in dealing with complicated spirit relations. Part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"kiera1.jpg",
+			"kiera2.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://www.facebook.com/events/2127847414131689"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Christopher Hughes",
+		"description": "A young homid ragabash of the Glass Walker tribe. Fought the war against Pentex with the Glass Walkers of Miami. Fascinated by the art of trapmaking and outsmarting enemies with clever tactics. Currently part of the Moontusk pack.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"chris1.jpg",
+			"chris2.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://www.facebook.com/events/2127847414131689"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "No-Name",
+		"description": "A young metis with one arm of the Uktena tribe. Galliard of the Moontusk pack. Took part in the battles against the Wyrm in the Everglades during the year 1999, and told the stories of the Moontusk Pack. He honors his friends highly in his tales and they reflect well upon the pack as a whole. Also has a bit of fear towards Hvitr Storm due to his terrible frenzies.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"noname2.jpg",
+			"noname1.jpg"
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Seeks-In-Darkness",
+		"description": "Deceased as of spring 1999. Former alpha and ritemaster of the Sept of the Sunrise Birds and an old, experienced Uktena Theurge. A lupus who preferred the homid form and embraced his homid side, but with a strong sense of duty to Gaia and the Wyld. He would try to keep the Sept of the Sunrise Birds together despite their enormous differences through the battles against the Wyrm in the Everglades of 1997 - 1999. Gave his life to Gaia in an attempt to create a new Caern in the Everglades. Acted as mentor to the Moontusk pack.",
+		"rank": "Elder",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Dreams-of-the-Horizon",
+		"description": "A dream spirit, shaped like an owl. He only knows the now and the yet to be, not the was. Has the power of prophecy and prophetic dreams. He always wants a map predicting the next congregation of lunes as his chiminage, due to him not knowing the past. When speaking to him, tense should be kept to present and future as to not confuse him with concepts he does not know. He gets on well with the Moontusk pack and has been sending strange prophetic dreams to Kiera Beshir in the past, but he can never recall having done this when confronted with it.",
+		"rank": "Jaggling",
+		"affiliation": "Spirits",
+		"images": [
+			"dreams1.jpg"
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "The Memory Broker",
+		"description": "A spirit of things forgotten. Recides in it's own domain close to the Deep Umbra and hidden from most curious Garou or Mage eyes. Will only show itself if it senses a good opportunity to collect valuable memories, though the way to it's domain can be found if the searchers forget they are looking for it. Will trade information or lost artifacts with Garou in exchange for memories, and will use dirty tactics to extract as many memories as it can from an unsuspecting pack. Hates names, as these help people recall their identities, and will look unfavorably upon introductions. Will always take the shape of something the beholder has forgotten. The Moontusk pack once traded valuable memories with it in exchange for a long lost Grand Klaive, and their own safe passage out of it's domain.",
+		"rank": "Jaggling",
+		"affiliation": "Spirits",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Art Colcord",
+		"description": "The Grandfather of Butch Colcord, and a homid Shadow Lord Galliard, having recently rejoined Garou society after more than a decade in exile. Wields a pair of fetish revolvers that turns all ammo shot into silver bullets and a hat, all passed down from his father, Andrew Colcord. Detests the Black Spiral Dancers due to them killing his son and daughter-in-law. Very protective of his grandson, his last remaining kin, and was even willing to go against Garou tradition and argue with Seeks-In-Darkness, his elder at the time, due to his treatment of Butch. Still has strong connections to the Shadow Lords tribe on the US East Coast.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Andrew Colcord",
+		"description": "The Great Grandfather of Butch Colcord. A Shadow Lord hero active during the Wyld West era and the battles against the Storm Eater. His ancestor spirit met with his great grandson to pass on his gifts to a new generation.",
+		"rank": "Elder",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Thoth-Runs-Alone",
+		"description": "A Silent Strider working to deliver messages between the Septs of North America. As is normal among the Striders, he took a name of remembrance upon the end of his Rite of Passage. As with most striders, he hates vampires and especially the Followers of Set for cursing his tribe and robbing them of their homeland. He knows a large amount of Garou lore from ages past as well as strange rites involving the spectres of the Dark Umbra.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Erik Strongback",
+		"description": "Former Alpha and Ahroun of the Pack of Brilliant Triumph, and member of the Get of Fenris. Settled down with his pack at the Sept of the Sunrise Birds to help them after the catastrophic damage they took at the hands of the Wyrm and became their Wyrm Foe, but could not get along with Runs-Against-The-Storm of the Wolf Fangs pack, and constantly caused tension in the sept. He was an honorable warrior who would fight in homid form whenever possible, and took a great liking to the young Get, Hvitr Storm, whom he had several duels with. Eventually had to yield his position as alpha to the young Fostern and led his pack into battle against the Black Spiral Dancers of Miami where he was killed by Filled-with-love, and his heart fed to the Perfect Metis cub, recently born in the hive.",
+		"rank": "Elder",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Nikola Flame-Claw",
+		"description": "A pure breed Silver Fang philodox of House Wyrmfoe. Has great knowledge of history and Garou lineages and likes to show this off. Used to just be pack alpha in name while Erik Strongback did the real leadership duties, but assumed his proper responsibilities after Erik's demise and took up protection of the Caern of the Blue Flame with the remaining members of his pack. Has great respect for the Silver Fang King, Jonas Albrecht, as well as bearing resentment towards the Moontusk pack and Butch Colcord for running away with the Grand Klaive, Stormbringer, that was his house's heirloom after the war against the Black Spiral Dancer hive in Miami.",
+		"rank": "Elder",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Maria Hopes-For-Change",
+		"description": "As a Galliard and member of the Children of Gaia tribe, Maria hopes to unite the Garou in the fight against the Wyrm and bring an end to the constant internal conflict in the Garou nation. She tried to bring peace between the Pack of Brilliant Triumph and the Wolf Fangs in the Everglades during the events of 1997-1999, but failed in this endeavor. Survived the battles against the Wyrm in Miami and took residence afterwards in the Caern of the Blue Flame with her pack.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "Fionn O’Ceallaigh",
+		"description": "Fionn is the Talesinger of the sept of the Blue Flame and one of the greatest storytellers there. He is a pure-breed Fianna Galliard from Ireland and tries to bring more Fianna traditions to the sept. He is one of the newer members of the Pack of Brilliant Triumph, having joined the pack in 1991. He loves parties and revels and tries to lighten the mood in the sept whenever he can. At times when the atmosphere in the sept gets too heavy, he even goes to the city to party with the Bone Gnawers. He participated in the battle of the Everglades and is on friendly terms with the Moontusk pack.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 15,
+		"name": "Alva Foxtail",
+		"description": "Alva was a sly and cunning Fianna Ragabash of the Pack of Brilliant Triumph. She loved parties, as well as playing tricks on the other members of her pack who eventually grew wise to her, as well as the sept. She often pitted her sept and pack members against each other for fun, and was good enough not to get caught doing it. During the events of the Everglades in 1999, she was one of the few members of the Sept of the Sunrise Birds to actively disrupt Wyrm activity in the region, and the survival of the Caerns in the area is in no small part thanks to her efforts. She died in the final battle against the Black Spiral Dancers on the night of the Red Star.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "Ingrid Truthseer",
+		"description": "Ingrid was a settler of disputes in the Sept of the Sunrise Birds and had a very well trained eye for spotting lies. As a homid Get of Fenris Philodox, she took her position as truthcatcher very seriously and her deed-name proved this devotion. She did not like Erik's constant bickering with Runs-Against-The-Storm, but she also could not stand the Wolf Fangs' hate for homids and humans. She met her end in the final battle against the Black Spiral Dancers during the events in the Everglades of 1999.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "Iron Fist",
+		"description": "Iron Fist was a Stargazer Theurge, as well as an expert practitioner of Kailindo, and one of the sept's most skilled shifters. He also possessed a knowledge of the Umbra that was second only to Seeks-In-Darkness. He did not like the constant conflict in the Sept of the Sunrise Birds and often escaped on journeys to the Umbra to get away. Was seldom at the sept except for during moots. During the final assault on the Black Spiral Dancers, he was killed in the chaos.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "Silent Foot",
+		"description": "A metis Ragabash of the Children of Gaia and the most recent addition to the Pack of Brilliant Triumph. He was a great infiltrator and was often busy gathering information for the Sept of the Sunrise Birds on Wyrm activity in the Everglades. He was one of the only members along with Seeks-In-Darkness to truly understand the crisis of the sept in 1999, but due to his standing as a metis and the pair of goat horns he had protruding from his forehead, he was seldom listened to. He got along well with the Moontusk Pack during 1999, but was unfortunately killed in the final battle against the Black Spiral Dancers.", 
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "Runs-Against-The-Storm",
+		"description": "Completely obstinate Red Talon Lupus and leader of the Wolf Fangs pack. He refuses to ever wear the homid form and wishes to fight back humanity and reclaim the ancient lands of the Garou. If he could choose, he would bring back the Impergium exterminate humanity. He is a bitter old wolf and he absolutely detested Erik Strongback and the hardliner homids of the Pack of Brilliant Triumph. After the battles against the Wyrm in the Everglades during 1999, as the Uktena came in to take back their old Caern, and after the death of the other Wolf Fangs, he left the Everglades behind.", 
+		"rank": "Elder",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 20,
+		"name": "Raven Heart",
+		"description": "Raven Heart was an angry Wendigo lupus who bore a great hatred for the wyrmbringers from Europe. He respected the other Pure Lands tribes as well as the Red Talons. He accepted Seeks-In-Darkness as sept alpha, but disagreed with his acceptance of humans. Met his end fighting the Black Spiral Dancers in the Everglades.", 
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 21,
+		"name": "Dances-In-Moonlight",
+		"description": "Dances-In-Moonlight was a male Black Fury Metis that was accepted into the tribe as an exception to the rule of no males due to being the metis child of a Black Fury. He and White Mane joined the Wolf Fangs pack many years ago in order to care for the wolves in a world that grows increasingly more hostile to wolfkind. He had a strong connection to the spirits and the Umbra, and spends much time in the near umbral realms. He sacrificed himself to bring Hvitr Storm back from the Black Spiral Dancer homelands after Hvitr killed Filled-With-Love during the war against the Black Spiral Dancers in 1999.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 22,
+		"name": "White Mane",
+		"description": "White Mane was a lupus Black Fury Ragabash who joined the Wolf Fangs pack together with Dances-In-Moonlight in order to care for wolfkind. She was quite clever and among the better hunters in the pack. She had great knowledge of the forests and animals of the material world and as such complemented Dances-In-Moonlight. Died during the events of 1999 and the battle of the Everglades.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 23,
+		"name": "Sings-In-The-Valley",
+		"description": "Sings-In-The-Valley was a lupus Galliard of the Red Talons. She usually patroled the borders of the Everglades to make sure no unwelcome intruders entered. She had a slightly more moderate view on homids and humanity than most other lupus in the pack, but she still regretted the regression of the wolves and the growth of the human settlements. She thought the impergium is regrettably necessary to balance nature, but found no joy in humans getting killed. She would enter homid form only when absolutely necessary. Sings-In-The-Valley took her position as Master of the Howl very seriously. She was unfortunately killed during the events of the Everglades in 1999.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 24,
+		"name": "Swaying Willows",
+		"description": "A lupus Philodox of the Children of Gaia. Swaying Willows served as Keeper of the Land and was in charge of the spiritual wellbeing and upkeep of the Caern of the Sunrise Birds and it's surrounding bawn. She disliked the conflict in the sept between the two packs and tried to work with Maria Hopes-For-Change to mend relations unsucsessfully. Swaying Willows died in the Everglades during the events of 1999.", 
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "Wind Fang",
+		"description": "Wind Fang was a female metis philodox born to two lupus Stargazers. Her rank was quite low, but she had a good grasp of the laws of the Garou nation and wanted to someday become truthcatcher or master of the challenge herself. She did not like humanity or the traditions of the homid Garou and especially disliked the Silver Fangs. She was killed in the Everglades in 1999.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "Hunts Last",
+		"description": "Hunts Last was a Wendigo Ahroun born with another name in a native american reservation, but after his first change, he abandoned his past and ended up joining the Wolf Fangs pack. He deeply regrets the damage humanity has done to Gaia and wolfkind, and as such was reluctantly welcomed by Runs-Against-The-Storm and Raven Heart. His new name, Hunts Last, was given to him by the pack to signify his position as a homid in a pack of lupus. He was killed by a hunter in the Everglades during the events of 1999.",
+		"rank": "Fostern",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 27,
+		"name": "David Miller",
+		"description": "David, a homid Glass Walker philodox, was the leader of the Sept of Future Potential of Miami and oversees the defense of the caern as well as the moonbridges. He had close ties to the Wolfson family of Glass Walker-kinfolk running the Wolfsonian University. He was a reasonable man, but quite cold and calculating. He viewed his subordinates as assets or pawns in a chess game and played to win. He temporarily took over as leader of the Gaian forces of the Everglades after Seeks-In-Darkness died, and sacrificed his life to save Christopher Hughes during the final battle against the Dancers.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 28,
+		"name": "Arthur Kills-For-Sport",
+		"description": "Arthur was a homid Shadow Lord Ragabash with black hair and a very well groomed look. He'd been running in a pack with the Glass Walkers in his sept for a long time, and worked with them to combat Vampire and Mage influence in Miami. An expert on leeches, in so far as the Garou are concerned. Always seemed to have several plots going, and was disappointed not to be able to bring down Poe of Poe Enterprises himself. He was often short on manpower due to the other Garou not prioritizing combating the local supernaturals. Had a strong rivalry towards Nikola Flame Claw, the silver fang currently living in the Everglades. During the final battle against the Black Spiral Dancers, Art Colcord and Christopher Hughes infiltrated the Pentex HQ of Miami and learned that Arthur was actually a traitor who had signed away Gaia for power and a position in Pentex. He was eventually killed by Butch Colcord with the Grand Klaive, Stormbringer after the final battle and thus brought to justice by his tribe.",
+		"rank": "Athro",
+		"affiliation": "Pentex",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 29,
+		"name": "William Carter",
+		"description": "A homid Glass Walker Ahroun responsible for the security of the Sept of Future Potential. He had to undergo a large scale cybernetic augmentation process under the direction of Naomi Jaeger after a disastrous encounter with the local Black Spiral Dancers and since had mechanical arms and legs which shapeshifted together with the rest of his body. He is very determined, but prefers not to cause innocent casualties if possible. He had a mixed opinion of his boss, David Miller and his callous regard for human life. He was asassinated by the hunter, Avenger001",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 30,
+		"name": "Naomi Jaeger",
+		"description": "A homid Glass Walker Theurge with black hair, light clothes and always a set of orange mirrorshades fetishes. She is a professional scientist and engineer. Looks to be about mid-30s to early 40s, but is actually in her 60s. Naomi researches and develops Weaver-tech and is particularily a fan of beam blade klaives created by constructing the handle and fusing it with a weaver spirit, as well as other weapons and appliances such as cybernetic augmentations. She is also an accomplished hacker and finds great enjoyment in breaking into protected systems, especially those protected by other supernaturals. She loves to play the song Heavenly Star on full volume. After the events in Miami, she was gifted the spoils of a bank heist by the Moontusk pack of a total value of 100 million dollars. She then left Miami behind and used the money to start the Glass Walker camp named 'Dies Ultimae' to fight against the apocalypse before eventually setting her sights to retake the caern at the Wolfsonian University.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"naomi1.jpg"
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 31,
+		"name": "Slithers-In-Feathers",
+		"description": "A metis Bone Gnawer Theurge. He is the leader of the Bone Gnawers of Miami and has a light-hearted attitude. He picked his name as a stab at Seeks-In-Darkness of the Sept of the Sunrise Birds. A joke which none of the others ever got.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 32,
+		"name": "Simon Belmont",
+		"description": "A homid Bone Gnawer Ahroun. Because of his hatred of the local vampires in Miami, he picked his name from the video game series Castlevania. He wished to eradicate Miami of leeches, but met his end in 1999 fighting against the forces of the Wyrm.",
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 33,
+		"name": "This-Side-Up",
+		"description": "A lupus Bone Gnawer Theurge. He picked his name from the box he was found in as a young cub after his First Change. He was close to Gaia, even though he lived his life scavenging in the city with the other Bone Gnawers, and often ventured into the Umbra. He was killed in the final battle against the Black Spiral Dancers in 1999, Miami.",
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 34,
+		"name": "Cathy 'Seduces-The-Leech' Morgan",
+		"description": "A homid Bone Gnawer Galliard who got her name due to once having seduced a vampire into falling for her. She Grew up poor on the street selling bottles and cans for a pittance in order to survive day by day. Later moved in with a Gnawer kinfolk family in homestead and helped them in their restaurant business. Currently still spends a lot of time at her job there, while doing her duties for the Sept. She lived through the final battle of 1999 in Miami.",
+		"rank": "Adren",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 35,
+		"name": "Howard Burke",
+		"description": "Local head of Pentex - Florida in the year of 1999. An ambitious and ruthless man, and a great servant to the Wyrm, he had his eyes set on the Board of Directors at Pentex. Was responsible for development of the War Wolves-project on a local level and tried to recapture the escaped subjects throughout the year 1999. Was held responsible for a loss of a hundred million dollars in a bank heist and eventually committed suicide, leaving behind two young daughters.",
+		"rank": "General Manager",
+		"affiliation": "Pentex",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 36,
+		"name": "Filled-With-Love",
+		"description": "Former leader of the Black Spiral Dancers in Florida, and a Metis herself, together with her sisters 'Kills-The-Weak' and 'No-Soul'. 'Filled-With-Love' was constantly filled with lust towards other Garou, forcing her to break the litany countless times. She would search out the strongest Garou she could find and try to force herself on them in any way she could. Even though she is a metis, she somehow gave birth to another metis during the events of 1999, leading some to suspect this cub to be the Perfect Metis of prophecy. She was eventually killed in the Black Spiral Dancers' homeland by the Get of Fenris Ahroun, Hvitr Storm.",
+		"rank": "Elder",
+		"affiliation": "Black Spiral Dancers",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 37,
+		"name": "Pete 'Avenger001' Castello",
+		"description": "A professional soldier-turned-Werewolfhunter from Miami after an incident where a frenzied Werewolf got his family killed in the street during the day. This Werewolf was seen carrying several boxes of pizza. He eventually tracked down and attempted several times to kill the Werewolf, but eventually ended up blowing himself up in an attempt to take his foe with him. Thus adding another casualty to the list of fatalities on Hunter-Net.",
+		"rank": "Avengers",
+		"affiliation": "Imbued",
+		"status": "Dead",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 38,
+		"name": "Henry O'Connor",
+		"description": "A vampire working out of Miami running several businesses to sustain his unlife. Attempted to prey on Kiera Beshir and turn her into his servant, but was outsmarted and forced into aiding the Moontusk Pack.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+			"henry1.png"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1WC3A2OD49bDuu58fUbfrwsNHtR2R7dmH1NTOUDnVW_Q"
+			}
+		]
+	},
+	{
+		"id": 39,
+		"name": "Travis Pilgrim",
+		"description": "A young and hotheaded vampire with a strong bloodlust. Loves fighting strong opponents and once took on two Garou at the same time, barely escaping the battle, but leaving both Garou heavily wounded.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+			"travis1.jpg"
+		],
+		"stories": [
+			{
+				"title": "Background",
+				"link": "https://docs.google.com/document/d/1MRwBvsmtgLcXM-ZIj9UeD54TpGXnis9hp6vyN_6LZ1k"
+			}
+		]
+	},
+	{
+		"id": 40,
+		"name": "Rosalie Grey",
+		"description": "A young vampire in charge of the club 'No Mercy' in Miami. This club has been a hub of supernatural activity ever since it was founded, and been completely trashed at least once.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 41,
+		"name": "John Franklin",
+		"description": "A young vampire in Miami who prefers to keep a low profile and keep to himself when it comes to other supernaturals, but whose genius has also helped protect his clan against attacks by the Garou.",
+		"rank": "Neonate",
+		"affiliation": "Camarilla",
+		"status": "Active",
+		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	}
+]
+
+
