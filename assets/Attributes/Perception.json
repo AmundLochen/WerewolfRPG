@@ -1,0 +1,12 @@
+{
+	"name": "Perception",
+	"description": "Perception measures the character’s sensitivity to her surroundings. It’s a combination of actively monitoring the area around her while also relying on instincts and gut feeling. Perception doesn’t normally involve intense concentration; it’s more like a certain sensitivity to what’s going on in the immediate vicinity.<br><br> Perception comes in handy when characters search for clues, maintain alertness for ambushes or seek hidden knowledge. Many lupus have high Perception, as they’re used to synthesizing information from all of their senses. Characters who are cynical or jaded don’t rely on their Perception as much as they should.",
+	"levels": {
+		"one": "You wouldn’t notice the Wyrm itself in front of you — Watch out! Car!",
+		"two": "You get the general idea when trouble brews, but the details can elude you.",
+		"three": "You know the general feeling of a room when you walk in, and you’re rarely surprised.",
+		"four": "You notice just about everything, even when one of your senses is dulled.",
+		"five": "You didn’t need to look to see that click beetle painted with the Magadon logo in the neighbor’s potted plant."
+	},
+	"specialties": ["Eyes in the Back of Your Head", "Farsighted", "Uncanny Instincts", "Details-Oriented"]
+}

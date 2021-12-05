@@ -1,0 +1,14 @@
+{
+	"id": 9,
+	"name": "Subterfuge",
+	"description": "Subterfuge involves hiding your motives and projecting something else on top of that. If you can figure out what someone else wants, you can twist that to your best advantage. This Trait defines your talent for intrigue, double-dealing, con artistry, and just plain lying to people.<br><br> Characters with high Subterfuge are masters of finding people who want something for nothing and giving them nothing for something, knowing precisely what to say to further their own goals.",
+	"levels": {
+		"one": "You can pass a white lie as the truth.",
+		"two": "You could be a pickup artist.",
+		"three": "You can get hardened criminals declared “Not Guilty.”",
+		"four": "You could be a very successful grifter or double-agent.",
+		"five": "They’ll never know it was you."
+	},
+	"possessedBy": "Lawyers, Con Artists, Vampires, Politicians, Uktena",
+	"specialties": "White Lies, Seduction, The Long Con, Feigned Innocence"
+}

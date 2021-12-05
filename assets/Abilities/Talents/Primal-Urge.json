@@ -1,0 +1,14 @@
+{
+	"id": 7,
+	"name": "Primal-Urge",
+	"description": "This Talent describes a character’s connection to her bestial nature, and her level of gut feelings in her various non-human forms. A character with high Primal-Urge relies not just on her heightened instincts, but a whole range of sensory information that humans don’t fully understand.<br><br> Her understanding of her feral nature gives her an easier time when changing form, and can let her instinctively notice signs of supernatural activity — though this rarely goes beyond the level of a chill down the spine or the hairs on her neck standing on end.",
+	"levels": {
+		"one": "Merely a pup. The urge is there, but hasn’t been honed.",
+		"two": "Your instincts put you on a safe path through danger.",
+		"three": "You know when something weird is going on, and have an easy time taking the right shape to deal with it.",
+		"four": "The wolf within drives you to act, and its guidance is never wrong.",
+		"five": "You have an innate understanding of what it means to be Garou: a synthesis of man, wolf, and spirit created to be Gaia’s warrior."
+	},
+	"possessedBy": "Lupus, Wild Animals, Predators",
+	"specialties": "Shifting Forms, Hunting, Hunches, Reacting"
+}

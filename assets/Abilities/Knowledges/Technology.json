@@ -1,0 +1,14 @@
+{
+	"id": 9,
+	"name": "Technology",
+	"description": "The Technology Knowledge represents a character’s broad aptitude with electronics, computer hardware, and the anything that needs an understanding of modern electronics to work with — mechanical devices fall under the Crafts Skill. If it has a processor, some transistors, or an integrated circuit — if it’s electronic rather than electrical — manipulating it falls under Technology.<br><br> A character can use Technology to build a computer, crack a security system, repair a cellphone, or hack together a shortwave radio. A player must always choose a specialty in Technology, even when her character has less than four dots in the Skill.",
+	"levels": {
+		"one": "You can perform simple repairs and modifications.",
+		"two": "You can make a living in computer repair.",
+		"three": "You can design new equipment to achieve a specific objective.",
+		"four": "Given a penknife and a soldering iron, the world’s your oyster.",
+		"five": "You’re going to revolutionize the world with one of your inventions — or you already have."
+	},
+	"possessedBy": "Engineers, Scientists, Defense Contractors, Glass Walkers, The Cable Guy",
+	"specialties": "Telecoms, Computers, Security, Communications, Jury-Rigging, Industrial Espionage"
+}
