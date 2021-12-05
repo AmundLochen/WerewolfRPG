@@ -7,7 +7,8 @@
 		"affiliation": "Garou Nation",
 		"status": "Alive",
 		"images": [
-			"butch1.jpg"
+			"butch1.jpg",
+			"butch2004.jpg"
 		],
 		"stories": [
 			{
@@ -15,8 +16,8 @@
 				"link": "https://docs.google.com/document/d/1VuGN06qn5Bqyo-VasHwQ85GiQgSLd8AsijVIhqxgF0U"
 			},
 			{
-				"title": "Background 2004",
-				"link": "https://docs.google.com/document/d/1G9lQ27B8ocf3FQ70CtG1nbZNgqZcuipqfEd58jBd18A"
+				"title": "Butch's Diary 1999-2004",
+				"link": "https://l.facebook.com/l.php?u=https%3A%2F%2Ffiles.catbox.moe%2F2hamo4.pdf%3Ffbclid%3DIwAR19epCt_qMbhnYkojB2NNNJCh3V0kmDVChq9kveIfSe1nbtpYjiArQaOcM&h=AT2jKv4BjozW_uT7GvZnywbjOOjfWwQ9SYOBsJWZkWI6OxMJ9PCDLg-CxRYEo9i1qN0DQH41BltBYVsIPREc5THbC1YbiOqvnPfUCRfXVz1KDIzPaCP2rjJyhUXu&__tn__=-UK-R&c[0]=AT0zuRW2rBrtBDQDNRhW9_6HEf1MEx4xDskEjq2HfVTP4faZkFRi17B2a_38pqvXsrV4KtZd0AF5ZjYqccCmKOEjrLpGy6jeSpe8ccFlHGkcOKr5_Gi7xY62_xuSUEGaVoHFkJrY9dJHyQ"
 			}
 		]
 	},
@@ -29,11 +30,16 @@
 		"status": "Alive",
 		"images": [
 			"hvitr1.jpg",
-			"hvitr2.png"
+			"hvitr2.png",
+			"hvitr2004"
 		],
 		"stories": [
 			{
 				"title": "Background",
+				"link": "https://docs.google.com/document/d/1EpI-pJzkySgyS2WR5QS_eSWssd-ekvDVi267A6j3DsY"
+			},
+			{
+				"title": "Hvitr's Kvad 1999-2004",
 				"link": "https://docs.google.com/document/d/1EpI-pJzkySgyS2WR5QS_eSWssd-ekvDVi267A6j3DsY"
 			}
 		]
@@ -47,12 +53,17 @@
 		"status": "Alive",
 		"images": [
 			"kiera1.jpg",
-			"kiera2.jpg"
+			"kiera2.jpg",
+			"kiera2004.png"
 		],
 		"stories": [
 			{
 				"title": "Background",
 				"link": "https://www.facebook.com/events/2127847414131689"
+			},
+			{
+				"title": "Kiera's Pilgrimage 1999-2004",
+				"link": "https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1X5ounsLhAl8FdjyeErNf6J8ldll18c4W36ah0HZcvUc%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR25i-Chm25UmBLLxkvNxwADqkZQnPu2o82pfsOH1nuSRAcnfoZXZx8BdxA&h=AT2QkDX2Dg2Urd0c7wKFQdG3DGLiw4SA9EwEvs8r_jR3dNe4GDOdoUl4ap6SyCbshBZTA_IF33dowgJu50hHqxs5V0HZhrFz1qCqtcJPl79rKWI5eieSdHKxrY2g&__tn__=-UK-R&c[0]=AT31Pe2TwYkff83unR_iottdFEepCr66tzw0yZ3wvBMk7t__QLvHGx7VCGsQKh4dYbjDVt5YcYWwBqnH9cyOVmCgq7uLiTie5kd9XnXsb0kKzWrOVMVx98Uqqg78M2QMrptpfvNetz5JLQ"
 			}
 		]
 	},
@@ -71,6 +82,10 @@
 			{
 				"title": "Background",
 				"link": "https://www.facebook.com/events/2127847414131689"
+			},
+			{
+				"title": "Christopher's Portfolio 1999-2004",
+				"link": "https://www.facebook.com/events/1874472152690893"
 			}
 		]
 	},
@@ -137,7 +152,7 @@
 		"description": "The Grandfather of Butch Colcord, and a homid Shadow Lord Galliard, having recently rejoined Garou society after more than a decade in exile. Wields a pair of fetish revolvers that turns all ammo shot into silver bullets and a hat, all passed down from his father, Andrew Colcord. Detests the Black Spiral Dancers due to them killing his son and daughter-in-law. Very protective of his grandson, his last remaining kin, and was even willing to go against Garou tradition and argue with Seeks-In-Darkness, his elder at the time, due to his treatment of Butch. Still has strong connections to the Shadow Lords tribe on the US East Coast.",
 		"rank": "Athro",
 		"affiliation": "Garou Nation",
-		"status": "Alive",
+		"status": "Dead",
 		"images": [
 		],
 		"stories": [
@@ -608,6 +623,21 @@
 		"affiliation": "Camarilla",
 		"status": "Active",
 		"images": [
+		],
+		"stories": [
+			{
+			}
+		]
+	},
+	{
+		"id": 42,
+		"name": "Celeste Snowtop",
+		"description": "An old Child of Gaia leading the sept of the Western Eye. Among the Children of Gaia in the sept, she holds the title voice of the goddess. She's lived in San Francisco and the Bay Area her entire life and inherited the leadership of the Caern from her uncle Duncan Evenhand. She is currently searching for someone to replace her as sept leader.",
+		"rank": "Athro",
+		"affiliation": "Garou Nation",
+		"status": "Alive",
+		"images": [
+			"celeste.png"
 		],
 		"stories": [
 			{
